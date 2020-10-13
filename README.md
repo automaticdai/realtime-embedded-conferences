@@ -14,36 +14,36 @@ Some of the deadlines are in local time, so please be aware of the timezone when
 
 ## > Real-time Systems Conferences
 
-| Name                                          | Submission Deadline ▼ | Where                     | When            | Remarks                                    |
-| --------------------------------------------- | --------------------- | :------------------------ | --------------- | ------------------------------------------ |
-| [RTSS 2020](http://2020.rtss.org/)            | ~~2020-07-02~~        | Virtual                   | Dec 1-4, 2020   |                                            |
-| [RTAS 2021](http://2021.rtas.org/)            | 2020-10-26            | Nashville, Tennessee, USA | May 18-21, 2021 |                                            |
-| [RTNS 2021](https://rtns2021.univ-nantes.fr/) | 2020-11-27            | Nantes, France            | April 7-9, 2021 | May go virtual due to COVID-19.            |
-| RTCSA 2021                                    | 2021-04-14 (est.)     | (TBA)                     | (TBA)           |                                            |
-| ICESS 2021                                    | (TBA)                 | (TBA)                     | (TBA)           |                                            |
-| WATERS 2021                                   | (TBA)                 | (TBA)                     | (TBA)           | WATERS 2020 was cancelled due to COVID-19. |
-| ~~[ECRTS 2020](https://www.ecrts.org/)~~      | ~~2020-02-06~~        | Modena, Italy             | July 7-10, 2020 | Went to virtual due to COVID-19.           |
-| ~~WCET 2020~~                                 | ~~2020-04-16~~        | Virtual                   | July 7-10, 2020 | Held with ECRTS 2020.                      |
+| Name                                          | Deadline          | Where                     | When            | Remarks                                    |
+| --------------------------------------------- | ----------------- | :------------------------ | --------------- | ------------------------------------------ |
+| [RTSS 2020](http://2020.rtss.org/)            | ~~2020-07-02~~    | Virtual                   | Dec 1-4, 2020   |                                            |
+| [RTAS 2021](http://2021.rtas.org/)            | 2020-10-26        | Nashville, Tennessee, USA | May 18-21, 2021 |                                            |
+| [RTNS 2021](https://rtns2021.univ-nantes.fr/) | 2020-11-27        | Nantes, France            | April 7-9, 2021 | May go virtual due to COVID-19.            |
+| RTCSA 2021                                    | 2021-04-14 (est.) | (TBA)                     | (TBA)           |                                            |
+| ICESS 2021                                    | (TBA)             | (TBA)                     | (TBA)           |                                            |
+| WATERS 2021                                   | (TBA)             | (TBA)                     | (TBA)           | WATERS 2020 was cancelled due to COVID-19. |
+| ~~[ECRTS 2020](https://www.ecrts.org/)~~      | ~~2020-02-06~~    | Modena, Italy             | July 7-10, 2020 | Went to virtual due to COVID-19.           |
+| ~~WCET 2020~~                                 | ~~2020-04-16~~    | Virtual                   | July 7-10, 2020 | Held with ECRTS 2020.                      |
 
 ## > Design Automation Conferences
 
-| Name                                               | Submission Deadline ▼ | Where                  | When               | Remarks                   |
-| -------------------------------------------------- | --------------------- | ---------------------- | ------------------ | ------------------------- |
-| ICCAD 2020                                         | ~~2020-05-28~~        | Virtual                | November 2-5, 2020 |                           |
-| [DATE 2021](https://www.date-conference.com/)      | ~~2020-09-21~~        | Grenoble, France       | February 1-5, 2021 | Abstract deadline: Sep 14 |
-| [DAC 2021](https://dac.com/call-for-contributions) | 2020-11-16            | San Francisco, CA, USA | July 11-15, 2021   |                           |
-| ESWEEK 2021                                        | 2021-04-17 (est.)     | (TBA)                  | (TBA)              |                           |
-| LCTES 2021                                         | (TBA)                 | (TBA)                  | (TBA)              |                           |
-| DSD 2021                                           | (TBA)                 | (TBA)                  | (TBA)              |                           |
+| Name                                               | Deadline          | Where                  | When               | Remarks                   |
+| -------------------------------------------------- | ----------------- | ---------------------- | ------------------ | ------------------------- |
+| ICCAD 2020                                         | ~~2020-05-28~~    | Virtual                | November 2-5, 2020 |                           |
+| [DATE 2021](https://www.date-conference.com/)      | ~~2020-09-21~~    | Grenoble, France       | February 1-5, 2021 | Abstract deadline: Sep 14 |
+| [DAC 2021](https://dac.com/call-for-contributions) | 2020-11-16        | San Francisco, CA, USA | July 11-15, 2021   |                           |
+| ESWEEK 2021                                        | 2021-04-17 (est.) | (TBA)                  | (TBA)              |                           |
+| LCTES 2021                                         | (TBA)             | (TBA)                  | (TBA)              |                           |
+| DSD 2021                                           | (TBA)             | (TBA)                  | (TBA)              |                           |
 
 ## > Robotics Conferences
 
-| Name                                                         | Submission Deadline ▼ | Where                  | When                  | Remarks |
-| ------------------------------------------------------------ | --------------------- | ---------------------- | --------------------- | ------- |
-| [IROS 2020](https://www.iros2020.org/index.html)             | ~~2020-03-01~~        | Las Vegas, USA         | Oct 24-30, 2020       |         |
-| [ICRA 2021](http://www.icra2021.org/)                        | 2020-10-31            | Xi'an, China           | May 30 - June 5, 2021 |         |
-| IROS 2021                                                    | 2021-03-01 (est.)     | Prague, Czech Republic | Sep 27 - Oct 1, 2021  |         |
-| ~~[TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx)~~ | ~~2020-03-07~~        | Nottingham, UK         | Sep 16, 2020          |         |
+| Name                                                         | Deadline          | Where                  | When                  | Remarks |
+| ------------------------------------------------------------ | ----------------- | ---------------------- | --------------------- | ------- |
+| [IROS 2020](https://www.iros2020.org/index.html)             | ~~2020-03-01~~    | Las Vegas, USA         | Oct 24-30, 2020       |         |
+| [ICRA 2021](http://www.icra2021.org/)                        | 2020-10-31        | Xi'an, China           | May 30 - June 5, 2021 |         |
+| IROS 2021                                                    | 2021-03-01 (est.) | Prague, Czech Republic | Sep 27 - Oct 1, 2021  |         |
+| ~~[TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx)~~ | ~~2020-03-07~~    | Nottingham, UK         | Sep 16, 2020          |         |
 
 
 
