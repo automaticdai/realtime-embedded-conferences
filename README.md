@@ -1,7 +1,5 @@
 # Real-Time Systems (and related) Conferences Tracking
-![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences)  
-![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences)  
-![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
+![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/issues/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
 
 Track the most influenced conferences in real-time systems, embedded systems, design automation and robotics. This list is updated in a weekly base and is ordered by deadlines. To update the list, either: (1) create a git pull request; (2) commit an issue.
 
