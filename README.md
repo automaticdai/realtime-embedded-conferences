@@ -1,5 +1,5 @@
 # Real-Time Systems (and related) Conferences Tracking
-[/github/stars/micromatch/micromatch](https://badgen.net/github/stars/micromatch/micromatch)
+![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences) ![](https://badgen.net/github/commits/automaticdai/realtime-embedded-conferences) ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
 
 This list is updated in a weekly base. To update the list, either: (1) create a git pull request; (2) commit an issue.
 
