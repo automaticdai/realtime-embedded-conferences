@@ -31,7 +31,7 @@ Some of the deadlines are in local time, so please be aware of the timezone when
 | -------------------------------------------------- | ----------------- | ---------------------- | ------------------ | ------------------------- |
 | ICCAD 2020                                         | ~~2020-05-28~~    | Virtual                | November 2-5, 2020 |                           |
 | [DATE 2021](https://www.date-conference.com/)      | ~~2020-09-21~~    | Grenoble, France       | February 1-5, 2021 | Abstract deadline: Sep 14 |
-| [DAC 2021](https://dac.com/call-for-contributions) | 2020-11-16        | San Francisco, CA, USA | July 11-15, 2021   |                           |
+| [DAC 2021](https://dac.com/call-for-contributions) | 2020-11-23        | San Francisco, CA, USA | July 11-15, 2021   | Abstract deadline: Oct 16                          |
 | ESWEEK 2021                                        | 2021-04-17 (est.) | (TBA)                  | (TBA)              |                           |
 | LCTES 2021                                         | (TBA)             | (TBA)                  | (TBA)              |                           |
 | DSD 2021                                           | (TBA)             | (TBA)                  | (TBA)              |                           |
