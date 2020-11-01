@@ -30,6 +30,8 @@ Some of the deadlines are in local time, so please be aware of the timezone when
 | ~~WCET 2020~~                                         | ~~2020-04-16~~    | Virtual                   | July 7-10, 2020 | Held with ECRTS 2020.                      |
 | ~~WATERS 2020~~                                       | ~~N/A~~           | N/A                       | N/A             | WATERS 2020 was cancelled due to COVID-19. |
 
+---
+
 ## Design Automation Conferences
 
 | Name                                               | Deadline          | Where                  | When               | Remarks                   |
@@ -42,6 +44,8 @@ Some of the deadlines are in local time, so please be aware of the timezone when
 | [ICCAD 2020](https://iccad.com/)                   | ~~2020-05-28~~    | Virtual                | November 2-5, 2020 |                           |
 | [DATE 2021](https://www.date-conference.com/)      | ~~2020-09-21~~    | Grenoble, France       | February 1-5, 2021 | Abstract deadline: Sep 14 |
 
+---
+
 ## Robotics Conferences
 
 | Name                                                         | Deadline          | Where                  | When                  | Remarks                                |
@@ -53,7 +57,7 @@ Some of the deadlines are in local time, so please be aware of the timezone when
 | -                                                            |                   |                        |                       |                                        |
 | ~~[TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx)~~ | ~~2020-03-07~~    | Nottingham, UK         | Sep 16, 2020          |                                        |
 
-* * *
+---
 
 **Notations:**
 
@@ -61,3 +65,5 @@ Some of the deadlines are in local time, so please be aware of the timezone when
 -   ~~deadline~~ means the deadline has passed;
 -   (TBA) means the information is not yet announced;
 -   est. means the deadline is estimated based on previous years.
+
+---
