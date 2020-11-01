@@ -3,8 +3,10 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (min-width: 64em) {
-  .main_content {
+section {
   max-width: 1200px;
 }
+
+.wrapper {
+  max-width: 1200px;
 }
