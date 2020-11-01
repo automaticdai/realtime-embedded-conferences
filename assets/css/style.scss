@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (min-width: 64em) .main_content {
+@media screen and (min-width: 64em) {
+  .main_content {
   max-width: 1200px;
+}
 }
