@@ -16,7 +16,7 @@ Track the most influenced conferences in _real-time_ / _embedded systems_, _desi
 | ------------------------------------------------------------ | ----------------- | :--------------------------- | ---------------------- | ------------------------------------------------- |
 | [DAC 2021](https://dac.com/call-for-contributions)           | 2020-11-23        | San Francisco, CA, USA       | July 11-15, 2021       | Abstract deadline: Nov 16                         |
 | [RTNS 2021](https://rtns2021.univ-nantes.fr/)                | 2020-11-27        | Nantes, France               | April 7-9, 2021        | May go virtual due to COVID-19.                   |
-| [Ada-Europe 2021](http://www.ada-europe.org/confs/ae)        | 2021-01-28 (est.) | Santander, Spain             | June 7-11, 2021        |                                                   |
+| [Ada-Europe 2021](https://www.istr.unican.es/ae2021/)        | 2021-01-07        | Santander, Spain             | June 7-11, 2021        |                                                   |
 | ECRTS 2021                                                   | 2021-02-06 (est.) | (TBA)                        | (TBA)                  |                                                   |
 | [IROS 2021](http://www.iros2021.org/)                        | 2021-03-01 (est.) | Prague, Czech Republic       | Sep 27 - Oct 1, 2021   |                                                   |
 | RTCSA 2021                                                   | 2021-04-14 (est.) | (TBA)                        | (TBA)                  |                                                   |
