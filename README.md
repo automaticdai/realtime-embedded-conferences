@@ -26,7 +26,7 @@ If you like this project, you can [star this repository on GitHub](https://githu
 | RTCSA 2021                                                   | 2021-04-14 (est.) | (TBA)                        | (TBA)                  |                                                              |
 | [EMSOFT 2021](https://esweek.org/emsoft/)                    | 2021-04-17 (est.) | (TBA)                        | (TBA)                  |                                                              |
 | CASES 2021                                                   | (TBA)             | (TBA)                        | (TBA)                  |                                                              |
-| CODES+ISSS                                                   | (TBA)             | (TBA)                        | (TBA)                  |                                                              |
+| CODES+ISSS 2021                                              | (TBA)             | (TBA)                        | (TBA)                  |                                                              |
 | DSD 2021                                                     | 2021-05-10 (est.) | (TBA)                        | (TBA)                  |                                                              |
 | ICESS 2021                                                   | 2021-07-26 (est.) | (TBA)                        | (TBA)                  |                                                              |
 | LCTES 2021                                                   | (TBA)             | (TBA)                        | (TBA)                  |                                                              |
