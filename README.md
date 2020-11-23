@@ -23,6 +23,7 @@ If you like this project, you can [star this repository on GitHub](https://githu
 | WCET 2021                                                    | (TBA)             | (TBA)                        | (TBA)                  | Last WCET (2020) was cancelled due to COVID-19.              |
 | WATERS 2021                                                  | (TBA)             | (TBA)                        | (TBA)                  | Last WATERS (2020) was cancelled due to COVID-19.            |
 | [IROS 2021](http://www.iros2021.org/)                        | 2021-03-01        | Prague, Czech Republic       | Sep 27 - Oct 1, 2021   | Notification of acceptance: February 10, 2021                |
+| [RSS 2021](https://roboticsconference.org/)                  | 2021-03-01        | Virtual                      | July 12-16, 2021       | Paper Acceptance Notification: May 10th, 2021                |
 | RTCSA 2021                                                   | 2021-04-14 (est.) | (TBA)                        | (TBA)                  |                                                              |
 | [EMSOFT 2021](https://esweek.org/emsoft/)                    | 2021-04-17 (est.) | (TBA)                        | (TBA)                  |                                                              |
 | CASES 2021                                                   | (TBA)             | (TBA)                        | (TBA)                  |                                                              |
