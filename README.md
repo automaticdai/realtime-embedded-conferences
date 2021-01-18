@@ -27,7 +27,7 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 | CASES 2021                                               | ╚                 | ╚                         | (TBA)                 |                                                              |
 | CODES+ISSS 2021                                          | ╚                 | ╚                         | (TBA)                 |                                                              |
 | DSD 2021                                                 | 2021-05-10 (est.) | (TBA)                     | (TBA)                 |                                                              |
-| RTSS 2021                                                | 2020-05-15 (est.) | (TBA)                     | (TBA)                 |                                                              |
+| [RTSS 2021](http://2021.rtss.org/)                       | 2020-05-27        | (TBA)                     | Dec 7-10, 2021        | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
 | WMC 2021                                                 | ╚                 | ╚                         | (TBA)                 | Workshop on Mixed-Criticality Systems. Together with RTSS.   |
 | ICESS 2021                                               | 2021-07-26 (est.) | (TBA)                     | (TBA)                 |                                                              |
 | -- *dl passed & upcoming:*                               | ---               | ---                       | ---                   | ---                                                          |
