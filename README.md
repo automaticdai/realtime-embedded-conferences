@@ -35,8 +35,8 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 | [RTNS 2021](https://rtns2021.univ-nantes.fr/)            | ~~2020-12-07~~    | Nantes, France            | April 7-9, 2021       | May go virtual due to COVID-19.<br />Notification of acceptance: January 30, 2021 |
 | [RTAS 2021](http://2021.rtas.org/)                       | ~~2020-10-26~~    | Nashville, Tennessee, USA | May 18-21, 2021       |                                                              |
 | [ICRA 2021](http://www.icra2021.org/)                    | ~~2020-10-31~~    | Xi'an, China              | May 30 - June 5, 2021 |                                                              |
-| [DAC 2021](https://dac.com/call-for-contributions)       | ~~2020-11-23~~    | San Francisco, CA, USA    | July 11-15, 2021      | Abstract deadline: Nov 16, 2021                              |
 | [Ada-Europe 2021](https://www.istr.unican.es/ae2021/)    | ~~2021-01-14~~    | Santander, Spain          | June 7-11, 2021       |                                                              |
+| [DAC 2021](https://dac.com/call-for-contributions)       | ~~2020-11-23~~    | San Francisco, CA, USA    | July 11-15, 2021      | Abstract deadline: Nov 16, 2021                              |
 
 
 ---
