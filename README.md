@@ -27,8 +27,8 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 | CASES 2021                                               | ╚                 | ╚                         | (TBA)                 |                                                              |
 | CODES+ISSS 2021                                          | ╚                 | ╚                         | (TBA)                 |                                                              |
 | DSD 2021                                                 | 2021-05-10 (est.) | (TBA)                     | (TBA)                 |                                                              |
-| [TAROS 2021](https://lcas.lincoln.ac.uk/wp/taros-2021/)  | 2021-05-14        |                           | September 8-10, 2021  | Author Notification: July 1, 2021                            |
-| [RTSS 2021](http://2021.rtss.org/)                       | 2020-05-27        | (TBA)                     | Dec 7-10, 2021        | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
+| [TAROS 2021](https://lcas.lincoln.ac.uk/wp/taros-2021/)  | 2021-05-14        | (TBA)                     | September 8-10, 2021  | Author Notification: July 1, 2021                            |
+| [RTSS 2021](http://2021.rtss.org/)                       | 2021-05-27        | Taipei, Taiwan            | Dec 7-10, 2021        | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
 | WMC 2021                                                 | ╚                 | ╚                         | (TBA)                 | Workshop on Mixed-Criticality Systems. Together with RTSS.   |
 | [ICCAD 2021](https://iccad.com/)                         | 2021-05-28        | (TBA)                     | (TBA)                 | Abstract deadline: Friday, May 21, 2021                      |
 | ICESS 2021                                               | 2021-07-26 (est.) | (TBA)                     | (TBA)                 |                                                              |
