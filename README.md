@@ -22,6 +22,7 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 | WATERS 2021                                              | ╚                 | ╚                         | (TBA)                 | Last WATERS (2020) was cancelled due to COVID-19. Together with ECRTS. |
 | [IROS 2021](http://www.iros2021.org/)                    | 2021-03-05        | Prague, Czech Republic    | Sep 27 - Oct 1, 2021  |                                                              |
 | [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021) | 2021-03-08        | Virtual                   | June 20-25, 2021      | Notification of acceptance: Apr 9, 2021                      |
+| RO-MAN 2021                                              | 2021-03-21        | (TBA)                     | August 8 - 12, 2021   | Notification of Acceptance: May 25, 2021                     |
 | RTCSA 2021                                               | 2021-03-31        | Virtual                   | Aug 18-20, 2021       | Acceptance Notification: May 20, 2021                        |
 | [EMSOFT 2021](https://esweek.org/emsoft/)                | 2021-04-17 (est.) | (TBA)                     | (TBA)                 |                                                              |
 | CASES 2021                                               | ╚                 | ╚                         | (TBA)                 |                                                              |
