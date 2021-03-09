@@ -18,9 +18,9 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 | -------------------------------------------------------- | ----------------- | :------------------------ | --------------------- | ------------------------------------------------------------ |
 | RO-MAN 2021                                              | 2021-03-21        | (TBA)                     | August 8 - 12, 2021   | Notification of Acceptance: May 25, 2021                     |
 | RTCSA 2021                                               | 2021-03-31        | Virtual                   | Aug 18-20, 2021       | Acceptance Notification: May 20, 2021                        |
-| [EMSOFT 2021](https://esweek.org/emsoft/)                | 2021-04-17 (est.) | (TBA)                     | (TBA)                 |                                                              |
-| CASES 2021                                               | ╚                 | ╚                         | (TBA)                 |                                                              |
-| CODES+ISSS 2021                                          | ╚                 | ╚                         | (TBA)                 |                                                              |
+| [EMSOFT 2021](https://esweek.org/emsoft/)                | 2021-04-09        | (TBA)                     | October 10-15, 2021   | Abstract deadline: April 2, 2021; Part of the ESWEEK.        |
+| CASES 2021                                               | ╚                 | ╚                         | (TBA)                 | Part of the ESWEEK.                                          |
+| CODES+ISSS 2021                                          | ╚                 | ╚                         | (TBA)                 | Part of the ESWEEK.                                          |
 | DSD 2021                                                 | 2021-05-10 (est.) | (TBA)                     | (TBA)                 |                                                              |
 | [TAROS 2021](https://lcas.lincoln.ac.uk/wp/taros-2021/)  | 2021-05-14        | (TBA)                     | September 8-10, 2021  | Author Notification: July 1, 2021                            |
 | [RTSS 2021](http://2021.rtss.org/)                       | 2021-05-27        | Taipei, Taiwan            | Dec 7-10, 2021        | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
