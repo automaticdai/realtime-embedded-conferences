@@ -16,9 +16,9 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 
 | Name                                                     | Deadline          | Where                     | When                  | Remarks                                                      |
 | -------------------------------------------------------- | ----------------- | :------------------------ | --------------------- | ------------------------------------------------------------ |
-| RO-MAN 2021                                              | 2021-03-21        | (TBA)                     | August 8 - 12, 2021   | Notification of Acceptance: May 25, 2021                     |
+| [RO-MAN 2021](https://ro-man2021.org/)                   | 2021-03-21        | Virtual                   | August 8 - 12, 2021   | Notification of Acceptance: May 25, 2021                     |
 | RTCSA 2021                                               | 2021-03-31        | Virtual                   | Aug 18-20, 2021       | Acceptance Notification: May 20, 2021                        |
-| [EMSOFT 2021](https://esweek.org/emsoft/)                | 2021-04-09        | (TBA)                     | October 10-15, 2021   | Abstract deadline: April 2, 2021; Part of the ESWEEK.        |
+| [EMSOFT 2021](https://esweek.org/emsoft/)                | 2021-04-09        | Virtual                   | October 10-15, 2021   | Abstract deadline: April 2, 2021; Part of the ESWEEK.        |
 | CASES 2021                                               | ╚                 | ╚                         | (TBA)                 | Part of the ESWEEK.                                          |
 | CODES+ISSS 2021                                          | ╚                 | ╚                         | (TBA)                 | Part of the ESWEEK.                                          |
 | DSD 2021                                                 | 2021-05-10 (est.) | (TBA)                     | (TBA)                 |                                                              |
