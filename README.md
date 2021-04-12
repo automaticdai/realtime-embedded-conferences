@@ -14,33 +14,33 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 
 ## Conference List
 
-| Name                                                     | Deadline          | Where                     | When                  | Remarks                                                      |
-| -------------------------------------------------------- | ----------------- | :------------------------ | --------------------- | ------------------------------------------------------------ |
-| [EMSOFT 2021](https://esweek.org/emsoft/)                | 2021-04-09        | Virtual                   | October 10-15, 2021   | Abstract deadline: April 2, 2021; Part of the ESWEEK.        |
-| [CASES 2021](https://esweek.org/emsoft/)                 | ╚                 | ╚                         | (TBA)                 | Part of the ESWEEK.                                          |
-| [CODES+ISSS 2021](https://esweek.org/emsoft/)            | ╚                 | ╚                         | (TBA)                 | Part of the ESWEEK.                                          |
-| [NOCS 2021](https://esweek.org/emsoft/)                  | 2021-05-14        | ╚                         | (TBA)                 | Part of the ESWEEK.                                          |
-| DSD 2021                                                 | 2021-05-10 (est.) | (TBA)                     | (TBA)                 |                                                              |
-| [TAROS 2021](https://lcas.lincoln.ac.uk/wp/taros-2021/)  | 2021-05-14        | (TBA)                     | September 8-10, 2021  | Author Notification: July 1, 2021                            |
-| [RTSS 2021](http://2021.rtss.org/)                       | 2021-05-27        | Taipei, Taiwan            | Dec 7-10, 2021        | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
-| WMC 2021                                                 | (TBA)             | (TBA)                     | (TBA)                 | Workshop on Mixed-Criticality Systems. Associated with RTSS. |
-| [ICCAD 2021](https://iccad.com/)                         | 2021-05-28        | (TBA)                     | (TBA)                 | Abstract deadline: Friday, May 21, 2021                      |
-| ICESS 2021                                               | 2021-07-26 (est.) | (TBA)                     | (TBA)                 |                                                              |
-| [DATE 2022](https://www.date-conference.com/)            | 2021-09-21 (est.) | (TBA)                     | (TBA)                 |                                                              |
-| WCET 2021                                                | (TBA)             | (TBA)                     | (TBA)                 | Last WCET (2020) was cancelled due to COVID-19. Associated with ECRTS. |
-| WATERS 2021                                              | (TBA)             | (TBA)                     | (TBA)                 | Last WATERS (2020) was cancelled due to COVID-19. Associated with ECRTS. |
-| -- *DL passed & upcoming:*                               | ---               | ---                       | ---                   | ---                                                          |
-| [RTNS 2021](https://rtns2021.univ-nantes.fr/)            | ~~2020-12-07~~    | Nantes, France            | April 7-9, 2021       | May go virtual due to COVID-19.<br />Notification of acceptance: January 30, 2021 |
-| [RTAS 2021](http://2021.rtas.org/)                       | ~~2020-10-26~~    | Nashville, Tennessee, USA | May 18-21, 2021       |                                                              |
-| [ICRA 2021](http://www.icra2021.org/)                    | ~~2020-10-31~~    | Xi'an, China              | May 30 - June 5, 2021 | Notification of acceptance: February 28, 2021                |
-| [Ada-Europe 2021](https://www.istr.unican.es/ae2021/)    | ~~2021-01-14~~    | Santander, Spain          | June 7-11, 2021       | WiP and industrial paper deadline: March 31, 2021            |
-| [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021) | ~~2021-03-08~~    | Virtual                   | June 20-25, 2021      | Notification of acceptance: Apr 9, 2021                      |
-| [ECRTS 2021](https://www.ecrts.org/)                     | ~~2021-03-03~~    | Virtual                   | July 5-9, 2021        | Notification of acceptance: April 22, 2021                   |
-| [DAC 2021](https://dac.com/call-for-contributions)       | ~~2020-11-23~~    | San Francisco, CA, USA    | July 11-15, 2021      | Abstract deadline: Nov 16, 2021                              |
-| [RSS 2021](https://roboticsconference.org/)              | ~~2021-03-01~~    | Virtual                   | July 12-16, 2021      | Notification of acceptance: May 10, 2021                     |
-| [RO-MAN 2021](https://ro-man2021.org/)                   | ~~2021-03-21~~    | Virtual                   | August 8 - 12, 2021   | Notification of Acceptance: May 25, 2021                     |
-| RTCSA 2021                                               | ~~2021-03-31~~    | Virtual                   | August 18-20, 2021    | Acceptance Notification: May 20, 2021                        |
-| [IROS 2021](http://www.iros2021.org/)                    | ~~2021-03-05~~    | Prague, Czech Republic    | Sep 27 - Oct 1, 2021  |                                                              |
+| Name                                                     | Deadline                    | Where                     | When                  | Remarks                                                      |
+| -------------------------------------------------------- | --------------------------- | :------------------------ | --------------------- | ------------------------------------------------------------ |
+| DSD 2021                                                 | ~~2021-04-01~~ → 2021-04-20 | Palermo, Italy            | September 1-3, 2021   |                                                              |
+| [NOCS 2021](https://esweek.org/emsoft/)                  | 2021-05-14                  | Virtual                   | October 10-15, 2021   | Part of the ESWEEK.                                          |
+| [TAROS 2021](https://lcas.lincoln.ac.uk/wp/taros-2021/)  | 2021-05-14                  | (TBA)                     | September 8-10, 2021  | Author Notification: July 1, 2021                            |
+| [RTSS 2021](http://2021.rtss.org/)                       | 2021-05-27                  | Taipei, Taiwan            | Dec 7-10, 2021        | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
+| WMC 2021                                                 | (TBA)                       | (TBA)                     | (TBA)                 | Workshop on Mixed-Criticality Systems. Associated with RTSS. |
+| [ICCAD 2021](https://iccad.com/)                         | 2021-05-28                  | (TBA)                     | (TBA)                 | Abstract deadline: Friday, May 21, 2021                      |
+| ICESS 2021                                               | 2021-07-26 (est.)           | (TBA)                     | (TBA)                 |                                                              |
+| [DATE 2022](https://www.date-conference.com/)            | 2021-09-21 (est.)           | (TBA)                     | (TBA)                 |                                                              |
+| WCET 2021                                                | (TBA)                       | (TBA)                     | (TBA)                 | Last WCET (2020) was cancelled due to COVID-19. Associated with ECRTS. |
+| WATERS 2021                                              | (TBA)                       | (TBA)                     | (TBA)                 | Last WATERS (2020) was cancelled due to COVID-19. Associated with ECRTS. |
+| RTNS 2022                                                | (TBA)                       | (TBA)                     | (TBA)                 |                                                              |
+| -- *DL passed & upcoming:*                               | ---                         | ---                       | ---                   | ---                                                          |
+| [RTAS 2021](http://2021.rtas.org/)                       | ~~2020-10-26~~              | Nashville, Tennessee, USA | May 18-21, 2021       |                                                              |
+| [ICRA 2021](http://www.icra2021.org/)                    | ~~2020-10-31~~              | Xi'an, China              | May 30 - June 5, 2021 | Notification of acceptance: February 28, 2021                |
+| [Ada-Europe 2021](https://www.istr.unican.es/ae2021/)    | ~~2021-01-14~~              | Santander, Spain          | June 7-11, 2021       | WiP and industrial paper deadline: March 31, 2021            |
+| [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021) | ~~2021-03-08~~              | Virtual                   | June 20-25, 2021      | Notification of acceptance: Apr 9, 2021                      |
+| [ECRTS 2021](https://www.ecrts.org/)                     | ~~2021-03-03~~              | Virtual                   | July 5-9, 2021        | Notification of acceptance: April 22, 2021                   |
+| [DAC 2021](https://dac.com/call-for-contributions)       | ~~2020-11-23~~              | San Francisco, CA, USA    | July 11-15, 2021      | Abstract deadline: Nov 16, 2021                              |
+| [RSS 2021](https://roboticsconference.org/)              | ~~2021-03-01~~              | Virtual                   | July 12-16, 2021      | Notification of acceptance: May 10, 2021                     |
+| [RO-MAN 2021](https://ro-man2021.org/)                   | ~~2021-03-21~~              | Virtual                   | August 8 - 12, 2021   | Notification of Acceptance: May 25, 2021                     |
+| RTCSA 2021                                               | ~~2021-03-31~~              | Virtual                   | August 18-20, 2021    | Acceptance Notification: May 20, 2021                        |
+| [IROS 2021](http://www.iros2021.org/)                    | ~~2021-03-05~~              | Prague, Czech Republic    | Sep 27 - Oct 1, 2021  |                                                              |
+| [EMSOFT 2021](https://esweek.org/emsoft/)                | ~~2021-04-09~~              | Virtual                   | October 10-15, 2021   | Abstract deadline: April 2, 2021; Part of the ESWEEK.        |
+| [CASES 2021](https://esweek.org/emsoft/)                 | ~~2021-04-09~~              | Virtual                   | October 10-15, 2021   | Part of the ESWEEK.                                          |
+| [CODES+ISSS 2021](https://esweek.org/emsoft/)            | ~~2021-04-09~~              | Virtual                   | October 10-15, 2021   | Part of the ESWEEK.                                          |
 
 
 ---
@@ -50,7 +50,6 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 -   ~~deadline~~: the deadline has passed;
 -   ~~conference_name~~: the conference is already held; 
 -   ~~old~~ → new: information is updated;
--   ╚: information is linked and is the same to the previous item;
 -   (TBA): the information is not yet announced;
 -   (est.): the deadline is estimated based on previous years.
 
@@ -58,13 +57,14 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 
 **Archived:**
 
-| Name                                                         | Deadline       | Where                         | When                      | Remarks                                |
-| ------------------------------------------------------------ | -------------- | :---------------------------- | ------------------------- | -------------------------------------- |
-| [DATE 2021](https://www.date-conference.com/)                | ~~2020-09-21~~ | ~~Grenoble, France~~ →Virtual | ~~February 1-5, 2021~~    | Abstract deadline: Sep 14              |
-| [ICESS 2020](http://icess.net/)                              | ~~2020-07-26~~ | Virtual                       | ~~Dec 10-11, 2020~~       |                                        |
-| [RTSS 2020](http://2020.rtss.org/)                           | ~~2020-07-02~~ | Virtual                       | ~~Dec 1-4, 2020~~         |                                        |
-| [ICCAD 2020](https://iccad.com/)                             | ~~2020-05-28~~ | Virtual                       | ~~November 2-5, 2020~~    |                                        |
-| [IROS 2020](https://www.iros2020.org/index.html)             | ~~2020-03-01~~ | ~~Las Vegas, USA~~ → Virtual  | ~~Oct 25 - Nov 25, 2020~~ | Changed to Virtual; Free registration. |
-| [TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx) | ~~2020-03-07~~ | Nottingham, UK                | ~~Sep 16, 2020~~          |                                        |
-| [ECRTS 2020](https://www.ecrts.org/)                         | ~~2020-02-06~~ | Modena, Italy                 | ~~July 7-10, 2020~~       | Went to virtual due to COVID-19.       |
+| Name                                                         | Deadline       | Where                         | When                      | Remarks                                                      |
+| ------------------------------------------------------------ | -------------- | :---------------------------- | ------------------------- | ------------------------------------------------------------ |
+| [RTNS 2021](https://rtns2021.univ-nantes.fr/)                | ~~2020-12-07~~ | ~~Nantes, France~~→Virtual    | ~~April 7-9, 2021~~       | Went to fully virtual due to COVID-19.<br />Notification of acceptance: January 30, 2021 |
+| [DATE 2021](https://www.date-conference.com/)                | ~~2020-09-21~~ | ~~Grenoble, France~~ →Virtual | ~~February 1-5, 2021~~    | Abstract deadline: Sep 14                                    |
+| [ICESS 2020](http://icess.net/)                              | ~~2020-07-26~~ | Virtual                       | ~~Dec 10-11, 2020~~       |                                                              |
+| [RTSS 2020](http://2020.rtss.org/)                           | ~~2020-07-02~~ | Virtual                       | ~~Dec 1-4, 2020~~         |                                                              |
+| [ICCAD 2020](https://iccad.com/)                             | ~~2020-05-28~~ | Virtual                       | ~~November 2-5, 2020~~    |                                                              |
+| [IROS 2020](https://www.iros2020.org/index.html)             | ~~2020-03-01~~ | ~~Las Vegas, USA~~ → Virtual  | ~~Oct 25 - Nov 25, 2020~~ | Changed to Virtual; Free registration.                       |
+| [TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx) | ~~2020-03-07~~ | Nottingham, UK                | ~~Sep 16, 2020~~          |                                                              |
+| [ECRTS 2020](https://www.ecrts.org/)                         | ~~2020-02-06~~ | Modena, Italy                 | ~~July 7-10, 2020~~       | Went to virtual due to COVID-19.                             |
 
