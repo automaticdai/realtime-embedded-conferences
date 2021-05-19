@@ -2,7 +2,7 @@
 
 ![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/issues/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
 
-Track the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. This list is updated in a frequently basis. The list is _ordered by deadlines_ if the conference is not yet hold, otherwise it will be _reversely ordered by the conference opening date_. The idea is to keep tracking of these conferences including up-to-date information, so no CFPs and important announcements will be missed.
+Track the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. This list is updated in a frequently basis. The list is _ordered by deadlines_ if the conference is not yet hold, otherwise it will be _ordered by the conference opening date_. The idea is to keep tracking of these conferences including up-to-date information, so no CFPs and important announcements will be missed.
 
 ***Contributing this list:*** This list is for the community's benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. To update the list, you can either: (1) create a git pull request (PR), or (2) commit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues).
 
@@ -57,16 +57,19 @@ This page is maintained by **[Dr. Xiaotian Dai](http://www.xiaotiandai.com)**, R
 
 ---
 
-**Archived:**
+## Archived
 
 | Name                                                         | Deadline       | Where                         | When                      | Remarks                                                      |
 | ------------------------------------------------------------ | -------------- | :---------------------------- | ------------------------- | ------------------------------------------------------------ |
-| [RTNS 2021](https://rtns2021.univ-nantes.fr/)                | ~~2020-12-07~~ | ~~Nantes, France~~→Virtual    | ~~April 7-9, 2021~~       | Went to fully virtual due to COVID-19.<br />Notification of acceptance: January 30, 2021 |
-| [DATE 2021](https://www.date-conference.com/)                | ~~2020-09-21~~ | ~~Grenoble, France~~ →Virtual | ~~February 1-5, 2021~~    | Abstract deadline: Sep 14                                    |
-| [ICESS 2020](http://icess.net/)                              | ~~2020-07-26~~ | Virtual                       | ~~Dec 10-11, 2020~~       |                                                              |
-| [RTSS 2020](http://2020.rtss.org/)                           | ~~2020-07-02~~ | Virtual                       | ~~Dec 1-4, 2020~~         |                                                              |
-| [ICCAD 2020](https://iccad.com/)                             | ~~2020-05-28~~ | Virtual                       | ~~November 2-5, 2020~~    |                                                              |
-| [IROS 2020](https://www.iros2020.org/index.html)             | ~~2020-03-01~~ | ~~Las Vegas, USA~~ → Virtual  | ~~Oct 25 - Nov 25, 2020~~ | Changed to Virtual; Free registration.                       |
-| [TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx) | ~~2020-03-07~~ | Nottingham, UK                | ~~Sep 16, 2020~~          |                                                              |
 | [ECRTS 2020](https://www.ecrts.org/)                         | ~~2020-02-06~~ | Modena, Italy                 | ~~July 7-10, 2020~~       | Went to virtual due to COVID-19.                             |
+| [TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx) | ~~2020-03-07~~ | Nottingham, UK                | ~~Sep 16, 2020~~          |                                                              |
+| [IROS 2020](https://www.iros2020.org/index.html)             | ~~2020-03-01~~ | ~~Las Vegas, USA~~ → Virtual  | ~~Oct 25 - Nov 25, 2020~~ | Changed to Virtual; Free registration.                       |
+| [ICCAD 2020](https://iccad.com/)                             | ~~2020-05-28~~ | Virtual                       | ~~November 2-5, 2020~~    |                                                              |
+| [RTSS 2020](http://2020.rtss.org/)                           | ~~2020-07-02~~ | Virtual                       | ~~Dec 1-4, 2020~~         |                                                              |
+| [ICESS 2020](http://icess.net/)                              | ~~2020-07-26~~ | Virtual                       | ~~Dec 10-11, 2020~~       |                                                              |
+| [DATE 2021](https://www.date-conference.com/)                | ~~2020-09-21~~ | ~~Grenoble, France~~ →Virtual | ~~February 1-5, 2021~~    | Abstract deadline: Sep 14                                    |
+| [RTNS 2021](https://rtns2021.univ-nantes.fr/)                | ~~2020-12-07~~ | ~~Nantes, France~~→Virtual    | ~~April 7-9, 2021~~       | Went to fully virtual due to COVID-19.<br />Notification of acceptance: January 30, 2021 |
 
+---
+
+Copyright 2020-2021 (c) Xiaotian Dai
