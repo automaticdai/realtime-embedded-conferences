@@ -1,14 +1,14 @@
-# Real-Time / Embedded Systems and related Conferences
+# Real-Time/Embedded Systems, Design Automation and related Conferences Tracking
 
 ![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/issues/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
 
-Track the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. This list is updated in a frequently basis. The list is _ordered by deadlines_ before submission, otherwise it will be _ordered by conference opening date_. The idea is to keep tracking of these conferences including up-to-date information, so the researchers within the community will not miss important announcements and useful information.
+Track the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. This list is updated in a frequently basis (normally weekly). The list is _ordered by deadlines_ before submission, otherwise it will be _ordered by conference opening date_. The idea is to keep tracking of these conferences including up-to-date information, so the researchers within the community will not miss important announcements and useful information.
 
 ***Contributing this list:*** This list is for the community's benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. To update the list, you can either: (1) create a git pull request (PR), or (2) commit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues).
 
-***Caution of time zone:*** Some of the deadlines are in local time, so please be aware of the time zone when the deadline is approaching. The deadline is for the manuscript, and some of the conferences may have a deadline for abstract (normally one week earlier), which will be noted in the `Remarks` section.
+***Caution of time zone:*** Some of the deadlines are in local time zone, but most are A.O.E, i.e., anywhere on earth. Please be aware of the time zone especially when the deadline is approaching. The deadline is for the manuscript, and some of the conferences may have a deadline for abstract (normally one week earlier), which will be noted in the `Remarks` section if it is mandatory.
 
-This page is maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)*, Real-Time Systems Research Group, University of York, UK. If you like this project, you can bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
+***Maintainer:***  This page (and the git repo) are maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)*, Real-Time Systems Research Group, University of York, UK. If you like this project, you can bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
 
 ---
 
@@ -18,12 +18,12 @@ This page is maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)*, Rea
 | -------------------------------------------------------- | ------------------------------- | :--------------------- | -------------------- | ------------------------------------------------------------ |
 | [ICESS 2021](http://icess.net/2021/)                     | 2021-07-31                      | Shanghai, China        | December 10-11, 2021 | Author notification: October 4th, 2021                       |
 | [DATE 2022](https://www.date-conference.com/)            | 2021-09-19                      | Virtual                | Feb 1-5, 2022        | Abstract deadline: 2021-09-12                                |
-| RTAS 2022                                                | 2021-10-26 (est.)               | Milano, Italy          | (TBA)                | Part of CPS-IoT week                                         |
-| ICCPS 2022                                               | 2021-10-26 (est.)               | Milano, Italy          | (TBA)                | Part of CPS-IoT week                                         |
+| ICRA 2022                                                | 2021-10-15 (est.)               | (TBA)                  | (TBA)                |                                                              |
+| RTAS 2022                                                | 2021-10-26 (est.)               | Milano, Italy          | (TBA)                | Part of CPS-IoT week.                                        |
+| ICCPS 2022                                               | 2021-10-26 (est.)               | Milano, Italy          | (TBA)                | Part of CPS-IoT week.                                        |
 | [DAC 2022](https://www.dac.com/)                         | 2021-11-23 (est.)               | (TBA)                  | (TBA)                |                                                              |
-| RTNS 2022                                                | (TBA)                           | (TBA)                  | (TBA)                |                                                              |
-| ICRA 2022                                                | (TBA)                           | (TBA)                  | (TBA)                |                                                              |
-| Ada-Europe 2022                                          | (TBA)                           | (TBA)                  | (TBA)                |                                                              |
+| RTNS 2022                                                | 2021-12-07 (est.)               | (TBA)                  | (TBA)                |                                                              |
+| Ada-Europe 2022                                          | 2022-01-14 (est.)               | (TBA)                  | (TBA)                |                                                              |
 | WMC 2021                                                 | (TBA)                           | (TBA)                  | (TBA)                | Workshop on Mixed-Criticality Systems. Associated with RTSS. |
 | WCET 2021                                                | (TBA)                           | (TBA)                  | (TBA)                | Last WCET (2020) was cancelled due to COVID-19. Associated with ECRTS. |
 | WATERS 2021                                              | (TBA)                           | (TBA)                  | (TBA)                | Last WATERS (2020) was cancelled due to COVID-19. Associated with ECRTS. |
@@ -50,14 +50,16 @@ This page is maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)*, Rea
 **Notations:**
 
 -   ~~deadline~~: the deadline has passed;
--   ~~conference_name~~: the conference is already held; 
 -   ~~old~~ → new: information is updated;
+-   ↑: ordered by this column; 
 -   (TBA): the information is not yet announced;
 -   (est.): the deadline is estimated based on previous years.
 
 ---
 
-## Archived
+## Conference List (Archived)
+
+This is a list of conferences that are already hold.
 
 | Name                                                         | Deadline | Where                                   | When ↑                | Remarks                                           |
 | ------------------------------------------------------------ | -------- | :-------------------------------------- | --------------------- | ------------------------------------------------- |
@@ -75,4 +77,24 @@ This page is maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)*, Rea
 
 ---
 
+## Journal List
+
+Top journals for Real-Time Systems and Parallel Computing (work in progress).
+
+| Name                                                         | Publisher ↑ | Rank | Impact Factor | Remarks |
+| ------------------------------------------------------------ | ----------- | :--- | ------------- | ------- |
+| TECS: ACM Transactions on Embedded Computing Systems         | ACM         | ---  | ---           |         |
+| TOCS: ACM Transactions on Computer Systems                   | ACM         | ---  | ---           |         |
+| TOPC: ACM Transactions on Parallel Computing                 | ACM         | ---  | ---           |         |
+| TCPS: ACM Transactions on Cyber-Physical Systems             | ACM         | ---  | ---           |         |
+| MICPRO: [Microprocessors and Microsystems](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier    | ---  | ---           |         |
+| JSA: [Journal of Systems Architecture](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier    | ---  | ---           |         |
+| TC: IEEE Transactions on Computers                           | IEEE        | ---  | ---           |         |
+| TCAD: IEEE Transactions on Computer-Aided Design of Integrated Circuits And System | IEEE        | ---  | ---           |         |
+| TPDS: IEEE Transactions on Parallel and Distributed Systems  | IEEE        | ---  | ---           |         |
+| RTS: [Real-Time Systems](https://www.springer.com/journal/11241) | Springer    | ---  | ---           |         |
+
+---
+
 Copyright 2020-2021 (c) Xiaotian Dai, University of York
+
