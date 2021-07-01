@@ -82,29 +82,30 @@ This is a list of conferences that are already hold.
 
 Top journals for Real-Time Systems, Embedded Systems and Parallel Computing.
 
-| Name                                                         | Publisher ↑ | Rank | IF   | Remarks |
-| ------------------------------------------------------------ | ----------- | :--- | ---- | ------- |
-| TECS: ACM Transactions on Embedded Computing Systems         | ACM         | ---  | ---  |         |
-| TOCS: ACM Transactions on Computer Systems                   | ACM         | ---  | ---  |         |
-| TOPC: ACM Transactions on Parallel Computing                 | ACM         | ---  | ---  |         |
-| TCPS: ACM Transactions on Cyber-Physical Systems             | ACM         | ---  | ---  |         |
-| MICPRO: [Microprocessors and Microsystems](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier    | ---  | ---  |         |
-| JSA: [Journal of Systems Architecture](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier    | ---  | ---  |         |
-| TC: IEEE Transactions on Computers                           | IEEE        | ---  | ---  |         |
-| TCAD: IEEE Transactions on Computer-Aided Design of Integrated Circuits And System | IEEE        | ---  | ---  |         |
-| TPDS: IEEE Transactions on Parallel and Distributed Systems  | IEEE        | ---  | ---  |         |
-| RTS: [Real-Time Systems](https://www.springer.com/journal/11241) | Springer    | ---  | ---  |         |
+| Name                                                         | Publisher | Rank | IF   | Remarks |
+| ------------------------------------------------------------ | --------- | :--- | ---- | ------- |
+| [TECS: ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs) | ACM       | ---  | ---  |         |
+| [TOCS: ACM Transactions on Computer Systems](https://dl.acm.org/journal/tocs) | ACM       | ---  | ---  |         |
+| [TOPC: ACM Transactions on Parallel Computing](https://dl.acm.org/journal/topc) | ACM       | ---  | ---  |         |
+| [TCPS: ACM Transactions on Cyber-Physical Systems](https://dl.acm.org/journal/tcps) | ACM       | ---  | ---  |         |
+| [TC: IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) | IEEE      | ---  | ---  |         |
+| [TCAD: IEEE Transactions on Computer-Aided Design of Integrated Circuits And System](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) | IEEE      | ---  | ---  |         |
+| [TPDS: IEEE Transactions on Parallel and Distributed Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | IEEE      | ---  | ---  |         |
+| [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/ieee-embedded-systems-letters-esl) | IEEE      | ---  | ---  |         |
+| [MICPRO: Microprocessors and Microsystems](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  | ---  | ---  |         |
+| [JSA: Journal of Systems Architecture](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  | ---  | ---  |         |
+| [RTS: Real-Time Systems](https://www.springer.com/journal/11241) | Springer  | ---  | ---  |         |
 
 ---
 
 ## Useful Links
 
-- IEEE TCRTS: https://site.ieee.org/tcrts/
-- ACM SIGBED: https://sigbed.org/
-- Conference Tracking (this page): https://automaticdai.github.io/realtime-embedded-conferences/
-- Conference Ranks: http://www.conferenceranks.com/
-- Scimago Journal & Country Rank: https://www.scimagojr.com/
-- An Incomplete List of 173 Conferences in Computer Science: https://www.conferences-computer.science/
+- [IEEE TCRTS](https://site.ieee.org/tcrts/)
+- [ACM SIGBED](https://sigbed.org/)
+- [Conference Tracking (this website)](https://automaticdai.github.io/realtime-embedded-conferences/)
+- [Conference Ranks](http://www.conferenceranks.com/)
+- [Scimago Journal & Country Rank](https://www.scimagojr.com/)
+- [An Incomplete List of 173 Conferences in Computer Science](https://www.conferences-computer.science/)
 
 ---
 
