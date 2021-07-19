@@ -24,13 +24,13 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [DAC 2022](https://www.dac.com/)                        | 2021-11-23 (est.)               | (TBA)                  | (TBA)                |                                                              |
 | RTNS 2022                                               | 2021-12-07 (est.)               | (TBA)                  | (TBA)                |                                                              |
 | Ada-Europe 2022                                         | 2022-01-14 (est.)               | (TBA)                  | (TBA)                |                                                              |
+| [RSS 2022](https://roboticsconference.org/)             | 2022-03-01 (est.)               | Virtual                | (TBA)                |                                                              |
+| [ECRTS 2022](https://www.ecrts.org/)                    | 2022-03-03 (est.)               | Virtual                | (TBA)                |                                                              |
+| LCTES 2022                                              | 2022-03-08 (est.)               | (TBA)                  | (TBA)                |                                                              |
 | WMC 2021                                                | (TBA)                           | (TBA)                  | (TBA)                | Workshop on Mixed-Criticality Systems. Associated with RTSS. |
 | WCET 2021                                               | (TBA)                           | (TBA)                  | (TBA)                | Workshop on Worst-case Execution Times. Last WCET (2020) was cancelled due to COVID-19. Associated with ECRTS. |
 | WATERS 2021                                             | (TBA)                           | (TBA)                  | (TBA)                | Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems. Last WATERS (2020) was cancelled due to COVID-19. Associated with ECRTS. |
-| LCTES 2022                                              | 2022-03-08 (est.)               | (TBA)                  | (TBA)                |                                                              |
 | ▼ **DL passed & upcoming** ▼                            | ---                             | ---                    | ---                  | ---                                                          |
-| [ECRTS 2021](https://www.ecrts.org/)                    | ~~2021-03-03~~                  | Virtual                | July 5-9, 2021       | Notification of acceptance: April 22, 2021                   |
-| [RSS 2021](https://roboticsconference.org/)             | ~~2021-03-01~~                  | Virtual                | July 12-16, 2021     | Notification of acceptance: May 10, 2021                     |
 | [RO-MAN 2021](https://ro-man2021.org/)                  | ~~2021-03-21~~                  | Virtual                | August 8-12, 2021    | Notification of Acceptance: May 25, 2021                     |
 | [RTCSA 2021](https://rtcsa2021.github.io/index.html)    | ~~2021-03-31~~                  | Virtual                | August 18-20, 2021   | Acceptance Notification: May 20, 2021                        |
 | [DSD 2021](https://dsd-seaa2021.unipv.it/)              | ~~2021-04-01~~ → ~~2021-04-20~~ | Palermo, Italy         | September 1-3, 2021  |                                                              |
@@ -75,6 +75,8 @@ This is a list of conferences that are already hold.
 | [ICRA 2021](http://www.icra2021.org/)                        | ---            | Xi'an, China                            | May 30 - June 5, 2021 | Notification of acceptance: February 28, 2021     |
 | [Ada-Europe 2021](https://www.istr.unican.es/ae2021/)        | ---            | Santander, Spain                        | June 7-11, 2021       | WiP and industrial paper deadline: March 31, 2021 |
 | [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021)     | ~~2021-03-08~~ | Virtual                                 | June 20-25, 2021      | Notification of acceptance: Apr 9, 2021           |
+| [ECRTS 2021](https://www.ecrts.org/)                         | ~~2021-03-03~~ | Virtual                                 | July 5-9, 2021        | Notification of acceptance: April 22, 2021        |
+| [RSS 2021](https://roboticsconference.org/)                  | ~~2021-03-01~~ | Virtual                                 | July 12-16, 2021      | Notification of acceptance: May 10, 2021          |
 
 ---
 
