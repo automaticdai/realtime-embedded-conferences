@@ -16,7 +16,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                    | Deadline ↑                      | Where                  | When                 | Remarks                                                      |
 | ------------------------------------------------------- | ------------------------------- | :--------------------- | -------------------- | ------------------------------------------------------------ |
-| [ICESS 2021](http://icess.net/2021/)                    | 2021-07-31                      | Shanghai, China        | December 10-11, 2021 | Author notification: October 4th, 2021                       |
+| [ICESS 2021](http://icess.net/2021/)                    | ~~2021-07-31~~ → 2021-08-14     | Shanghai, China        | December 10-11, 2021 | Author notification: October 4th, 2021                       |
 | [DATE 2022](https://www.date-conference.com/)           | 2021-09-19                      | Virtual                | Feb 1-5, 2022        | Abstract deadline: 2021-09-12                                |
 | ICRA 2022                                               | 2021-10-15 (est.)               | (TBA)                  | (TBA)                |                                                              |
 | RTAS 2022                                               | 2021-10-26 (est.)               | Milano, Italy          | (TBA)                | Part of CPS-IoT week.                                        |
