@@ -106,3 +106,4 @@ Top journals for Real-Time Systems, Embedded Systems and Parallel Computing.
 
 Copyright 2020-2021 (c) Xiaotian Dai, University of York
 
+{% include counter.html %}
