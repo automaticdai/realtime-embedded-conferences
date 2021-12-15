@@ -24,6 +24,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | LCTES 2022                                                   | 2022-03-08 (est.) | (TBA)          | (TBA)                |                                                              |
 | [RO-MAN 2022](http://www.smile.unina.it/ro-man2022/)         | 2022-03-15        | Naples, Italy  | Aug 29 - Sep 2, 2022 | Author Notification: May 30, 2022<br />Camera Ready: June 15, 2022 |
 | RTCSA 2022                                                   | 2022-03-31 (est.) | (TBA)          | (TBA)                |                                                              |
+| [NG-RES 2022](http://http://ng-res.deib.polimi.it/)          | 2022-04-04        | Budapest, Hungary | June 20-22, 2022  | Workshop on real-time systems @ HiPEAC conference.                                          |
 | [EMSOFT 2022](https://esweek.org)                            | 2022-04-09 (est.) | (TBA)          | (TBA)                | Part of the ESWEEK.                                          |
 | CASES 2022                                                   | 2022-04-09 (est.) | (TBA)          | (TBA)                | Part of the ESWEEK.                                          |
 | CODES+ISSS 2022                                              | 2022-04-09 (est.) | (TBA)          | (TBA)                | Part of the ESWEEK.                                          |
