@@ -23,6 +23,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [IROS 2022](https://iros2022.org/)                           | 2022-03-01        | Kyoto, Japan   | Oct 23-27, 2022      | Submission deadline with RA-letter option: Feb 24, 2022      |
 | [LCTES 2022](https://pldi22.sigplan.org/track/LCTES-2022)    | 2022-03-07 | (TBA)          | June 21, 2022    | Paper notification: April 8, 2022<br/>Artifact submission: April 16, 2022<br/>Artifact decision: May 2, 2022<br/>Camera-ready deadline: May 6, 2022 |
 | [RO-MAN 2022](http://www.smile.unina.it/ro-man2022/)         | 2022-03-15        | Naples, Italy  | Aug 29 - Sep 2, 2022 | Author Notification: May 30, 2022<br />Camera Ready: June 15, 2022 |
+| [RAGE 2022](https://rage2022.github.io/) | 2022-03-20 | San Francisco, CA | July 10, 2022 | 1st Real-time And intelliGent Edge computing workshop (RAGE) --- associated with DAC 2022. Topics cover real-time edge computing, QoS for virtualization, predictability in edge-to-cloud, predictability in middleware and real-time network protocols, etc. <br />Notification to authors: April 11th 2022 |
 | RTCSA 2022                                                   | 2022-03-31 (est.) | (TBA)          | (TBA)                |                                                              |
 | [DSD/SEAA 2022](https://dsd-seaa2022.iuma.ulpgc.es/)         | 2022-04-01 | Maspalomas, Spain | August 31-September 2, 2022 | Notification of Acceptance: May 15th, 2022 <br />Camera-Ready Papers: June 15th, 2022 |
 | [NG-RES 2022](http://ng-res.deib.polimi.it/)          | 2022-04-04        | Budapest, Hungary | June 20-22, 2022  | Workshop on real-time systems @ HiPEAC conference.                                          |
@@ -34,6 +35,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | TAROS 2022                                                   | 2022-05 (est.)    | (TBA)          | (TBA)                |                                                              |
 | RTSS 2022                                                    | 2022-05-27 (est.) | (TBA)          | (TBA)                |                                                              |
 | ICESS 2022 | 2022-07-31 (est.) | (TBA) | (TBA) |  |
+| DATE 2023 | 2022-09-19 (est.) | (TBA)                               | (TBA)                       |  |
 | WCET 2022                                                    | (TBA)             | (TBA)          | (TBA)                | Workshop on Worst-case Execution Times. Associated with ECRTS. |
 | WATERS 2022                                                  | (TBA)             | (TBA)          | (TBA)                | Workshop on Analysis Tools and Methodologies for Embedded and Real-time System. Associated with ECRTS. |
 | WMC 2022                                                     | (TBA)             | (TBA)          | (TBA)                | Workshop on Mixed-Criticality Systems. Associated with RTSS. |
@@ -42,7 +44,6 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline       | Where                  | When             | Remarks                                                      |
 | ------------------------------------------------------------ | -------------- | :--------------------- | ---------------- | ------------------------------------------------------------ |
-| [DATE 2022](https://www.date-conference.com/)                | ~~2021-09-19~~ | Virtual                | Feb 1-5, 2022    | Abstract deadline: 2021-09-12                                |
 | [RTAS 2022](http://2022.rtas.org/)                           | ~~2021-10-29~~ | Milano, Italy          | May 4-6, 2022    | Part of CPS-IoT week.<br />Rebuttal Period: Jan 3-5, 2022<br />Author Notification: Jan 17, 2022 |
 | [ICCPS 2022](https://iccps.acm.org/2022/)                    | ~~2021-10-29~~ | Milano, Italy          | May 4-6, 2022    | Part of CPS-IoT week.<br />Abstract Registration: Oct 22<br />Author Notification: Jan 17, 2022 |
 | [ICRA 2022](https://www.icra2022.org/)                       | ~~2021-09-09~~ | Philadelphia (PA), USA | May 23-27, 2022  | Notification of acceptance: Jan 31, 2022                     |
@@ -56,6 +57,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | ------------------------------------------------------------ | ------------------------------- | :-------------------------------------- | --------------------- | ------------------------------------------------------------ |
 | [Ada-Europe 2021](https://www.istr.unican.es/ae2021/)        | ---                             | Santander, Spain                        | June 7-11, 2021       | WiP and industrial paper deadline: March 31, 2021            |
 | [DATE 2021](https://www.date-conference.com/)                | ---                             | ~~Grenoble, France~~ →Virtual           | February 1-5, 2021    |                                                              |
+| [DATE 2022](https://www.date-conference.com/)                | ~~2021-09-19~~                  | Virtual                                 | Feb 1-5, 2022         | Abstract deadline: 2021-09-12                                |
 | [DAC 2021](https://dac.com)                                  | ~~2020-11-23~~                  | San Francisco, CA, USA                  | Dec 5-9, 2021         | Abstract deadline: Nov 16, 2020                              |
 | [DSD 2021](https://dsd-seaa2021.unipv.it/)                   | ~~2021-04-01~~ → ~~2021-04-20~~ | Palermo, Italy                          | September 1-3, 2021   |                                                              |
 | [ECRTS 2020](https://www.ecrts.org/)                         | ---                             | Modena, Italy                           | July 7-10, 2020       | Went to virtual due to COVID-19.                             |
