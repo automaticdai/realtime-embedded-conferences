@@ -31,7 +31,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | NOCS 2022                                                    | 2022-04-09 (est.) | Shanghai, China - Hybrid | Oct 7-14, 2022  | Part of the ESWEEK.                                |
 | [ICCAD 2022](https://iccad.com/)                             | 2022-05-23 | San Diego, California, USA (hybrid) | Oct 30 -  Nov 3, 2022 | Abstract Deadline: 16 May, 2022 |
 | TAROS 2022                                                   | 2022-05 (est.)    | (TBA)          | (TBA)                |                                                              |
-| RTSS 2022                                                    | 2022-05-27 (est.) | (TBA)          | (TBA)                |                                                              |
+| [RTSS 2022](http://2022.rtss.org/)                          | 2022-05-27 (est.) | Houston, USA | Dec, 2022        |                                                              |
 | ICESS 2022 | 2022-07-31 (est.) | (TBA) | (TBA) |  |
 | DATE 2023 | 2022-09-19 (est.) | (TBA)                               | (TBA)                       |  |
 | WCET 2022                                                    | (TBA)             | (TBA)          | (TBA)                | Workshop on Worst-case Execution Times. Associated with ECRTS. |
