@@ -25,15 +25,13 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [EMSOFT 2022](https://esweek.org)                            | 2022-04-07 | Shanghai, China - Hybrid | Oct 7-14, 2022   | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/EMSOFT_2022_CFP.pdf)<br />Abstract Deadline: March 31<br />Full paper submission: April 07, 2022 <br />Work-in-progress paper submission: June 11, 2022<br />Author notification: July 05, 2022 |
 | [CASES 2022](https://esweek.org/cases/)                      | 2022-04-07 | Shanghai, China - Hybrid | Oct 7-14, 2022  | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/CASES_2022_CFP.pdf)<br />Details refer to EMSOFT. |
 | [CODES+ISSS 2022](https://esweek.org/codes-isss/)            | 2022-04-07 | Shanghai, China - Hybrid | Oct 7-14, 2022  | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/CODES_ISSS_2022_CFP.pdf)<br />Details refer to EMSOFT. |
+| [OSPERT 2022](https://sra.uni-hannover.de/ospert22/) | 2022-04-27 | Modena, Italy | July 5–8, 2022 | Workshop on Operating Systems Platforms for Embedded Real-Time applications. Held in conjunction with ECRTS. |
 | [NOCS 2022](https://esweek.org/nocs/)                        | 2022-05-06 | Shanghai, China - Hybrid | Oct 7-14, 2022  | Part of the ESWEEK.<br />Abstract submission: 29 April, 2022<br />Author notification: 8 July, 2022 |
 | [ICCAD 2022](https://iccad.com/)                             | 2022-05-23 | San Diego, California, USA (hybrid) | Oct 30 -  Nov 3, 2022 | Abstract Deadline: 16 May, 2022 |
 | TAROS 2022                                                   | 2022-05 (est.)    | (TBA)          | (TBA)                |                                                              |
 | [RTSS 2022](http://2022.rtss.org/)                          | 2022-05-27 (est.) | Houston, USA | Dec, 2022        |                                                              |
 | ICESS 2022 | 2022-07-31 (est.) | (TBA) | (TBA) |  |
 | DATE 2023 | 2022-09-19 (est.) | (TBA)                               | (TBA)                       |  |
-| WCET 2022                                                    | (TBA)             | (TBA)          | (TBA)                | Workshop on Worst-case Execution Times. Associated with ECRTS. |
-| WATERS 2022                                                  | (TBA)             | (TBA)          | (TBA)                | Workshop on Analysis Tools and Methodologies for Embedded and Real-time System. Associated with ECRTS. |
-| WMC 2022                                                     | (TBA)             | (TBA)          | (TBA)                | Workshop on Mixed-Criticality Systems. Associated with RTSS. |
 
 **Deadline passed & conference upcoming:**
 
@@ -48,6 +46,9 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [RTNS 2022](https://rtns2022.inria.fr/)                      | ~~2022-02-24~~ → ~~2022-03-09~~ | Paris, France          | June 7-8, 2022       | Author notification: April 20, 2022<br/>Camera ready: May 4, 2022<br/> |
 | [RSS 2022](https://roboticsconference.org/)                  | ~~2022-01-28~~                  | New York City          | June 27-July 1, 2022 |                                                              |
 | [ECRTS 2022](https://www.ecrts.org/)                         | ~~2022-02-02~~                  | Modena, Italy          | July 5–8, 2022       | Notification: April 13, 2022 <br />Camera-ready deadline: May 5, 2022 |
+| [WCET 2022](https://www.ecrts.org/wcet-2022/)                | ~~2022-02-02~~                  | Modena, Italy          | July 5–8, 2022       | Workshop on Worst-case Execution Times. Associated with ECRTS. |
+| [RTSOPS 2022](https://www.ecrts.org/rtsops-2022/)            | ~~2022-02-02~~                  | Modena, Italy          | July 5–8, 2022       | Workshop on Real-Time Scheduling Open Problems Seminar. Associated with ECRTS. |
+| [RT-Cloud 2022](https://www.ecrts.org/rt-cloud-2022/)        | ~~2022-02-02~~                  | Modena, Italy          | July 5–8, 2022       | Workshop on Real-Time Cloud Computing. Associated with ECRTS. |
 | [DAC 2022](https://www.dac.com/DAC-2022/2022-Call-for-Contributions) | ~~2021-11-22~~                  | San Francisco, CA.     | July 10-14, 2022     | Abstraction Deadline: Nov 15                                 |
 | [IROS 2022](https://iros2022.org/)                           | ~~2022-03-01~~                  | Kyoto, Japan           | Oct 23-27, 2022      | Submission deadline with RA-letter option: Feb 24, 2022      |
 
