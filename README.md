@@ -37,7 +37,6 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline                        | Where                  | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :--------------------- | -------------------- | ------------------------------------------------------------ |
-| Name                                                         | Deadline                        | Where                  | When                 | Remarks                                                      |
 | [RTAS 2022](http://2022.rtas.org/)                           | ~~2021-10-29~~                  | Milano, Italy          | May 4-6, 2022        | Part of CPS-IoT week.<br />Rebuttal Period: Jan 3-5, 2022<br />Author Notification: Jan 17, 2022 |
 | [ICCPS 2022](https://iccps.acm.org/2022/)                    | ~~2021-10-29~~                  | Milano, Italy          | May 4-6, 2022        | Part of CPS-IoT week.<br />Abstract Registration: Oct 22<br />Author Notification: Jan 17, 2022 |
 | [ISORC 2022](https://isorc2022.github.io/index.html)         | ~~2022-02-12~~                  | Västerås, Sweden       | May 17-19, 2022      | Rebuttal period: March 23-25, 2022<br/>Acceptance notification: April 4, 2022<br/>Camera-ready papers: April 20, 2022 |
