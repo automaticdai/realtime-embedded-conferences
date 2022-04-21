@@ -21,9 +21,9 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [DSD/SEAA 2022](https://dsd-seaa2022.iuma.ulpgc.es/)         | ~~2022-04-01~~ → 2022-04-29 | Maspalomas, Spain | August 31-September 2, 2022 | Notification of Acceptance: May 31st, 2022 <br />Camera-Ready Papers: June 15th, 2022 |
 | [RTCSA 2022](https://rtcsa.org/index.html)                   | ~~2022-04-15~~ → 2022-04-29 | Taiwan - Hybrid | August 23-25, 2022 | Abstract Deadline: April 22, 2022 <br />Co-located with NVMSA 2022. |
 | [NOCS 2022](https://esweek.org/nocs/)                        | 2022-05-06 | Shanghai, China - Hybrid | Oct 7-14, 2022  | Part of the ESWEEK.<br />Abstract submission: 29 April, 2022<br />Author notification: 8 July, 2022 |
+| [TAROS 2022](https://ukaeaevents.com/23rd-taros/)            | 2022-05-06 | Culham Science Centre, UK | Sep 7-9, 2022    | Confirmation of acceptance: June 10th, 2022 |
 | [ICCAD 2022](https://iccad.com/)                             | 2022-05-23 | San Diego, California, USA (hybrid) | Oct 30 -  Nov 3, 2022 | Abstract Deadline: 16 May, 2022 |
 | [RTSS 2022](http://2022.rtss.org/)                          | 2022-05-26 | Houston, USA | Dec 5-8, 2022    | Rebuttal Period: 15-21 July, 2022<br />Paper Notification: August 5, 2022 |
-| TAROS 2022                                                   | 2022-05 (est.)    | (TBA)          | (TBA)                |                                                              |
 | ICESS 2022 | 2022-07-31 (est.) | (TBA) | (TBA) |  |
 | DATE 2023 | 2022-09-19 (est.) | (TBA)                               | (TBA)                       |  |
 
