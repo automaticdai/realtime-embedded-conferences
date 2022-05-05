@@ -16,18 +16,20 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
-| [RT-Cloud 2022](https://www.ecrts.org/rt-cloud-2022/) | ~~2022-02-02~~ → 2022-04-27 | Modena, Italy | July 5, 2022 | Workshop on Real-Time Cloud Computing. Associated with ECRTS.<br />Author Notification: May 4, 2022 |
-| [DSD/SEAA 2022](https://dsd-seaa2022.iuma.ulpgc.es/)         | ~~2022-04-01~~ → 2022-04-29 | Maspalomas, Spain | August 31-September 2, 2022 | Notification of Acceptance: May 31st, 2022 <br />Camera-Ready Papers: June 15th, 2022 |
-| [RTCSA 2022](https://rtcsa.org/index.html)                   | ~~2022-04-15~~ → 2022-04-29 | Taiwan - Hybrid | August 23-25, 2022 | Abstract Deadline: April 22, 2022 <br />Co-located with NVMSA 2022. |
-| [OSPERT 2022](https://sra.uni-hannover.de/ospert22/) | ~~2022-04-27~~ → 2022-05-04 | Modena, Italy | July 5, 2022 | Workshop on Operating Systems Platforms for Embedded Real-Time applications. <br />Held in conjunction with ECRTS. |
-| [NOCS 2022](https://esweek.org/nocs/)                        | 2022-05-06 | Shanghai, China - Hybrid | Oct 7-14, 2022  | Part of the ESWEEK.<br />Abstract submission: 29 April, 2022<br />Author notification: 8 July, 2022 |
-| [TAROS 2022](https://ukaeaevents.com/23rd-taros/)            | 2022-05-06 | Culham Science Centre, UK | Sep 7-9, 2022    | Confirmation of acceptance: June 10th, 2022 |
+| [NeurIPS 2022](https://neurips.cc/Conferences/2022/) | 2022-05-19 | New Orleans - Hybrid | Nov 28 - Dec 9, 2022 | Abstract submission: May 16, 2022 |
+| [NOCS 2022](https://esweek.org/nocs/)                        | ~~2022-04-29~~ → 2022-05-20 | Shanghai, China - Hybrid | Oct 7-14, 2022  | Part of the ESWEEK.<br />Abstract submission: 13 May, 2022<br />Author notification: 8 July, 2022 |
+| [TAROS 2022](https://ukaeaevents.com/23rd-taros/)            | 2022-05-20 | Culham Science Centre, UK | Sep 7-9, 2022    | Confirmation of acceptance: June 10th, 2022 |
 | [ICCAD 2022](https://iccad.com/)                             | 2022-05-23 | San Diego, California, USA (hybrid) | Oct 30 -  Nov 3, 2022 | Abstract Deadline: 16 May, 2022 |
+| [DSD/SEAA 2022](https://dsd-seaa2022.iuma.ulpgc.es/)         | ~~2022-04-01~~ → 2022-05-25 | Maspalomas, Spain | August 31-September 2, 2022 | Notification of Acceptance: May 31st, 2022 <br />Camera-Ready Papers: June 15th, 2022 |
 | [RTSS 2022](http://2022.rtss.org/)                          | 2022-05-26 | Houston, USA | Dec 5-8, 2022    | Rebuttal Period: 15-21 July, 2022<br />Paper Notification: August 5, 2022 |
+| [CoRL 2022](https://corl2022.org/call-for-papers/) | 2022-06-15 | Auckland, NZ | Dec 14-18, 2022 |  |
 | ICESS 2022 | 2022-07-31 (est.) | (TBA) | (TBA) |  |
+| ICRA 2023 | 2022-09-09 (est.) | (TBA) | (TBA) | |
 | DATE 2023 | 2022-09-19 (est.) | (TBA)                               | (TBA)                       |  |
+| RTAS 2023 | 2022-10-29 (est.) | (TBA) | (TBA) | |
+| DAC 2023 | 2022-11-22 (est.) | (TBA) | (TBA) | |
 
-**Deadline passed & conference upcoming:**
+**Conference deadline passed & upcoming:**
 
 | Name                                                         | Deadline                        | Where                    | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :----------------------- | -------------------- | ------------------------------------------------------------ |
@@ -43,8 +45,11 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [ECRTS 2022](https://www.ecrts.org/)                         | ~~2022-02-02~~                  | Modena, Italy            | July 5–8, 2022       | Notification: April 13, 2022 <br />Camera-ready deadline: May 5, 2022 |
 | [WCET 2022](https://www.ecrts.org/wcet-2022/)                | ~~2022-02-02~~                  | Modena, Italy            | July 5–8, 2022       | Workshop on Worst-case Execution Times. Associated with ECRTS. |
 | [RTSOPS 2022](https://www.ecrts.org/rtsops-2022/)            | ~~2022-02-02~~                  | Modena, Italy            | July 5–8, 2022       | Workshop on Real-Time Scheduling Open Problems Seminar. Associated with ECRTS. |
+| [RT-Cloud 2022](https://www.ecrts.org/rt-cloud-2022/)        | ~~2022-02-02~~ → ~~2022-05-04~~ | Modena, Italy            | July 5, 2022         | Workshop on Real-Time Cloud Computing. Associated with ECRTS.<br />Author Notification: May 4, 2022 |
+| [OSPERT 2022](https://sra.uni-hannover.de/ospert22/)         | ~~2022-04-27~~ → ~~2022-05-04~~ | Modena, Italy            | July 5, 2022         | Workshop on Operating Systems Platforms for Embedded Real-Time applications. <br />Held in conjunction with ECRTS. |
 | [DAC 2022](https://www.dac.com/DAC-2022/2022-Call-for-Contributions) | ~~2021-11-22~~                  | San Francisco, CA.       | July 10-14, 2022     | Abstraction Deadline: Nov 15                                 |
 | [RAGE 2022](https://rage2022.github.io/)                     | ~~2022-03-20~~                  | San Francisco, CA        | July 10, 2022        | 1st Real-time And intelliGent Edge computing workshop (RAGE) --- associated with DAC 2022. Topics cover real-time edge computing, QoS for virtualization, predictability in edge-to-cloud, predictability in middleware and real-time network protocols, etc. <br />Notification to authors: April 11th 2022 |
+| [RTCSA 2022](https://rtcsa.org/index.html)                   | ~~2022-04-15~~ → ~~2022-04-29~~ | Taiwan - Hybrid          | August 23-25, 2022   | Abstract Deadline: April 22, 2022 <br />Co-located with NVMSA 2022. |
 | [RO-MAN 2022](http://www.smile.unina.it/ro-man2022/)         | ~~2022-03-15~~                  | Naples, Italy            | Aug 29 - Sep 2, 2022 | Author Notification: May 30, 2022<br />Camera Ready: June 15, 2022 |
 | [EMSOFT 2022](https://esweek.org)                            | ~~2022-04-07~~                  | Shanghai, China - Hybrid | Oct 7-14, 2022       | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/EMSOFT_2022_CFP.pdf)<br />Abstract Deadline: March 31, 2022<br />Full paper submission: April 07, 2022 <br />Work-in-progress paper submission: June 11, 2022<br />Author notification: July 05, 2022 |
 | [CASES 2022](https://esweek.org/cases/)                      | ~~2022-04-07~~                  | Shanghai, China - Hybrid | Oct 7-14, 2022       | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/CASES_2022_CFP.pdf)<br />Details refer to EMSOFT. |
@@ -94,25 +99,42 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 ## Journal List
 
-Top journals for Real-Time Systems, Embedded Systems and Parallel Computing:
+Top journals for Real-Time Systems, Embedded Systems, Design Automation, Parallel Computing, etc.:
 
 | Name                                                         | Publisher | Rank | IF   | Remarks |
 | ------------------------------------------------------------ | --------- | :--- | ---- | ------- |
-| [TECS: ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs) | ACM       | ---  | ---  |         |
-| [TOCS: ACM Transactions on Computer Systems](https://dl.acm.org/journal/tocs) | ACM       | ---  | ---  |         |
-| [TOPC: ACM Transactions on Parallel Computing](https://dl.acm.org/journal/topc) | ACM       | ---  | ---  |         |
-| [TCPS: ACM Transactions on Cyber-Physical Systems](https://dl.acm.org/journal/tcps) | ACM       | ---  | ---  |         |
-| [TC: IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) | IEEE      | ---  | ---  |         |
-| [TCAD: IEEE Transactions on Computer-Aided Design of Integrated Circuits And System](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) | IEEE      | ---  | ---  |         |
-| [TPDS: IEEE Transactions on Parallel and Distributed Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | IEEE      | ---  | ---  |         |
+| [ACM Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs) | ACM       | ---  | ---  |         |
+| [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs) | ACM       | ---  | ---  |         |
+| [ACM Transactions on Parallel Computing (TOPC)](https://dl.acm.org/journal/topc) | ACM       | ---  | ---  |         |
+| [ACM Transactions on Cyber-Physical Systems (TCPS)](https://dl.acm.org/journal/tcps) | ACM       | ---  | ---  |         |
+| [ACM Transactions on Modeling and Computer Simulation (TOMACS)](https://tomacs.acm.org) | ACM       | ---  | ---  |         |
+| [ACM Transactions on Design Automation of Electronic Systems (TODAES)](https://todaes.acm.org) | ACM       | ---  | ---  |         |
+| [ACM Journal on Emerging Technologies in Computing Systems (JETC)](https://jetc.acm.org) | ACM       | ---  | ---  |         |
+| [ACM Transactions on Internet of Things (TIOT)](https://tiot.acm.org) | ACM       | ---  | ---  |         |
+| [ACM Transactions on Sensor Networks (TOSN)](https://tosn.acm.org) | ACM       | ---  | ---  |         |
+| [Formal Aspects of Computing: Applicable Formal Methods (FAC)](https://fac.acm.org) | ACM       | ---  | ---  |         |
+| [IEEE Transactions on Computers (TC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) | IEEE      | ---  | ---  |         |
+| [IEEE Transactions on Computer-Aided Design of Integrated Circuits And System (TCAD)](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) | IEEE      | ---  | ---  |         |
+| [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | IEEE      | ---  | ---  |         |
 | [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/ieee-embedded-systems-letters-esl) | IEEE      | ---  | ---  |         |
-| [MICPRO: Microprocessors and Microsystems](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  | ---  | ---  |         |
-| [JSA: Journal of Systems Architecture](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  | ---  | ---  |         |
-| [RTS: Real-Time Systems](https://www.springer.com/journal/11241) | Springer  | ---  | ---  |         |
+| [Microprocessors and Microsystems (MICPRO)](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  | ---  | ---  |         |
+| [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  | ---  | ---  |         |
+| [Real-Time Systems (RTS)](https://www.springer.com/journal/11241) | Springer  | ---  | ---  |         |
 
-Top journals for Robotics and Control:
+Top journals for Robotics, Control and Learning:
 
-(To be added)
+| Name                                                         | Publisher | Rank | IF   | Remarks |
+| ------------------------------------------------------------ | --------- | :--- | ---- | ------- |
+| Robotics and Autonomous Systems (RAS)                        |           |      |      |         |
+| IEEE Transactions on Robotics (TRO)                          | IEEE      |      |      |         |
+| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      |      |      |         |
+| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      |      |      |         |
+| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      |      |      |         |
+| Journal of Field Robotics (JFR)                              |           | ---  | ---  |         |
+| Journal of Intelligent and Robotic Systems (JINT)            |           |      |      |         |
+| Journal of Machine Learning Research (JMLR)                  |           |      |      |         |
+| International Journal of Computer Vision (IJCV)              |           |      |      |         |
+| International Journal of Robotics Research (IJRR)            |           |      |      |         |
 
 ---
 
