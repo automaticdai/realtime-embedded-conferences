@@ -18,13 +18,14 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
 | [CoRL 2022](https://corl2022.org/call-for-papers/) | 2022-06-15 | Auckland, NZ | Dec 14-18, 2022 |  |
 | ICESS 2022 | 2022-07-31 (est.) | (TBA) | (TBA) |  |
-| ICRA 2023 | 2022-09-09 (est.) | (TBA) | (TBA) | |
-| DATE 2023 | 2022-09-19 (est.) | (TBA)                               | (TBA)                       |  |
+| [ICRA 2023](https://www.icra2023.org/) | 2022-09-15 | London, UK | May 29 - June 2, 2023 | |
+| [DATE 2023](https://www.date-conference.com/date-2023-call-papers) | 2022-09-19 | Antwerp, Belgium                | April 17-19, 2023       |  |
 | RTAS 2023 | 2022-10-29 (est.) | (TBA) | (TBA) | |
 | ICCPS 2023 | 2022-10-29 (est.) | (TBA) | (TBA) | |
 | DAC 2023 | 2022-11-22 (est.) | (TBA) | (TBA) | |
 | ECRTS 2023 | 2023-02-02 (est.) | (TBA) | (TBA) | |
 | IROS 2023 | 2023-03-01 (est.) | (TBA) | (TBA) | |
+| RTNS 2023 | 2023-03-09 (est.) | (TBA) | (TBA) | |
 | ICCAD 2023 | 2023-05-23 (est.) | (TBA) | (TBA) | |
 | RTSS 2023 | 2023-05-26 (est.) | (TBA) | (TBA) | |
 
@@ -35,15 +36,15 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [RTNS 2022](https://rtns2022.inria.fr/)                      | ~~2022-02-24~~ → ~~2022-03-09~~ | Paris, France                       | June 7-8, 2022              | Author notification: April 20, 2022<br/>Camera ready: May 4, 2022<br/> |
 | [Ada-Europe 2022](http://www.ada-europe.org/conference2022/cfp.html) | ~~2022-01-16~~                  | Ghent, Belgium                      | June 14-17, 2022            | Ada Europe 2022 will be hybrid. The conference schedule comprises a journal track, an industrial track, a work-in-progress track, a vendor exhibition, parallel tutorials, and satellite workshops.<br /><br />Important Dates:<br />Feb 27, 2022: Submission deadline for industrial-track and WiP track.<br />March 14, 2022: Author notification of acceptance. |
 | [LCTES 2022](https://pldi22.sigplan.org/track/LCTES-2022)    | ~~2022-03-07~~ → ~~2022-03-14~~ | (TBA)                               | June 21, 2022               | Paper notification: April 8, 2022<br/>Artifact submission: April 16, 2022<br/>Artifact decision: May 2, 2022<br/>Camera-ready deadline: May 6, 2022 |
-| [NG-RES 2022](http://ng-res.deib.polimi.it/)                 | ~~2022-04-04~~                  | Budapest, Hungary                   | June 22, 2022               | Workshop on real-time systems @ HiPEAC conference.<br />Author notification: May 11th, 2022 |
+| [NG-RES 2022](http://ng-res.deib.polimi.it/) (w)             | ~~2022-04-04~~                  | Budapest, Hungary                   | June 22, 2022               | Workshop on real-time systems @ HiPEAC conference.<br />Author notification: May 11th, 2022 |
 | [RSS 2022](https://roboticsconference.org/)                  | ~~2022-01-28~~                  | New York City                       | June 27-July 1, 2022        |                                                              |
 | [ECRTS 2022](https://www.ecrts.org/)                         | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Notification: April 13, 2022 <br />Camera-ready deadline: May 5, 2022 |
-| [WCET 2022](https://www.ecrts.org/wcet-2022/)                | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Workshop on Worst-case Execution Times. Associated with ECRTS. |
-| [RTSOPS 2022](https://www.ecrts.org/rtsops-2022/)            | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Workshop on Real-Time Scheduling Open Problems Seminar. Associated with ECRTS. |
-| [RT-Cloud 2022](https://www.ecrts.org/rt-cloud-2022/)        | ~~2022-02-02~~ → ~~2022-05-04~~ | Modena, Italy                       | July 5, 2022                | Workshop on Real-Time Cloud Computing. Associated with ECRTS.<br />Author Notification: May 4, 2022 |
-| [OSPERT 2022](https://sra.uni-hannover.de/ospert22/)         | ~~2022-04-27~~ → ~~2022-05-04~~ | Modena, Italy                       | July 5, 2022                | Workshop on Operating Systems Platforms for Embedded Real-Time applications. <br />Held in conjunction with ECRTS. |
+| [WCET 2022](https://www.ecrts.org/wcet-2022/) (w)            | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Workshop on Worst-case Execution Times. Associated with ECRTS. |
+| [RTSOPS 2022](https://www.ecrts.org/rtsops-2022/) (w)        | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Workshop on Real-Time Scheduling Open Problems Seminar. Associated with ECRTS. |
+| [RT-Cloud 2022](https://www.ecrts.org/rt-cloud-2022/) (w)    | ~~2022-02-02~~ → ~~2022-05-04~~ | Modena, Italy                       | July 5, 2022                | Workshop on Real-Time Cloud Computing. Associated with ECRTS.<br />Author Notification: May 4, 2022 |
+| [OSPERT 2022](https://sra.uni-hannover.de/ospert22/) (w)     | ~~2022-04-27~~ → ~~2022-05-04~~ | Modena, Italy                       | July 5, 2022                | Workshop on Operating Systems Platforms for Embedded Real-Time applications. <br />Held in conjunction with ECRTS. |
 | [DAC 2022](https://www.dac.com/DAC-2022/2022-Call-for-Contributions) | ~~2021-11-22~~                  | San Francisco, CA.                  | July 10-14, 2022            | Abstraction Deadline: Nov 15                                 |
-| [RAGE 2022](https://rage2022.github.io/)                     | ~~2022-03-20~~                  | San Francisco, CA                   | July 10, 2022               | 1st Real-time And intelliGent Edge computing workshop (RAGE) --- associated with DAC 2022. Topics cover real-time edge computing, QoS for virtualization, predictability in edge-to-cloud, predictability in middleware and real-time network protocols, etc. <br />Notification to authors: April 11th 2022 |
+| [RAGE 2022](https://rage2022.github.io/) (w)                 | ~~2022-03-20~~                  | San Francisco, CA                   | July 10, 2022               | 1st Real-time And intelliGent Edge computing workshop (RAGE) --- associated with DAC 2022. Topics cover real-time edge computing, QoS for virtualization, predictability in edge-to-cloud, predictability in middleware and real-time network protocols, etc. <br />Notification to authors: April 11th 2022 |
 | [RTCSA 2022](https://rtcsa.org/index.html)                   | ~~2022-04-15~~ → ~~2022-04-29~~ | Taiwan - Hybrid                     | August 23-25, 2022          | Abstract Deadline: April 22, 2022 <br />Co-located with NVMSA 2022. |
 | [RO-MAN 2022](http://www.smile.unina.it/ro-man2022/)         | ~~2022-03-15~~                  | Naples, Italy                       | Aug 29 - Sep 2, 2022        | Author Notification: May 30, 2022<br />Camera Ready: June 15, 2022 |
 | [DSD 2022](https://dsd-seaa2022.iuma.ulpgc.es/)              | ~~2022-04-01~~ → ~~2022-05-25~~ | Maspalomas, Spain                   | August 31-September 2, 2022 | Notification of Acceptance: May 31st, 2022 <br />Camera-Ready Papers: June 15th, 2022 |
@@ -97,6 +98,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 -   ~~deadline~~: the deadline has passed;
 -   ~~old~~ → new: information is updated;
 -   ↑: ordered by this column;
+-   (w): workshop;
 -   (TBA): the information is not yet announced;
 -   (est.): the deadline is estimated based on previous years.
 
