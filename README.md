@@ -22,8 +22,10 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | RTAS 2023 | 2022-10-29 (est.) | (TBA) | (TBA) | |
 | ICCPS 2023 | 2022-10-29 (est.) | (TBA) | (TBA) | |
 | DAC 2023 | 2022-11-22 (est.) | (TBA) | (TBA) | |
+| RSS 2023 | 2023-01-28 (est.) | (TBA) | (TBA) | |
 | ECRTS 2023 | 2023-02-02 (est.) | (TBA) | (TBA) | |
 | IROS 2023 | 2023-03-01 (est.) | (TBA) | (TBA) | |
+| LCTES 2023 | 2023-03-07 (est.) | (TBA) | (TBA) | |
 | RTNS 2023 | 2023-03-09 (est.) | (TBA) | (TBA) | |
 | ICCAD 2023 | 2023-05-23 (est.) | (TBA) | (TBA) | |
 | RTSS 2023 | 2023-05-26 (est.) | (TBA) | (TBA) | |
@@ -32,9 +34,6 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline                        | Where                               | When                        | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :---------------------------------- | --------------------------- | ------------------------------------------------------------ |
-| [LCTES 2022](https://pldi22.sigplan.org/track/LCTES-2022)    | ~~2022-03-07~~ → ~~2022-03-14~~ | (TBA)                               | June 21, 2022               | Paper notification: April 8, 2022<br/>Artifact submission: April 16, 2022<br/>Artifact decision: May 2, 2022<br/>Camera-ready deadline: May 6, 2022 |
-| [NG-RES 2022](http://ng-res.deib.polimi.it/) (w)             | ~~2022-04-04~~                  | Budapest, Hungary                   | June 22, 2022               | Workshop on real-time systems @ HiPEAC conference.<br />Author notification: May 11th, 2022 |
-| [RSS 2022](https://roboticsconference.org/)                  | ~~2022-01-28~~                  | New York City                       | June 27-July 1, 2022        |                                                              |
 | [ECRTS 2022](https://www.ecrts.org/)                         | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Notification: April 13, 2022 <br />Camera-ready deadline: May 5, 2022 |
 | [WCET 2022](https://www.ecrts.org/wcet-2022/) (w)            | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Workshop on Worst-case Execution Times. Associated with ECRTS. |
 | [RTSOPS 2022](https://www.ecrts.org/rtsops-2022/) (w)        | ~~2022-02-02~~                  | Modena, Italy                       | July 5–8, 2022              | Workshop on Real-Time Scheduling Open Problems Seminar. Associated with ECRTS. |
@@ -81,7 +80,10 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [IROS 2021](http://www.iros2021.org/)                        | ~~2021-03-05~~                  | Prague, Czech Republic                  | Sep 27 - Oct 1, 2021  |                                                              |
 | [ISORC 2022](https://isorc2022.github.io/index.html)         | ~~2022-02-12~~                  | Västerås, Sweden                        | May 17-19, 2022       | Rebuttal period: March 23-25, 2022<br/>Acceptance notification: April 4, 2022<br/>Camera-ready papers: April 20, 2022 |
 | [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021)     | ~~2021-03-08~~                  | Virtual                                 | June 20-25, 2021      | Notification of acceptance: Apr 9, 2021                      |
+| [LCTES 2022](https://pldi22.sigplan.org/track/LCTES-2022)    | ~~2022-03-07~~ → ~~2022-03-14~~ | San Diego, California, USA              | June 13-17, 2022      | Paper notification: April 8, 2022<br/>Artifact submission: April 16, 2022<br/>Artifact decision: May 2, 2022<br/>Camera-ready deadline: May 6, 2022 |
+| [NG-RES 2022](http://ng-res.deib.polimi.it/) (w)             | ~~2022-04-04~~                  | Budapest, Hungary                       | June 22, 2022         | Workshop on real-time systems @ HiPEAC conference.<br />Author notification: May 11th, 2022 |
 | [RSS 2021](https://roboticsconference.org/)                  | ~~2021-03-01~~                  | Virtual                                 | July 12-16, 2021      | Notification of acceptance: May 10, 2021                     |
+| [RSS 2022](https://roboticsconference.org/)                  | ~~2022-01-28~~                  | New York City                           | June 27-July 1, 2022  |                                                              |
 | [RTAS 2021](http://2021.rtas.org/)                           | ---                             | ~~Nashville, Tennessee, USA~~ → Virtual | May 18-21, 2021       |                                                              |
 | [RTAS 2022](http://2022.rtas.org/)                           | ~~2021-10-29~~                  | Milano, Italy                           | May 4-6, 2022         | Part of CPS-IoT week.<br />Rebuttal Period: Jan 3-5, 2022<br />Author Notification: Jan 17, 2022 |
 | [RTSS 2020](http://2020.rtss.org/)                           | ---                             | Virtual                                 | Dec 1-4, 2020         |                                                              |
