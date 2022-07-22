@@ -17,6 +17,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
 | [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/) | 2022-09-01 | Chengdu, China | Dec 18-20, 2022 |  |
+| WMC 2022 (w) | 2022-09-05 | Houston, USA | Dec 5, 2022 | Workshop on Mixed-Criticality Systems. Associated with RTSS 2022. |
 | [ICRA 2023](https://www.icra2023.org/) | 2022-09-15 | London, UK | May 29 - June 2, 2023 | |
 | [DATE 2023](https://www.date-conference.com/date-2023-call-papers) | 2022-09-19 | Antwerp, Belgium                | Apr 17-19, 2023       |  |
 | RTAS 2023 | 2022-10-29 (est.) | (TBA) | (TBA) | |
@@ -30,7 +31,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | ICCAD 2023 | 2023-05-23 (est.) | (TBA) | (TBA) | |
 | RTSS 2023 | 2023-05-26 (est.) | (TBA) | (TBA) | |
 
-**Conference deadline passed & upcoming:**
+## Deadline passed & upcoming
 
 | Name                                                         | Deadline                        | Where                               | When                        | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :---------------------------------- | --------------------------- | ------------------------------------------------------------ |
@@ -55,8 +56,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [RTSS 2022](http://2022.rtss.org/)                           | ~~2022-05-26~~                  | Houston, USA                        | Dec 5-8, 2022               | Rebuttal Period: 15-21 July, 2022<br />Paper Notification: August 5, 2022 |
 | [CoRL 2022](https://corl2022.org/)                           | ~~2022-06-15~~                  | Auckland, NZ                        | Dec 14-18, 2022             |                                                              |
 
-
-**Completed & Archived (by alphabet):** 
+## Completed & Archived (by alphabet)
 
 | Name                                                         | Deadline                        | Where                                   | When                  | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :-------------------------------------- | --------------------- | ------------------------------------------------------------ |
