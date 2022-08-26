@@ -20,14 +20,14 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [WMC 2022](https://wmc2022.github.io/) (w) | ~~2022-09-05~~ → 2022-09-12 | Houston, USA | Dec 5, 2022 | Workshop on Mixed-Criticality Systems.  [(cfp)](https://wmc2022.github.io/assets/WMC_2022_CFP.pdf)<br />Associated with RTSS 2022.<br />Notification of acceptance: Oct 10, 2022<br/>Final version: Oct 24, 2022 |
 | [ICRA 2023](https://www.icra2023.org/) | 2022-09-15 | London, UK | May 29 - June 2, 2023 | |
 | [DATE 2023](https://www.date-conference.com/date-2023-call-papers) | 2022-09-19 | Antwerp, Belgium                | Apr 17-19, 2023       |  |
-| [RTAS 2023](http://2023.rtas.org/) | 2022-10-28 | Location tbc | Date tbc | Author Notification: Jan 20, 2023<br />BP submission deadline: Feb 10, 2023<br />AE submission deadline: Feb 24, 2023<br />Camera-Ready: March 17, 2023 |
+| [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2022-09-22 & 2023-01-17 | Dortmund, Germany | June 7-8, 2023 | This 31st occurrence of RTNS is a special one. First, this 31st edition will be the first occurrence outside France. Second, RTNS offers now two deadlines: one in September, and a second in January. |
+| [RTAS 2023](http://2023.rtas.org/) | 2022-10-28 | San Antonio, Texas | May 9-12, 2023 | Author Notification: Jan 20, 2023<br />BP submission deadline: Feb 10, 2023<br />AE submission deadline: Feb 24, 2023<br />Camera-Ready: March 17, 2023 |
 | ICCPS 2023 | 2022-10-29 (est.) | (TBA) | (TBA) | |
 | DAC 2023 | 2022-11-22 (est.) | (TBA) | (TBA) | |
 | RSS 2023 | 2023-01-28 (est.) | (TBA) | (TBA) | |
 | ECRTS 2023 | 2023-02-02 (est.) | (TBA) | (TBA) | |
 | IROS 2023 | 2023-03-01 (est.) | (TBA) | (TBA) | |
 | LCTES 2023 | 2023-03-07 (est.) | (TBA) | (TBA) | |
-| RTNS 2023 | 2023-03-09 (est.) | (TBA) | (TBA) | |
 | ICCAD 2023 | 2023-05-23 (est.) | (TBA) | (TBA) | |
 | RTSS 2023 | 2023-05-26 (est.) | (TBA) | (TBA) | |
 
@@ -35,7 +35,6 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                 | Deadline                        | Where                               | When                        | Remarks                                                      |
 | ---------------------------------------------------- | ------------------------------- | :---------------------------------- | --------------------------- | ------------------------------------------------------------ |
-| [RTCSA 2022](https://rtcsa.org/index.html)           | ~~2022-04-15~~ → ~~2022-04-29~~ | Taiwan - Hybrid                     | August 23-25, 2022          | Abstract Deadline: April 22, 2022 <br />Co-located with NVMSA 2022. |
 | [RO-MAN 2022](http://www.smile.unina.it/ro-man2022/) | ~~2022-03-15~~                  | Naples, Italy                       | Aug 29 - Sep 2, 2022        | Author Notification: May 30, 2022<br />Camera Ready: June 15, 2022 |
 | [DSD 2022](https://dsd-seaa2022.iuma.ulpgc.es/)      | ~~2022-04-01~~ → ~~2022-05-25~~ | Maspalomas, Spain                   | August 31-September 2, 2022 | Notification of Acceptance: May 31st, 2022 <br />Camera-Ready Papers: June 15th, 2022 |
 | [TAROS 2022](https://ukaeaevents.com/23rd-taros/)    | ~~2022-05-20~~                  | Culham Science Centre, UK           | Sep 7-9, 2022               | Confirmation of acceptance: June 10th, 2022                  |
@@ -83,6 +82,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [RAGE 2022](https://rage2022.github.io/) (w)                 | ~~2022-03-20~~                  | San Francisco, CA                       | July 10, 2022         | 1st Real-time And intelliGent Edge computing workshop (RAGE) --- associated with DAC 2022. Topics cover real-time edge computing, QoS for virtualization, predictability in edge-to-cloud, predictability in middleware and real-time network protocols, etc. <br />Notification to authors: April 11th 2022 |
 | [RTAS 2021](http://2021.rtas.org/)                           | ---                             | ~~Nashville, Tennessee, USA~~ → Virtual | May 18-21, 2021       |                                                              |
 | [RTAS 2022](http://2022.rtas.org/)                           | ~~2021-10-29~~                  | Milano, Italy                           | May 4-6, 2022         | Part of CPS-IoT week.<br />Rebuttal Period: Jan 3-5, 2022<br />Author Notification: Jan 17, 2022 |
+| [RTCSA 2022](https://rtcsa.org/index.html)                   | ~~2022-04-15~~ → ~~2022-04-29~~ | Taiwan - Hybrid                         | August 23-25, 2022    | Abstract Deadline: April 22, 2022 <br />Co-located with NVMSA 2022. |
 | [RTSOPS 2022](https://www.ecrts.org/rtsops-2022/) (w)        | ~~2022-02-02~~                  | Modena, Italy                           | July 5–8, 2022        | Workshop on Real-Time Scheduling Open Problems Seminar. Associated with ECRTS. |
 | [RTSS 2020](http://2020.rtss.org/)                           | ---                             | Virtual                                 | Dec 1-4, 2020         |                                                              |
 | [RTSS 2021](http://2021.rtss.org/)                           | ~~2021-05-27~~                  | ~~Dortmund, Germany~~ → Fully Virtual   | Dec 7-10, 2021        | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
