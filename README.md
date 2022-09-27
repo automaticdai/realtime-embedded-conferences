@@ -16,13 +16,13 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
-| [DATE 2023](https://www.date-conference.com/) | 2022-09-25 | Antwerp, Belgium                | Apr 17-19, 2023       | Abstract deadline: 18 Sep, 2022<br>Other key dates can be found: [here](https://www.date-conference.com/call-for-papers) |
 | [RTAS 2023](http://2023.rtas.org/) | 2022-10-31 | San Antonio, Texas | May 9-12, 2023 | Author Notification: Jan 20, 2023<br />BP submission deadline: Feb 10, 2023<br />AE submission deadline: Feb 24, 2023<br />Camera-Ready: March 17, 2023 |
 | [ICCPS 2023](https://iccps.acm.org/2023/) | 2022-10-31 | San Antonio, Texas | May 9-12, 2023 | Abstract Registration: Oct 24, 2022<br />Decision Notification: Jan 20, 2023 |
+| [NG-RES 2023](http://ng-res.deib.polimi.it/index.php) (w) | 2022-11-20 | Toulouse, France | Jan 16-18, 2023 | Workshop on Next Generation Real-Time Embedded Systems. Co-located with HiPEAC 2023.<br />Author notification: Nov 20, 2022<br />Camera ready: Dec 31, 2022 |
 | [DAC 2023](https://www.dac.com/) | 2022-11-22 (est.) | San Francisco, USA | July 9-13, 2023 | |
 | [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2023-01-17 | Dortmund, Germany | June 7-8, 2023 | This 31st occurrence of RTNS is a special one. First, this 31st edition will be the first occurrence outside France. Second, RTNS offers now two deadlines: one in September, and a second in January. |
 | RSS 2023 | 2023-01-28 (est.) | (TBA) | (TBA) | |
-| ECRTS 2023 | 2023-02-02 (est.) | (TBA) | (TBA) | |
+| [ECRTS 2023](https://www.ecrts.org/) | 2023-03-01 | Vienna, Austria | July 11-14, 2023 | Notification: Apr 22, 2023 |
 | IROS 2023 | 2023-03-01 (est.) | (TBA) | (TBA) | |
 | LCTES 2023 | 2023-03-07 (est.) | (TBA) | (TBA) | |
 | ROMAN 2023 | 2023-03-23 (est.) | (TBA) | (TBA) | |
@@ -45,6 +45,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | [WMC 2022](https://wmc2022.github.io/) (w)                | ~~2022-09-05~~ → ~~2022-09-12~~ | Houston, USA                        | Dec 5, 2022           | Workshop on Mixed-Criticality Systems.  [(cfp)](https://wmc2022.github.io/assets/WMC_2022_CFP.pdf)<br />Associated with RTSS 2022.<br />Notification of acceptance: Oct 10, 2022<br/>Final version: Oct 24, 2022 |
 | [CoRL 2022](https://corl2022.org/)                        | ~~2022-06-15~~                  | Auckland, NZ                        | Dec 14-18, 2022       |                                                              |
 | [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/) | ~~2022-09-01~~ → ~~2022-09-20~~ | Chengdu, China                      | Dec 18-20, 2022       | Author Notification: 15 Oct 2022                             |
+| [DATE 2023](https://www.date-conference.com/)             | ~~2022-09-25~~                  | Antwerp, Belgium                    | Apr 17-19, 2023       | Abstract deadline: 18 Sep, 2022<br>Other key dates can be found: [here](https://www.date-conference.com/call-for-papers) |
 | [ICRA 2023](https://www.icra2023.org/)                    | ~~2022-09-15~~                  | London, UK                          | May 29 - June 2, 2023 | Notification of paper acceptance: 31 Jan, 2023               |
 
 ## Completed & Archived (by alphabet)
