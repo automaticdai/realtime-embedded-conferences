@@ -141,16 +141,17 @@ Top journals for Robotics, Control and Learning:
 
 | Name                                                         | Publisher | Rank | IF   | Remarks |
 | ------------------------------------------------------------ | --------- | :--- | ---- | ------- |
-| Robotics and Autonomous Systems (RAS)                        |           |      |      |         |
-| IEEE Transactions on Robotics (TRO)                          | IEEE      |      |      |         |
-| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      |      |      |         |
-| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      |      |      |         |
-| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      |      |      |         |
-| Journal of Field Robotics (JFR)                              |           | ---  | ---  |         |
-| Journal of Intelligent and Robotic Systems (JINT)            |           |      |      |         |
-| Journal of Machine Learning Research (JMLR)                  |           |      |      |         |
-| International Journal of Computer Vision (IJCV)              |           |      |      |         |
-| International Journal of Robotics Research (IJRR)            |           |      |      |         |
+| ACM Transactions on Human-Robot Interaction (THRI)           | ACM       | ---  | ---  |         |
+| IEEE Transactions on Robotics (TRO)                          | IEEE      | ---  | ---  |         |
+| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      | ---  | ---  |         |
+| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      | ---  | ---  |         |
+| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      | ---  | ---  |         |
+| Robotics and Autonomous Systems (RAS)                        | Elsevier  | ---  | ---  |         |
+| Journal of Intelligent and Robotic Systems (JINT)            | Springer  | ---  | ---  |         |
+| International Journal of Computer Vision (IJCV)              | Springer  | ---  | ---  |         |
+| International Journal of Robotics Research (IJRR)            | SAGE      | ---  | ---  |         |
+| Journal of Machine Learning Research (JMLR)                  | Microtome | ---  | ---  |         |
+| Journal of Field Robotics (JFR)                              | Wiley     | ---  | ---  |         |
 
 ---
 
