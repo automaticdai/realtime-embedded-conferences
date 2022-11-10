@@ -18,8 +18,8 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
 | [RTAS 2023](http://2023.rtas.org/) | ~~2022-10-31~~ | San Antonio, Texas | May 9-12, 2023 | Part of the CPS-IoT Week<br />Author Notification: Jan 20, 2023<br />BP submission deadline: Feb 10, 2023<br />AE submission deadline: Feb 24, 2023<br />Camera-Ready: March 17, 2023 |
 | [ICCPS 2023](https://iccps.acm.org/2023/) | ~~2022-10-31~~ | San Antonio, Texas | May 9-12, 2023 | Part of the CPS-IoT Week<br />Abstract Registration: Oct 24, 2022<br />Decision Notification: Jan 20, 2023 |
+| [DAC 2023](https://www.dac.com/) | 2022-11-14 | San Francisco, USA | July 9-13, 2023 | |
 | [NG-RES 2023](http://ng-res.deib.polimi.it/index.php) (w) | 2022-11-20 | Toulouse, France | Jan 16-18, 2023 | Workshop on Next Generation Real-Time Embedded Systems. Co-located with HiPEAC 2023.<br />Author notification: Nov 20, 2022<br />Camera ready: Dec 31, 2022 |
-| [DAC 2023](https://www.dac.com/) | 2022-11-22 (est.) | San Francisco, USA | July 9-13, 2023 | |
 | [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2023-01-17 | Dortmund, Germany | June 7-8, 2023 | This 31st occurrence of RTNS is a special one. First, this 31st edition will be the first occurrence outside France. Second, RTNS offers now two deadlines: one in September, and a second in January. |
 | RSS 2023 | 2023-01-28 (est.) | (TBA) | (TBA) | |
 | [ECRTS 2023](https://www.ecrts.org/) | 2023-03-01 | Vienna, Austria | July 11-14, 2023 | Notification: Apr 22, 2023 |
