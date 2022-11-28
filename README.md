@@ -16,7 +16,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
-| [NG-RES 2023](http://ng-res.deib.polimi.it/index.php) (w) | ~~2022-11-20~~ → 2022-11-27 | Toulouse, France | Jan 16-18, 2023 | Workshop on Next Generation Real-Time Embedded Systems. Co-located with HiPEAC 2023.<br />Author notification: Nov 20, 2022<br />Camera ready: Dec 31, 2022 |
+| [NG-RES 2023](http://ng-res.deib.polimi.it/index.php) (w) | ~~2022-11-20~~ → ~~2022-11-27~~ | Toulouse, France | Jan 16-18, 2023 | Workshop on Next Generation Real-Time Embedded Systems. Co-located with HiPEAC 2023.<br />Author notification: Nov 20, 2022<br />Camera ready: Dec 31, 2022 |
 | [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2023-01-17 | Dortmund, Germany | June 7-8, 2023 | This 31st occurrence of RTNS is a special one. First, this 31st edition will be the first occurrence outside France. Second, RTNS offers now two deadlines: one in September, and a second in January. |
 | [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | 2023-01-16 | Lisbon, Portugal | June 13-16, 2023 |  |
 | [RSS 2023](https://roboticsconference.org/) | 2023-02-03 | Daegu, Korea | Jun 23 - 28, 2023 | |
