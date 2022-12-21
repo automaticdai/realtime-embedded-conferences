@@ -16,18 +16,18 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
-| [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2023-01-17 | Dortmund, Germany | June 7-8, 2023 | This 31st occurrence of RTNS is a special one. First, this 31st edition will be the first occurrence outside France. Second, RTNS offers now two deadlines: one in September, and a second in January. |
-| [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | 2023-01-16 | Lisbon, Portugal | June 13-16, 2023 |  |
-| [RSS 2023](https://roboticsconference.org/) | 2023-02-03 | Daegu, Korea | Jun 23 - 28, 2023 | |
+| [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | 2023-01-16 | Lisbon, Portugal | June 13-16, 2023 | **27 February 2023:** Submission deadline for [industrial-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpindus), [work-in-progress papers](http://www.ada-europe.org/conference2023/cfp.html#cfpwip), [tutorial](http://www.ada-europe.org/conference2023/cfp.htmt#cfptutorial), and [workshop proposals](http://www.ada-europe.org/conference2023/cfp.html#cfpws)<br />**20 March 2023:** First round notification for [journal-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpjournal), and notification of acceptance for all other types of submissions |
+| [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2023-01-25 | Dortmund, Germany | June 7-8, 2023 | This is the 2nd round of the new [Double Submission Model](https://rtns2023.cs.tu-dortmund.de/double-submission-model/)  <br />**Abstract Deadline:** Jan 23th, 2023 |
+| [RSS 2023](https://roboticsconference.org/) | 2023-02-03 | Daegu, Korea | Jun 23 - 28, 2023 |  |
 | [ECRTS 2023](https://www.ecrts.org/) | 2023-03-01 | Vienna, Austria | July 11-14, 2023 | **Author Notification:** Apr 22, 2023 |
 | [IROS 2023](https://ieee-iros.org/) | 2023-03-01 | Detroit, US | Oct 1-5, 2023 | |
 | LCTES 2023 | 2023-03-07 (est.) | (TBA) | (TBA) | |
 | [ROMAN 2023](http://ro-man2023.org/main) | 2023-03-17 | Busan, Korea | August 28-31 | **Important Dates:**<br />- Submission Deadline: March 17, 2023<br />- Notification of Acceptance: May 26, 2023<br />- Camera-Ready Deadline: June 30, 2023<br />- LBR Paper Submission: June 2, 2023<br />- LBR Acceptance Notification: June 30, 2023 |
-| EMSOFT 2023 | 2023-04-07 (est.) | (TBA) | (TBA) | |
-| CASES 2023 | 2023-04-07 (est.) | (TBA) | (TBA) | |
-| CODES+ISSS 2023 | 2023-04-07 (est.) | (TBA) | (TBA) | |
-| NOCS 2023 | 2023-04-07 (est.) | (TBA) | (TBA) | |
-| [DSD 2023](https://dsd-seaa2023.com/) | 2023-04-17 | Durres, Albania | Sep 6-8, 2023 | **Paper Submission Deadline**: April 17th, 2023<br/>**Notification of Acceptance**: May 29th, 2023<br/>**Camera-Ready Papers**: June 16th, 2023 |
+| EMSOFT 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | Journal Track: <br />\- Abstract Submission: March 16, 2023 (AoE) <br />\- Full Paper Submission: March 23, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 30, 2023<br /><br />Work-in-Progress Track: <br />\- Paper Submission: May 22, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 19, 2023<br /><br />Proposals of Workshops, Tutorials, Education Classes, and Special Sessions: March 20, 2023 |
+| CASES 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
+| CODES+ISSS 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
+| NOCS 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
+| [DSD 2023](https://dsd-seaa2023.com/) | 2023-04-17 | Durres, Albania | Sep 6-8, 2023 | **Submission Deadline**: April 17th, 2023<br/>**Notification of Acceptance**: May 29th, 2023<br/>**Camera-Ready Papers**: June 16th, 2023 |
 | RTCSA 2023 | 2023-04-29 (est.) | (TBA) | (TBA) | |
 | ICCAD 2023 | 2023-05-23 (est.) | San Francisco, CA, USA | Oct 28 - Nov 2, 2023 | |
 | RTSS 2023 | 2023-05-26 (est.) | (TBA) | (TBA) | |
