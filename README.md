@@ -4,15 +4,23 @@
 
 Track the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. This list is updated in a frequently basis (normally weekly). The list is _ordered by deadlines_ before submission deadline, otherwise it will be _ordered by conference opening date_. The idea is to keep tracking of these conferences including up-to-date information, so the researchers within the community would never miss important announcements and useful information.
 
-***Contributing to this list:*** This list is for the community's benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to update the list or spot any error, you can: (1) create a pull request (PR) in GitHub, (2) commit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); (3) contact the administrator: _xiaotian.dai (at) york.ac.uk_.
+***Contributing to this list:*** This list is for the community's common benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to add to the list or report an error, you can either (1) commit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues), or (2) contact me: _xiaotian.dai (at) york.ac.uk_. If you prefer to change it yourself, you can clone, modify and create a pull request (PR) in GitHub. 
 
 ***Caution of time zones:*** Note that some of the conference deadlines are in local time zones, but most are AoE, i.e., anywhere on earth (UTC-12:00). Please be aware of the time zone, especially when the deadline is approaching. Also note that the deadlines are for the full manuscript submission, but some of the conferences may have a deadline for abstract (normally one week earlier), which will be noted in the `Remarks` section, even it is not mandatory.
 
-***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time Systems Research Group, University of York, United Kingdom. If you like this project, you can bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
+***Notations:***
+
+-   ~~deadline~~: the deadline has passed;
+-   ~~old~~ → new: information was updated;
+-   (w): workshop;
+-   (TBA): the detail has not yet announced;
+-   (est.): the dates are estimations based on previous years.
+
+***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time Systems Research Group, University of York, United Kingdom. If you find it useful, you can bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
 
 ---
 
-## Conference List
+## Conference Tracking
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
@@ -34,7 +42,7 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 | ICCAD 2023 | 2023-05-23 (est.) | San Francisco, CA, USA | Oct 28 - Nov 2, 2023 | |
 | RTSS 2023 | 2023-05-26 (est.) | (TBA) | (TBA) | |
 
-## Deadline passed & upcoming
+## Deadline Passed & Upcoming
 
 | Name                                                      | Deadline                        | Where              | When                  | Remarks                                                      |
 | --------------------------------------------------------- | ------------------------------- | :----------------- | --------------------- | ------------------------------------------------------------ |
@@ -106,56 +114,45 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 ---
 
-**Notations:**
-
--   ~~deadline~~: the deadline has passed;
--   ~~old~~ → new: information is updated;
--   ↑: ordered by this column;
--   (w): workshop;
--   (TBA): the information is not yet announced;
--   (est.): the deadline is estimated based on previous years.
-
----
-
 ## Journal List
 
 Top journals for Real-Time Systems, Embedded Systems, Design Automation, Parallel Computing, etc.:
 
-| Name                                                         | Publisher | Rank | IF   | Remarks |
-| ------------------------------------------------------------ | --------- | :--- | ---- | ------- |
-| [ACM Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs) | ACM       | ---  | ---  |         |
-| [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs) | ACM       | ---  | ---  |         |
-| [ACM Transactions on Parallel Computing (TOPC)](https://dl.acm.org/journal/topc) | ACM       | ---  | ---  |         |
-| [ACM Transactions on Cyber-Physical Systems (TCPS)](https://dl.acm.org/journal/tcps) | ACM       | ---  | ---  |         |
-| [ACM Transactions on Modeling and Computer Simulation (TOMACS)](https://tomacs.acm.org) | ACM       | ---  | ---  |         |
-| [ACM Transactions on Design Automation of Electronic Systems (TODAES)](https://todaes.acm.org) | ACM       | ---  | ---  |         |
-| [ACM Journal on Emerging Technologies in Computing Systems (JETC)](https://jetc.acm.org) | ACM       | ---  | ---  |         |
-| [ACM Transactions on Internet of Things (TIOT)](https://tiot.acm.org) | ACM       | ---  | ---  |         |
-| [ACM Transactions on Sensor Networks (TOSN)](https://tosn.acm.org) | ACM       | ---  | ---  |         |
-| [Formal Aspects of Computing: Applicable Formal Methods (FAC)](https://fac.acm.org) | ACM       | ---  | ---  |         |
-| [IEEE Transactions on Computers (TC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) | IEEE      | ---  | ---  |         |
-| [IEEE Transactions on Computer-Aided Design of Integrated Circuits And System (TCAD)](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) | IEEE      | ---  | ---  |         |
-| [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | IEEE      | ---  | ---  |         |
-| [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/ieee-embedded-systems-letters-esl) | IEEE      | ---  | ---  |         |
-| [Microprocessors and Microsystems (MICPRO)](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  | ---  | ---  |         |
-| [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  | ---  | ---  |         |
-| [Real-Time Systems (RTS)](https://www.springer.com/journal/11241) | Springer  | ---  | ---  |         |
+| Name                                                         | Publisher | Remarks |
+| ------------------------------------------------------------ | --------- | ------- |
+| [ACM Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs) | ACM       |         |
+| [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs) | ACM       |         |
+| [ACM Transactions on Parallel Computing (TOPC)](https://dl.acm.org/journal/topc) | ACM       |         |
+| [ACM Transactions on Cyber-Physical Systems (TCPS)](https://dl.acm.org/journal/tcps) | ACM       |         |
+| [ACM Transactions on Modeling and Computer Simulation (TOMACS)](https://tomacs.acm.org) | ACM       |         |
+| [ACM Transactions on Design Automation of Electronic Systems (TODAES)](https://todaes.acm.org) | ACM       |         |
+| [ACM Journal on Emerging Technologies in Computing Systems (JETC)](https://jetc.acm.org) | ACM       |         |
+| [ACM Transactions on Internet of Things (TIOT)](https://tiot.acm.org) | ACM       |         |
+| [ACM Transactions on Sensor Networks (TOSN)](https://tosn.acm.org) | ACM       |         |
+| [Formal Aspects of Computing: Applicable Formal Methods (FAC)](https://fac.acm.org) | ACM       |         |
+| [IEEE Transactions on Computers (TC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) | IEEE      |         |
+| [IEEE Transactions on Computer-Aided Design of Integrated Circuits And System (TCAD)](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) | IEEE      |         |
+| [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | IEEE      |         |
+| [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/ieee-embedded-systems-letters-esl) | IEEE      |         |
+| [Microprocessors and Microsystems (MICPRO)](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  |         |
+| [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  |         |
+| [Real-Time Systems (RTS)](https://www.springer.com/journal/11241) | Springer  |         |
 
 Top journals for Robotics, Control and Learning:
 
-| Name                                                         | Publisher | Rank | IF   | Remarks |
-| ------------------------------------------------------------ | --------- | :--- | ---- | ------- |
-| ACM Transactions on Human-Robot Interaction (THRI)           | ACM       | ---  | ---  |         |
-| IEEE Transactions on Robotics (TRO)                          | IEEE      | ---  | ---  |         |
-| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      | ---  | ---  |         |
-| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      | ---  | ---  |         |
-| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      | ---  | ---  |         |
-| Robotics and Autonomous Systems (RAS)                        | Elsevier  | ---  | ---  |         |
-| Journal of Intelligent and Robotic Systems (JINT)            | Springer  | ---  | ---  |         |
-| International Journal of Computer Vision (IJCV)              | Springer  | ---  | ---  |         |
-| International Journal of Robotics Research (IJRR)            | SAGE      | ---  | ---  |         |
-| Journal of Machine Learning Research (JMLR)                  | Microtome | ---  | ---  |         |
-| Journal of Field Robotics (JFR)                              | Wiley     | ---  | ---  |         |
+| Name                                                         | Publisher | Remarks |
+| ------------------------------------------------------------ | --------- | ------- |
+| ACM Transactions on Human-Robot Interaction (THRI)           | ACM       |         |
+| IEEE Transactions on Robotics (TRO)                          | IEEE      |         |
+| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      |         |
+| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      |         |
+| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      |         |
+| Robotics and Autonomous Systems (RAS)                        | Elsevier  |         |
+| Journal of Intelligent and Robotic Systems (JINT)            | Springer  |         |
+| International Journal of Computer Vision (IJCV)              | Springer  |         |
+| International Journal of Robotics Research (IJRR)            | SAGE      |         |
+| Journal of Machine Learning Research (JMLR)                  | Microtome |         |
+| Journal of Field Robotics (JFR)                              | Wiley     |         |
 
 ---
 
@@ -171,6 +168,6 @@ Top journals for Robotics, Control and Learning:
 
 ---
 
-Copyright 2020-2022 (c) Xiaotian Dai, University of York, UK
+Copyright 2020-2023 (c) Xiaotian Dai, University of York, UK
 
 {% include counter.html %}
