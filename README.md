@@ -1,8 +1,10 @@
-# Real-Time/Embedded Systems, Design Automation and Robotics Conferences Tracking
+# Real-Time & Embedded Systems, Design Automation and Robotics Conferences Tracking
 
 ![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/issues/automaticdai/realtime-embedded-conferences)  ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
 
-Track the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. This list is updated in a frequently basis (normally weekly). The list is _ordered by deadlines_ before submission deadline, otherwise it will be _ordered by conference opening date_. The idea is to keep tracking of these conferences including up-to-date information, so the researchers within the community would never miss important announcements and useful information.
+Tracking the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. The idea of this tracker is to keep up-to-date information of conferences, to facilitate researchers within our community aware of the deadlines and important announcements/updates.
+
+This list is updated in a frequently basis (normally weekly). The list is _ordered by deadlines_ before submission deadline, otherwise it will be _ordered by conference opening date_. Deadline is in digits, with the format `yyyy-mm-dd`, to reduce confusion due to convention of different countries. The deadline is for the main conference. Brief presentation, workshops and industrial tracks often have a different (and later) deadline.
 
 ***Contributing to this list:*** This list is for the community's common benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to add to the list or report an error, you can either (1) commit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues), or (2) contact me: _xiaotian.dai (at) york.ac.uk_. If you prefer to change it yourself, you can clone, modify and create a pull request (PR) in GitHub. 
 
@@ -11,10 +13,11 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 ***Notations:***
 
 -   ~~deadline~~: the deadline has passed;
--   ~~old~~ → new: information was updated;
--   (w): workshop;
--   (TBA): the detail has not yet announced;
--   (est.): the dates are estimations based on previous years.
+-   ~~old~~ → new: the information was updated;
+-   (*): there is an abstract deadline
+-   (w): this is a workshop;
+-   (TBA): the details have not yet been announced;
+-   (est.): the date is estimated based on previous years.
 
 ***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time Systems Research Group, University of York, United Kingdom. If you find it useful, you can bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
 
@@ -24,17 +27,17 @@ Track the most influenced conferences in _real-time_ systems, _embedded systems_
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
-| [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2023-01-25 | Dortmund, Germany | June 7-8, 2023 | This is the 2nd round of the new [Double Submission Model](https://rtns2023.cs.tu-dortmund.de/double-submission-model/)  <br />**Abstract Deadline:** Jan 23th, 2023 |
-| [ISORC 2023](https://isorc.github.io/2023/) | 2023-01-28 | Nashville, Tennessee, USA | May 23 - 25, 2023 |  **Acceptance notification**: April 04, 2023 |
-| [RAGE 2023](https://rage-workshop.github.io/2023/) (w) | 2023-02-01 | San Antonio, Texas | May 9, 2023 | Workshop on Real-time And intelliGent Edge computing<br />@ CPS-IoT Week 2023<br />**Author Notification:** Mar 1st, 2023 |
+| [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | 2023-01-25 (*) | Dortmund, Germany | June 6-8, 2023 | This is the 2nd round of the new [Double Submission Model](https://rtns2023.cs.tu-dortmund.de/double-submission-model/)  <br />**Important Dates**:<br />- Abstract Deadline: Jan 23th, 2023<br />- Author Notification: Mar 4th, 2023 |
+| [ISORC 2023](https://isorc.github.io/2023/) | ~~2023-01-28~~ → 2023-02-28 | Nashville, Tennessee, USA | May 23 - 25, 2023 | *IEEE International Symposium on Real-Time Distributed Computing*<br />**Important Dates**:<br />- Acceptance Notification: April 04, 2023 |
+| [RAGE 2023](https://rage-workshop.github.io/2023/) (w) | 2023-02-01 | San Antonio, Texas | May 9, 2023 | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2023<br />**Author Notification:** Mar 1st, 2023 |
 | [RSS 2023](https://roboticsconference.org/) | 2023-02-03 | Daegu, Korea | Jun 23 - 28, 2023 |  |
-| [TCRS 2023](https://www.tcrs.io/about/) (w) | 2023-02-10 | San Antonio, Texas | May 9, 2023 | Workshop on Time-Centric Reactive Software<br />@ CPS-IoT Week 2023<br />Author Notification: Mar 3rd, 2023 |
+| [TCRS 2023](https://www.tcrs.io/about/) (w) | 2023-02-10 | San Antonio, Texas | May 9, 2023 | *Workshop on Time-Centric Reactive Software*<br />@ CPS-IoT Week 2023<br />Author Notification: Mar 3rd, 2023 |
 | [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | ~~2023-01-16~~ → 2023-02-13 | Lisbon, Portugal | June 13-16, 2023 | **27 February 2023:** Submission deadline for [industrial-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpindus), [work-in-progress papers](http://www.ada-europe.org/conference2023/cfp.html#cfpwip), [tutorial](http://www.ada-europe.org/conference2023/cfp.htmt#cfptutorial), and [workshop proposals](http://www.ada-europe.org/conference2023/cfp.html#cfpws)<br />**20 March 2023:** First round notification for [journal-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpjournal), and notification of acceptance for all other types of submissions |
 | [ECRTS 2023](https://www.ecrts.org/) | 2023-03-01 | Vienna, Austria | July 11-14, 2023 | **Author Notification:** Apr 22, 2023 |
-| [IROS 2023](https://ieee-iros.org/) | 2023-03-01 | Detroit, US | Oct 1-5, 2023 | The theme of IROS 2023 is “**The Next Generation of Robotics**,” so the conference aims to particularly highlight the contributions of younger researchers and to help accelerate the future contributions of all those just entering the field. This will be reflected in plenary and keynote talks, workshops, tutorials, forums, competitions, exhibitions, tours, and technical sessions. |
+| [IROS 2023](https://ieee-iros.org/) | 2023-03-01 | Detroit, US | Oct 1-5, 2023 | The theme of IROS 2023 is “*The Next Generation of Robotics*,” so the conference aims to particularly highlight the contributions of younger researchers and to help accelerate the future contributions of all those just entering the field. <br />Note: IROS no longer offers an RA-L + IROS submission option. Papers accepted at RA-L, T-RO, RAM, and T-ASE between August 1, 2022, and April 30, 2023 will be given the option to present at IROS2023.<br />**Author Notification**: June 30, 2023 |
 | LCTES 2023 | 2023-03-07 (est.) | (TBA) | (TBA) | |
 | [ROMAN 2023](http://ro-man2023.org/main) | 2023-03-17 | Busan, Korea | August 28-31 | **Important Dates:**<br />- Submission Deadline: March 17, 2023<br />- Notification of Acceptance: May 26, 2023<br />- Camera-Ready Deadline: June 30, 2023<br />- LBR Paper Submission: June 2, 2023<br />- LBR Acceptance Notification: June 30, 2023 |
-| EMSOFT 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | Journal Track: <br />\- Abstract Submission: March 16, 2023 (AoE) <br />\- Full Paper Submission: March 23, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 30, 2023<br /><br />Work-in-Progress Track: <br />\- Paper Submission: May 22, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 19, 2023<br /><br />Proposals of Workshops, Tutorials, Education Classes, and Special Sessions: March 20, 2023 |
+| EMSOFT 2023 | 2023-03-23 (*) | Hamburg, Germany | September 17-22 | Journal Track: <br />\- Abstract Submission: March 16, 2023 (AoE) <br />\- Full Paper Submission: March 23, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 30, 2023<br /><br />Work-in-Progress Track: <br />\- Paper Submission: May 22, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 19, 2023<br /><br />Proposals of Workshops, Tutorials, Education Classes, and Special Sessions: March 20, 2023 |
 | CASES 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
 | CODES+ISSS 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
 | NOCS 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
