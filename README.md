@@ -27,11 +27,11 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
-| [RAGE 2023](https://rage-workshop.github.io/2023/) (w) | ~~2023-02-01~~ → 2023-02-15 | San Antonio, Texas | May 9, 2023 | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2023<br />**Author Notification:** Mar 1st, 2023 |
-| [ISORC 2023](https://isorc.github.io/2023/) | ~~2023-01-28~~ → 2023-02-28 | Nashville, Tennessee, USA | May 23 - 25, 2023 | *IEEE International Symposium on Real-Time Distributed Computing*<br />**Important Dates**:<br />- Acceptance Notification: April 04, 2023 |
 | [RSS 2023](https://roboticsconference.org/) | 2023-02-03 | Daegu, Korea | Jun 23 - 28, 2023 |  |
 | [TCRS 2023](https://www.tcrs.io/about/) (w) | 2023-02-10 | San Antonio, Texas | May 9, 2023 | *Workshop on Time-Centric Reactive Software*<br />@ CPS-IoT Week 2023<br />Author Notification: Mar 3rd, 2023 |
 | [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | ~~2023-01-16~~ → 2023-02-13 | Lisbon, Portugal | June 13-16, 2023 | **27 February 2023:** Submission deadline for [industrial-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpindus), [work-in-progress papers](http://www.ada-europe.org/conference2023/cfp.html#cfpwip), [tutorial](http://www.ada-europe.org/conference2023/cfp.htmt#cfptutorial), and [workshop proposals](http://www.ada-europe.org/conference2023/cfp.html#cfpws)<br />**20 March 2023:** First round notification for [journal-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpjournal), and notification of acceptance for all other types of submissions |
+| [RAGE 2023](https://rage-workshop.github.io/2023/) (w) | ~~2023-02-01~~ → 2023-02-15 | San Antonio, Texas | May 9, 2023 | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2023<br />**Author Notification:** Mar 1st, 2023 |
+| [ISORC 2023](https://isorc.github.io/2023/) | ~~2023-01-28~~ → 2023-02-28 | Nashville, Tennessee, USA | May 23 - 25, 2023 | *IEEE International Symposium on Real-Time Distributed Computing*<br />**Important Dates**:<br />- Acceptance Notification: April 04, 2023 |
 | [ECRTS 2023](https://www.ecrts.org/) | 2023-03-01 | Vienna, Austria | July 11-14, 2023 | **Author Notification:** Apr 22, 2023 |
 | [IROS 2023](https://ieee-iros.org/) | 2023-03-01 | Detroit, US | Oct 1-5, 2023 | The theme of IROS 2023 is “*The Next Generation of Robotics*,” so the conference aims to particularly highlight the contributions of younger researchers and to help accelerate the future contributions of all those just entering the field. <br />Note: IROS no longer offers an RA-L + IROS submission option. Papers accepted at RA-L, T-RO, RAM, and T-ASE between August 1, 2022, and April 30, 2023 will be given the option to present at IROS2023.<br />**Author Notification**: June 30, 2023 |
 | [LCTES 2023](https://pldi23.sigplan.org/home/LCTES-2023) | 2023-03-16 | Orlando, Florida | Jun 18, 2023 - Jun 18, 2023 | |
@@ -43,7 +43,7 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 | [DSD 2023](https://dsd-seaa2023.com/) | 2023-04-17 | Durres, Albania | Sep 6-8, 2023 | **Submission Deadline**: April 17th, 2023<br/>**Notification of Acceptance**: May 29th, 2023<br/>**Camera-Ready Papers**: June 16th, 2023 |
 | RTCSA 2023 | 2023-04-29 (est.) | (TBA) | (TBA) | |
 | [ICCAD 2023](https://iccad.com/) | 2023-05-23 (est.) | San Francisco, CA, USA | Oct 29 - Nov 2, 2023 | |
-| [RTSS 2023](http://2023.rtss.org/) | 2023-05-26 (est.) | Taipei | Dec 5-8, 2023 | |
+| [RTSS 2023](http://2023.rtss.org/) | 2023-05-26 (est.) | Taipei, Taiwan | Dec 5-8, 2023 | |
 
 ## Deadline Passed & Upcoming
 
@@ -120,43 +120,43 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 
 ## Journal List
 
-Top journals for Real-Time Systems, Embedded Systems, Design Automation, Parallel Computing, etc.:
+Top journals for Real-Time Systems, Embedded Systems, Design Automation, and Parallel Computing:
 
-| Name                                                         | Publisher | Remarks |
-| ------------------------------------------------------------ | --------- | ------- |
-| [ACM Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs) | ACM       |         |
-| [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs) | ACM       |         |
-| [ACM Transactions on Parallel Computing (TOPC)](https://dl.acm.org/journal/topc) | ACM       |         |
-| [ACM Transactions on Cyber-Physical Systems (TCPS)](https://dl.acm.org/journal/tcps) | ACM       |         |
-| [ACM Transactions on Modeling and Computer Simulation (TOMACS)](https://tomacs.acm.org) | ACM       |         |
-| [ACM Transactions on Design Automation of Electronic Systems (TODAES)](https://todaes.acm.org) | ACM       |         |
-| [ACM Journal on Emerging Technologies in Computing Systems (JETC)](https://jetc.acm.org) | ACM       |         |
-| [ACM Transactions on Internet of Things (TIOT)](https://tiot.acm.org) | ACM       |         |
-| [ACM Transactions on Sensor Networks (TOSN)](https://tosn.acm.org) | ACM       |         |
-| [Formal Aspects of Computing: Applicable Formal Methods (FAC)](https://fac.acm.org) | ACM       |         |
-| [IEEE Transactions on Computers (TC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) | IEEE      |         |
-| [IEEE Transactions on Computer-Aided Design of Integrated Circuits And System (TCAD)](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) | IEEE      |         |
-| [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | IEEE      |         |
-| [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/ieee-embedded-systems-letters-esl) | IEEE      |         |
-| [Microprocessors and Microsystems (MICPRO)](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  |         |
-| [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  |         |
-| [Real-Time Systems (RTS)](https://www.springer.com/journal/11241) | Springer  |         |
+| Name                                                         | Publisher |
+| ------------------------------------------------------------ | --------- |
+| [ACM Transactions on Embedded Computing Systems (TECS)](https://dl.acm.org/journal/tecs) | ACM       |
+| [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs) | ACM       |
+| [ACM Transactions on Parallel Computing (TOPC)](https://dl.acm.org/journal/topc) | ACM       |
+| [ACM Transactions on Cyber-Physical Systems (TCPS)](https://dl.acm.org/journal/tcps) | ACM       |
+| [ACM Transactions on Modeling and Computer Simulation (TOMACS)](https://tomacs.acm.org) | ACM       |
+| [ACM Transactions on Design Automation of Electronic Systems (TODAES)](https://todaes.acm.org) | ACM       |
+| [ACM Journal on Emerging Technologies in Computing Systems (JETC)](https://jetc.acm.org) | ACM       |
+| [ACM Transactions on Internet of Things (TIOT)](https://tiot.acm.org) | ACM       |
+| [ACM Transactions on Sensor Networks (TOSN)](https://tosn.acm.org) | ACM       |
+| [Formal Aspects of Computing: Applicable Formal Methods (FAC)](https://fac.acm.org) | ACM       |
+| [IEEE Transactions on Computers (TC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) | IEEE      |
+| [IEEE Transactions on Computer-Aided Design of Integrated Circuits And System (TCAD)](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) | IEEE      |
+| [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | IEEE      |
+| [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/ieee-embedded-systems-letters-esl) | IEEE      |
+| [Microprocessors and Microsystems (MICPRO)](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  |
+| [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  |
+| [Real-Time Systems (RTS)](https://www.springer.com/journal/11241) | Springer  |
 
-Top journals for Robotics, Control and Learning:
+Top journals for Robotics, Control, Vision and Learning:
 
-| Name                                                         | Publisher | Remarks |
-| ------------------------------------------------------------ | --------- | ------- |
-| ACM Transactions on Human-Robot Interaction (THRI)           | ACM       |         |
-| IEEE Transactions on Robotics (TRO)                          | IEEE      |         |
-| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      |         |
-| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      |         |
-| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      |         |
-| Robotics and Autonomous Systems (RAS)                        | Elsevier  |         |
-| Journal of Intelligent and Robotic Systems (JINT)            | Springer  |         |
-| International Journal of Computer Vision (IJCV)              | Springer  |         |
-| International Journal of Robotics Research (IJRR)            | SAGE      |         |
-| Journal of Machine Learning Research (JMLR)                  | Microtome |         |
-| Journal of Field Robotics (JFR)                              | Wiley     |         |
+| Name                                                         | Publisher |
+| ------------------------------------------------------------ | --------- |
+| ACM Transactions on Human-Robot Interaction (THRI)           | ACM       |
+| IEEE Transactions on Robotics (TRO)                          | IEEE      |
+| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      |
+| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      |
+| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      |
+| Robotics and Autonomous Systems (RAS)                        | Elsevier  |
+| Journal of Intelligent and Robotic Systems (JINT)            | Springer  |
+| International Journal of Computer Vision (IJCV)              | Springer  |
+| International Journal of Robotics Research (IJRR)            | SAGE      |
+| Journal of Machine Learning Research (JMLR)                  | Microtome |
+| Journal of Field Robotics (JFR)                              | Wiley     |
 
 ---
 
@@ -170,8 +170,6 @@ Top journals for Robotics, Control and Learning:
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/)
 - [An Incomplete List of Conferences in Computer Science](https://www.conferences-computer.science/)
 
----
-
-Copyright 2020-2023 (c) Xiaotian Dai, University of York, UK
+-------
 
 {% include counter.html %}
