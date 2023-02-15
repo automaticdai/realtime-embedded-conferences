@@ -14,7 +14,7 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 
 -   ~~deadline~~: the deadline has passed;
 -   ~~old~~ → new: the information was updated;
--   (*): there is an abstract deadline
+-   (*): there is an abstract deadline (may be compulsory for some conferences);
 -   (w): this is a workshop;
 -   (TBA): the details have not yet been announced;
 -   (est.): the date is estimated based on previous years.
@@ -27,34 +27,35 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
-| [RSS 2023](https://roboticsconference.org/) | 2023-02-03 | Daegu, Korea | Jun 23 - 28, 2023 |  |
-| [TCRS 2023](https://www.tcrs.io/about/) (w) | 2023-02-10 | San Antonio, Texas | May 9, 2023 | *Workshop on Time-Centric Reactive Software*<br />@ CPS-IoT Week 2023<br />Author Notification: Mar 3rd, 2023 |
-| [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | ~~2023-01-16~~ → 2023-02-13 | Lisbon, Portugal | June 13-16, 2023 | **27 February 2023:** Submission deadline for [industrial-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpindus), [work-in-progress papers](http://www.ada-europe.org/conference2023/cfp.html#cfpwip), [tutorial](http://www.ada-europe.org/conference2023/cfp.htmt#cfptutorial), and [workshop proposals](http://www.ada-europe.org/conference2023/cfp.html#cfpws)<br />**20 March 2023:** First round notification for [journal-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpjournal), and notification of acceptance for all other types of submissions |
-| [RAGE 2023](https://rage-workshop.github.io/2023/) (w) | ~~2023-02-01~~ → 2023-02-15 | San Antonio, Texas | May 9, 2023 | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2023<br />**Author Notification:** Mar 1st, 2023 |
 | [ISORC 2023](https://isorc.github.io/2023/) | ~~2023-01-28~~ → 2023-02-28 | Nashville, Tennessee, USA | May 23 - 25, 2023 | *IEEE International Symposium on Real-Time Distributed Computing*<br />**Important Dates**:<br />- Acceptance Notification: April 04, 2023 |
 | [ECRTS 2023](https://www.ecrts.org/) | 2023-03-01 | Vienna, Austria | July 11-14, 2023 | **Author Notification:** Apr 22, 2023 |
 | [IROS 2023](https://ieee-iros.org/) | 2023-03-01 | Detroit, US | Oct 1-5, 2023 | The theme of IROS 2023 is “*The Next Generation of Robotics*,” so the conference aims to particularly highlight the contributions of younger researchers and to help accelerate the future contributions of all those just entering the field. <br />Note: IROS no longer offers an RA-L + IROS submission option. Papers accepted at RA-L, T-RO, RAM, and T-ASE between August 1, 2022, and April 30, 2023 will be given the option to present at IROS2023.<br />**Author Notification**: June 30, 2023 |
 | [LCTES 2023](https://pldi23.sigplan.org/home/LCTES-2023) | 2023-03-16 | Orlando, Florida | Jun 18, 2023 - Jun 18, 2023 | |
 | [ROMAN 2023](http://ro-man2023.org/main) | 2023-03-17 | Busan, Korea | August 28-31 | **Important Dates:**<br />- Submission Deadline: March 17, 2023<br />- Notification of Acceptance: May 26, 2023<br />- Camera-Ready Deadline: June 30, 2023<br />- LBR Paper Submission: June 2, 2023<br />- LBR Acceptance Notification: June 30, 2023 |
-| EMSOFT 2023 | 2023-03-23 (*) | Hamburg, Germany | September 17-22 | Journal Track: <br />\- Abstract Submission: March 16, 2023 (AoE) <br />\- Full Paper Submission: March 23, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 30, 2023<br /><br />Work-in-Progress Track: <br />\- Paper Submission: May 22, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 19, 2023<br /><br />Proposals of Workshops, Tutorials, Education Classes, and Special Sessions: March 20, 2023 |
-| CASES 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
-| CODES+ISSS 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
-| NOCS 2023 | 2023-03-23 | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
+| [EMSOFT 2023](https://esweek.org/emsoft/) | 2023-03-23 (*) | Hamburg, Germany | September 17-22 | Journal Track: <br />\- Abstract Submission: March 16, 2023 (AoE) <br />\- Full Paper Submission: March 23, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 30, 2023<br /><br />Work-in-Progress Track: <br />\- Paper Submission: May 22, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 19, 2023<br /><br />Proposals of Workshops, Tutorials, Education Classes, and Special Sessions: March 20, 2023 |
+| [CASES 2023](https://esweek.org/cases/) | 2023-03-23 (*) | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
+| [CODES+ISSS 2023](https://esweek.org/codes-isss/) | 2023-03-23 (*) | Hamburg, Germany | September 17-22 | See above (EMSOFT) |
+| [NOCS 2023](https://nocs2023.github.io/) | 2023-04-21 (*) | Hamburg, Germany | September 17-22 | Abstract deadline: Apr 14, 2023 |
+| [MEMOCODE 2023](https://memocode2023.github.io/callforpapers.html) | 2023-05-05 (*) | Hamburg, Germany | September 17-22 | Abstract deadline: Apr 28, 2023 |
 | [DSD 2023](https://dsd-seaa2023.com/) | 2023-04-17 | Durres, Albania | Sep 6-8, 2023 | **Submission Deadline**: April 17th, 2023<br/>**Notification of Acceptance**: May 29th, 2023<br/>**Camera-Ready Papers**: June 16th, 2023 |
-| RTCSA 2023 | 2023-04-29 (est.) | (TBA) | (TBA) | |
-| [ICCAD 2023](https://iccad.com/) | 2023-05-23 (est.) | San Francisco, CA, USA | Oct 29 - Nov 2, 2023 | |
+| [RTCSA 2023](https://rtcsa2023.github.io/) | 2023-04-14 (*) | (TBA) | (TBA) | Abstract deadline: Apr 7, 2023 |
+| [ICCAD 2023](https://iccad.com/) | 2023-05-22 (*) | San Francisco, CA, USA | Oct 29 - Nov 2, 2023 | Abstract deadline: May 15, 2023 |
 | [RTSS 2023](http://2023.rtss.org/) | 2023-05-26 (est.) | Taipei, Taiwan | Dec 5-8, 2023 | |
 
 ## Deadline Passed & Upcoming
 
-| Name                                             | Deadline           | Where              | When                  | Remarks                                                      |
-| ------------------------------------------------ | ------------------ | :----------------- | --------------------- | ------------------------------------------------------------ |
-| [DATE 2023](https://www.date-conference.com/)    | ~~2022-09-25~~     | Antwerp, Belgium   | Apr 17-19, 2023       | Abstract deadline: 18 Sep, 2022<br>Other key dates can be found: [here](https://www.date-conference.com/call-for-papers) |
-| [RTAS 2023](http://2023.rtas.org/)               | ~~2022-10-31~~     | San Antonio, Texas | May 9-12, 2023        | Part of the CPS-IoT Week<br />Author Notification: Jan 20, 2023<br />BP submission deadline: Feb 10, 2023<br />AE submission deadline: Feb 24, 2023<br />Camera-Ready: March 17, 2023 |
-| [ICCPS 2023](https://iccps.acm.org/2023/)        | ~~2022-10-31~~     | San Antonio, Texas | May 9-12, 2023        | Part of the CPS-IoT Week<br />Abstract Registration: Oct 24, 2022<br />Decision Notification: Jan 20, 2023 |
-| [ICRA 2023](https://www.icra2023.org/)           | ~~2022-09-15~~     | London, UK         | May 29 - June 2, 2023 | Notification of paper acceptance: 31 Jan, 2023               |
-| [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/) | ~~2023-01-25 (*)~~ | Dortmund, Germany  | June 6-8, 2023        | This is the 2nd round of the new [Double Submission Model](https://rtns2023.cs.tu-dortmund.de/double-submission-model/)  <br />**Important Dates**:<br />- Abstract Deadline: Jan 23th, 2023<br />- Author Notification: Mar 4th, 2023 |
-| [DAC 2023](https://www.dac.com/)                 | ~~2022-11-21~~     | San Francisco, USA | July 9-13, 2023       | Abstract deadline: Nov 14, 2022                              |
+| Name                                                         | Deadline                        | Where              | When                  | Remarks                                                      |
+| ------------------------------------------------------------ | ------------------------------- | :----------------- | --------------------- | ------------------------------------------------------------ |
+| [DATE 2023](https://www.date-conference.com/)                | ~~2022-09-25~~                  | Antwerp, Belgium   | Apr 17-19, 2023       | Abstract deadline: 18 Sep, 2022<br>Other key dates can be found: [here](https://www.date-conference.com/call-for-papers) |
+| [RTAS 2023](http://2023.rtas.org/)                           | ~~2022-10-31~~                  | San Antonio, Texas | May 9-12, 2023        | Part of the CPS-IoT Week<br />Author Notification: Jan 20, 2023<br />BP submission deadline: Feb 10, 2023<br />AE submission deadline: Feb 24, 2023<br />Camera-Ready: March 17, 2023 |
+| [ICCPS 2023](https://iccps.acm.org/2023/)                    | ~~2022-10-31~~                  | San Antonio, Texas | May 9-12, 2023        | Part of the CPS-IoT Week<br />Abstract Registration: Oct 24, 2022<br />Decision Notification: Jan 20, 2023 |
+| [TCRS 2023](https://www.tcrs.io/about/) (w)                  | ~~2023-02-10~~                  | San Antonio, Texas | May 9, 2023           | *Workshop on Time-Centric Reactive Software*<br />@ CPS-IoT Week 2023<br />Author Notification: Mar 3rd, 2023 |
+| [RAGE 2023](https://rage-workshop.github.io/2023/) (w)       | ~~2023-02-01~~ → ~~2023-02-15~~ | San Antonio, Texas | May 9, 2023           | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2023<br />**Author Notification:** Mar 1st, 2023 |
+| [ICRA 2023](https://www.icra2023.org/)                       | ~~2022-09-15~~                  | London, UK         | May 29 - June 2, 2023 | Notification of paper acceptance: 31 Jan, 2023               |
+| [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/)             | ~~2023-01-25 (*)~~              | Dortmund, Germany  | June 6-8, 2023        | This is the 2nd round of the new [Double Submission Model](https://rtns2023.cs.tu-dortmund.de/double-submission-model/)  <br />**Important Dates**:<br />- Abstract Deadline: Jan 23th, 2023<br />- Author Notification: Mar 4th, 2023 |
+| [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | ~~2023-01-16~~ → ~~2023-02-13~~ | Lisbon, Portugal   | June 13-16, 2023      | **27 February 2023:** Submission deadline for [industrial-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpindus), [work-in-progress papers](http://www.ada-europe.org/conference2023/cfp.html#cfpwip), [tutorial](http://www.ada-europe.org/conference2023/cfp.htmt#cfptutorial), and [workshop proposals](http://www.ada-europe.org/conference2023/cfp.html#cfpws)<br />**20 March 2023:** First round notification for [journal-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpjournal), and notification of acceptance for all other types of submissions |
+| [RSS 2023](https://roboticsconference.org/)                  | ~~2023-02-03~~                  | Daegu, Korea       | Jun 23 - 28, 2023     |                                                              |
+| [DAC 2023](https://www.dac.com/)                             | ~~2022-11-21~~                  | San Francisco, USA | July 9-13, 2023       | Abstract deadline: Nov 14, 2022                              |
 
 ## Completed & Archived (by alphabet)
 
