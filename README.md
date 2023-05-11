@@ -28,8 +28,9 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 | Name                                                         | Deadline          | Where          | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------- | :------------- | -------------------- | ------------------------------------------------------------ |
 | [RTCSA 2023](https://rtcsa2023.github.io/) | ~~2023-04-14~~ → ~~2023-04-28~~ (*) | (TBA) | (TBA) | Abstract deadline: ~~Apr 7, 2023~~ → Apr 21, 2023 |
-| [NOCS 2023](https://nocs2023.github.io/) | ~~2023-04-21~~ → 2023-05-08 (*) | Hamburg, Germany | September 17-22 | Abstract deadline: ~~Apr 14, 2023~~ → May 8, 2023 |
+| [NOCS 2023](https://nocs2023.github.io/) | ~~2023-04-21~~ → ~~2023-05-08~~ (*) | Hamburg, Germany | September 17-22 | Abstract deadline: ~~Apr 14, 2023~~ → May 8, 2023 |
 | [DSD 2023](https://dsd-seaa2023.com/) | ~~2023-04-17~~ → 2023-05-15 | Durres, Albania | Sep 6-8, 2023 | **Submission Deadline**: April 17th, 2023<br/>**Notification of Acceptance**: May 29th, 2023<br/>**Camera-Ready Papers**: June 16th, 2023 |
+| [OSPERT 2023](https://www.ecrts.org/workshops/ospert23/) | 2023-05-18 | Vienna, Austria | July 11, 2023 | in conjunction with ECRTS'23<br />**Notification of Acceptance:** May 30, 2023<br/>**Final submissions**: June 18, 2023 |
 | [ICCAD 2023](https://iccad.com/) | 2023-05-22 (*) | San Francisco, CA, USA | Oct 29 - Nov 2, 2023 | Abstract deadline: May 15, 2023 |
 | [RTSS 2023](http://2023.rtss.org/) | 2023-05-25 | Taipei, Taiwan | Dec 5-8, 2023 | **Rebuttal Period:** July 14, 2023 to July 20, 2023<br />**Paper Notification:**<br/>August 4, 2023<br />**Camera-Ready Deadline:**<br/>October 6, 2023 |
 | [MEMOCODE 2023](https://memocode2023.github.io/callforpapers.html) | 2023-05-05 → 2023-05-26 (*) | Hamburg, Germany | September 17-22 | Abstract deadline: ~~Apr 28, 2023~~ → May 12, 2023 |
