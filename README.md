@@ -18,9 +18,6 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 
 | Name                                                         | Deadline                            | Where                  | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------------------------- | :--------------------- | -------------------- | ------------------------------------------------------------ |
-| [RTAS 2024](https://2024.rtas.org/)                          | Oct 31, 2023                        | Hong Kong, China       | May 13-16, 2024      | Author notification: January 20, 2024                        |
-| [ICCPS 2024](https://iccps.acm.org/2024/)                    | Oct 31, 2023 (*)                    | Hong Kong, China       | May 13-16 2024       | **Abstract deadline:** October 24, 2023                      |
-| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions) | Nov 20, 2023 (*)          | San Francisco, CA      | June 23-27, 2024     | **Abstract Submission Deadline:** November 13, 2023 5:00 PM (PST) |
 | [Ada-Europe 2024](http://www.ada-europe.org/conference2024/) | Jan 15, 2024                        | Barcelona, Spain       | June 11-14, 2024     |                                                              |
 | [ECRTS 2024](https://www.ecrts.org/)                         | Feb 29, 2024                        | Lille, France          | July 9 - 12, 2024    |                                                               Notification: April 19, 2024 <br /> Camera-ready deadline: May 10, 2024  |
 | RTCSA 2024                                                   | TBA                                 | TBA                    | TBA                  |                                                              |
@@ -37,6 +34,9 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 | [OPERA 2023](https://opera23.di.unito.it/)                   | ~~Sep 3, 2023~~ → ~~Sep 15, 2023~~      | Taipei, Taiwan         | Dec 5, 2023          | Co-located with RTSS 2023<br /><br />**Important Dates:**<br />- Notification (tentative): October 1st, 2023<br />- Camera-ready deadline (tentative): October 15th, 2023 |
 | [WMC 2023](https://sites.google.com/view/wmc-2023/home)      | ~~Sep 3, 2023~~                         | Taipei, Taiwan         | Dec 5, 2023          | Co-located with RTSS 2023<br /><br />**Important Dates:**<br />- Author Notification: October 01, 2023 <br/>- Camera Ready: October 15, 2023 |
 | [DATE 2024](https://www.date-conference.com/)                | ~~Sep 17, 2023 (*)~~                    | Spain                  | March 25-27, 2024    | **Abstract deadline:** September 10, 2023<br />Notification of acceptance: November 14, 2023<br />Camera-ready papers: January 17, 2024 |
+| [RTAS 2024](https://2024.rtas.org/)                          | ~~Oct 31, 2023~~                        | Hong Kong, China       | May 13-16, 2024      | Author notification: January 20, 2024                        |
+| [ICCPS 2024](https://iccps.acm.org/2024/)                    | ~~Oct 31, 2023 (*)~~                    | Hong Kong, China       | May 13-16 2024       | **Abstract deadline:** October 24, 2023                      |
+| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions) | ~~Nov 20, 2023 (*)~~          | San Francisco, CA      | June 23-27, 2024     | **Abstract Submission Deadline:** November 13, 2023 5:00 PM (PST) |
 
 -----
 
