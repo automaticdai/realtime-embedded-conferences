@@ -24,9 +24,10 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 | [RTNS 2024](https://cister-labs.pt/rtns24/)                  | 2024-01-26 (*)              | Porto, Portugal   | Nov 7-8, 2024        | **Important Dates**:<br />- Abstract Deadline: Jan 24th, 2024<br />- Author Notification: Apr 5th, 2024 |
 | [Ada-Europe 2024](http://www.ada-europe.org/conference2024/) | ~~2024-01-15~~ → 2024-01-31 | Barcelona, Spain  | June 11-14, 2024     | Deadline is for the journal track; Other submissions by 26 February 2024 |
 | [ECRTS 2024](https://www.ecrts.org/)                         | 2024-02-29                  | Lille, France     | July 9 - 12, 2024    | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
-| [ESWEEK 2024](https://esweek.org/)                           | 2024-03-31 (*)              | Raleigh, NC, USA  | Sep 29 - Oct 4, 2024 | EMSOFT, CASES, CODES+ISSS, MEMOCODE<br />- Journal Track: <br />  \- Abstract Submission: March 24, 2024 (AoE) <br />  \- Full Paper Submission: March 31, 2024 (AoE, firm) <br />  \- Notification of Acceptance: July 14, 2024<br />- Work-in-Progress and Late Breaking Tracks: June 02, 2024 (AoE, firm)<br />- Workshops, Tutorials, Education Classes, and Special Sessions: March 24, 2024 |
+| [ESWEEK 2024](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | 2024-03-31 (*)              | Raleigh, NC, USA  | Sep 29 - Oct 4, 2024 | - Journal Track: <br />  \- Abstract Submission: March 24, 2024 (AoE) <br />  \- Full Paper Submission: March 31, 2024 (AoE, firm) <br />  \- Notification of Acceptance: July 14, 2024<br />- Work-in-Progress and Late Breaking Tracks: June 02, 2024 (AoE, firm)<br />- Workshops, Tutorials, Education Classes, and Special Sessions: March 24, 2024 |
 | RTCSA 2024                                                   | ❔Apr, 2024                  | (TBA)             | (TBA)                |                                                              |
 | DSD 2024                                                     | ❔Apr, 2024                  | (TBA)             | (TBA)                |                                                              |
+| IROS 2024                                                    | ❔Mar, 2024                  | (TBA)             | (TBA)                |                                                              |
 | RTSS 2024                                                    | ❔May, 2024                  | (TBA)             | (TBA)                |                                                              |
 | **Deadline passed & upcoming ↓**                             |                             |                   |                      |                                                              |
 | [DATE 2024](https://www.date-conference.com/)                | ~~Sep 17, 2023 (*)~~        | Spain             | March 25-27, 2024    | **Abstract deadline:** September 10, 2023<br />Notification of acceptance: November 14, 2023<br />Camera-ready papers: January 17, 2024 |
@@ -164,7 +165,7 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 | [IEEE Embedded Systems Letters (ESL)](https://ieee-ceda.org/publication/ieee-embedded-systems-letters-esl) | IEEE      |
 | [Microprocessors and Microsystems (MICPRO)](https://www.journals.elsevier.com/microprocessors-and-microsystems) | Elsevier  |
 | [Journal of Systems Architecture (JSA)](https://www.journals.elsevier.com/journal-of-systems-architecture) | Elsevier  |
-| [Real-Time Systems (RTS)](https://www.springer.com/journal/11241) | Springer  |
+| [Real-Time Systems Journal (RTSJ)](https://www.springer.com/journal/11241) | Springer  |
 
 #### Top journals for Robotics, Control, Vision and Learning
 
