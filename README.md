@@ -20,7 +20,7 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 
 | Name                                                         | Deadline                        | Where               | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :------------------ | -------------------- | ------------------------------------------------------------ |
-| [RAGE 2024](https://rage-workshop.github.io/2024/) (w)       | Jan 25, 2024                    | Hong Kong           | May 13th, 2024       | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2024<br />**Author Notification:** Mar 1st, 2024 |
+| [RAGE 2024](https://rage-workshop.github.io/2024/) (w)       | ~~Jan 25, 2024~~ → Feb 11, 2024                    | Hong Kong           | May 13th, 2024       | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2024<br />**Author Notification:** Mar 1st, 2024 |
 | [RTNS 2024](https://cister-labs.pt/rtns24/)                  | Jan 26, 2024 (*)                | Porto, Portugal     | Nov 7-8, 2024        | **Important Dates**:<br />- Abstract Deadline: Jan 24th, 2024<br />- Author Notification: Apr 5th, 2024 |
 | [Ada-Europe 2024](http://www.ada-europe.org/conference2024/) | ~~Jan 15, 2024~~ → Jan 31, 2024 | Barcelona, Spain    | June 11-14, 2024     | Deadline is for the journal track; Other submissions by 26 February 2024 |
 | [ECRTS 2024](https://www.ecrts.org/)                         | Feb 29, 2024                    | Lille, France       | July 9 - 12, 2024    | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
