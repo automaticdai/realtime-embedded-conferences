@@ -1,3 +1,7 @@
+---
+title: Real-Time & Embedded Systems, Design Automation and Robotics Conferences Tracking
+---
+
 # Real-Time & Embedded Systems, Design Automation and Robotics Conferences Tracking
 
 ![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences) ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
@@ -13,6 +17,8 @@ This list is updated in a frequently basis (normally weekly). The list is _order
 ***Caution of time zones:*** Note that some of the conference deadlines are in local time zones, but most are AoE, i.e., anywhere on earth (UTC-12:00). Please be aware of the time zone, especially when the deadline is approaching. Also note that the deadlines are for the full manuscript submission, but some of the conferences may have a deadline for abstract (normally one week earlier), which will be noted in the `Remarks` section, even it is not mandatory.
 
 ***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time and Distributed Systems Group, University of York, UK. If you find this site useful, please bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
+
+***Last updated:*** {{ site.time }}
 
 ---
 
