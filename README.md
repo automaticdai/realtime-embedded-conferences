@@ -2,7 +2,7 @@
 
 ![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences) ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
 
-⭐ Wish you all a Happy New Year 2024! ⭐
+(***Last updated:*** {{ site.time }})
 
 Tracking the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. The idea of this tracker is to keep up-to-date information of conferences, to facilitate researchers within our community aware of the deadlines and important announcements/updates.
 
@@ -14,16 +14,14 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 
 ***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time and Distributed Systems Group, University of York, UK. If you find this site useful, please bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
 
-***Last updated:*** {{ site.time }}
-
 ---
 
 ## Conferences Tracking
 
 | Name                                                         | Deadline                        | Where               | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :------------------ | -------------------- | ------------------------------------------------------------ |
-| [ECRTS 2024](https://www.ecrts.org/)                         | Feb 29, 2024                | Lille, France       | July 9 - 12, 2024    | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
-| [IROS 2024](https://iros2024-abudhabi.org/)                  | March 1, 2024                  | Abu Dhabi           | Oct 14-18, 2024      |                                                              |
+| [ECRTS 2024](https://www.ecrts.org/)                         | ~~Feb 29, 2024~~                | Lille, France       | July 9 - 12, 2024    | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
+| [IROS 2024](https://iros2024-abudhabi.org/)                  | ~~March 1, 2024~~                  | Abu Dhabi           | Oct 14-18, 2024      |                                                              |
 | [ESWEEK 2024](https://esweek.org/) <br />(EMSOFT, CASES, CODES+ISSS, MEMOCODE) | March 31, 2024 (*)              | Raleigh, NC, USA    | Sep 29 - Oct 4, 2024 | Journal Track: <br />  \- Abstract Submission: March 24, 2024 (AoE) <br />  \- Full Paper Submission: March 31, 2024 (AoE, firm) <br />  \- Notification of Acceptance: July 14, 2024<br />Work-in-Progress and Late Breaking Tracks: June 02, 2024 (AoE, firm)<br />Workshops, Tutorials, Education Classes, and Special Sessions: March 24, 2024 |
 | [RTCSA 2024](https://rtcsa2024.github.io/)                   | Apr 5, 2024 (*)                | Sokcho, South Korea | Aug 21-23, 2024      | Abstract Deadline: March 29, 2024                            |
 | [SIES 2024](https://www.ieee-sies.org/) | Apr 30, 2024 | Chengdu, China | Oct 23-25, 2024 |  |
