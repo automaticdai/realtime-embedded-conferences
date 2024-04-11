@@ -20,24 +20,24 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 
 | Name                                                         | Deadline                        | Where               | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :------------------ | -------------------- | ------------------------------------------------------------ |
-| [ECRTS 2024](https://www.ecrts.org/)                         | ~~Feb 29, 2024~~                | Lille, France       | July 9 - 12, 2024    | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
-| [IROS 2024](https://iros2024-abudhabi.org/)                  | ~~March 1, 2024~~                  | Abu Dhabi           | Oct 14-18, 2024      |                                                              |
-| [ESWEEK 2024](https://esweek.org/) <br />(EMSOFT, CASES, CODES+ISSS, MEMOCODE) | March 31, 2024 (*)              | Raleigh, NC, USA    | Sep 29 - Oct 4, 2024 | Journal Track: <br />  \- Abstract Submission: March 24, 2024 (AoE) <br />  \- Full Paper Submission: March 31, 2024 (AoE, firm) <br />  \- Notification of Acceptance: July 14, 2024<br />Work-in-Progress and Late Breaking Tracks: June 02, 2024 (AoE, firm)<br />Workshops, Tutorials, Education Classes, and Special Sessions: March 24, 2024 |
-| [RTCSA 2024](https://rtcsa2024.github.io/)                   | Apr 5, 2024 (*)                | Sokcho, South Korea | Aug 21-23, 2024      | Abstract Deadline: March 29, 2024                            |
 | [SIES 2024](https://www.ieee-sies.org/) | Apr 30, 2024 | Chengdu, China | Oct 23-25, 2024 |  |
 | [TAROS 2024](https://taros-conference.org/) | Apr 30, 2024 | London, UK | Aug 21-23, 2024 | Author Notification: June 15, 2024<br/>Final submission: June 30, 2024<br/>Conference: August 21-23, 2024 |
 | [DSD 2024](https://dsd-seaa.com/dsd2024/)                    | May 5, 2024                   | Paris, France       | Aug 28-30, 2024        | Notification of acceptance: 12th June 2024 <br/> Camera ready papers: 26th June 2024                                                             |
+| [RTSOPS 2024 (w)](https://www.ecrts.org/workshops/rtsops-2024/) | May 16, 2024 | Lille, France | July 9, 2024 | Co-located with ECRTS'24 |
 | [RTSS 2024](https://2024.rtss.org/)                          | May 23, 2024                    | York, UK            | Dec 10-13, 2024      | Rebuttal period: Jul 12-18, 2024<br/>Author Notification: July 31, 2024<br/>Camera-ready papers: Sep 24, 2024 |
-| RTSOPS 2024 (w) | TBD | TBD | TBD |  |
+| [RTNS 2024](https://cister-labs.pt/rtns24/) | June 7, 2024 (*) | Porto, Portugal | Nov 7-8, 2024 | **Important Dates** (2nd round):<br />- Abstract Deadline : June 5th, 2024<br />- Author Notification: August 2nd, 2024 |
+| [DATE 2025](https://www.date-conference.com/) | Sep, 2024 (❔) | TBD | March 31 - April 2, 2025 |  |
 | **Deadline passed & upcoming ↓**                             |                                 |                     |                      |                                                              |
-| [DATE 2024](https://www.date-conference.com/)                | ~~Sep 17, 2023 (*)~~            | Spain               | March 25-27, 2024    | **Abstract deadline:** September 10, 2023<br />Notification of acceptance: November 14, 2023<br />Camera-ready papers: January 17, 2024 |
 | [RTAS 2024](https://2024.rtas.org/)                          | ~~Oct 31, 2023~~                | Hong Kong, China    | May 13-16, 2024      | Author notification: January 20, 2024                        |
 | [ICCPS 2024](https://iccps.acm.org/2024/)                    | ~~Oct 31, 2023 (*)~~            | Hong Kong, China    | May 13-16 2024       | **Abstract deadline:** October 24, 2023                      |
 | [RAGE 2024](https://rage-workshop.github.io/2024/) (w)       | ~~Jan 25, 2024~~ → ~~Feb 11, 2024~~                    | Hong Kong           | May 13th, 2024       | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2024<br />**Author Notification:** Mar 1st, 2024 |
 | [ICRA 2024]()                                                | ~~Sep 15, 2023~~                | Tokyo, Japan        | May 13-17, 2024      |                                                              |
 | [Ada-Europe 2024](http://www.ada-europe.org/conference2024/) | ~~Jan 15, 2024~~ → ~~Jan 31, 2024~~ | Barcelona, Spain    | June 11-14, 2024     | Deadline is for the journal track; Other submissions by 26 February 2024 |
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions) | ~~Nov 20, 2023 (*)~~            | San Francisco, CA   | June 23-27, 2024     | **Abstract Submission Deadline:** November 13, 2023 5:00 PM (PST) |
-| [RTNS 2024](https://cister-labs.pt/rtns24/)                  | ~~Jan 26, 2024~~ (*)                | Porto, Portugal     | Nov 7-8, 2024        | **Important Dates**:<br />- Abstract Deadline: Jan 24th, 2024<br />- Author Notification: Apr 5th, 2024 |
+| [ECRTS 2024](https://www.ecrts.org/) | ~~Feb 29, 2024~~ | Lille, France | July 9 - 12, 2024 | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
+| [RTCSA 2024](https://rtcsa2024.github.io/) | ~~Apr 5, 2024 (*)~~ | Sokcho, South Korea | Aug 21-23, 2024 | Abstract Deadline: March 29, 2024 |
+| [ESWEEK 2024](https://esweek.org/) <br />(EMSOFT, CASES, CODES+ISSS, MEMOCODE) | ~~March 31, 2024 (*)~~ | Raleigh, NC, USA | Sep 29 - Oct 4, 2024 | Journal Track: <br />  \- Abstract Submission: March 24, 2024 (AoE) <br />  \- Full Paper Submission: March 31, 2024 (AoE, firm) <br />  \- Notification of Acceptance: July 14, 2024<br />Work-in-Progress and Late Breaking Tracks: June 02, 2024 (AoE, firm)<br />Workshops, Tutorials, Education Classes, and Special Sessions: March 24, 2024 |
+| [IROS 2024](https://iros2024-abudhabi.org/) | ~~March 1, 2024~~ | Abu Dhabi | Oct 14-18, 2024 |  |
 
 -----
 
@@ -72,6 +72,7 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [DATE 2021](https://www.date-conference.com/)                | ---                                 | ~~Grenoble, France~~ →Virtual           | February 1-5, 2021          |                                                              |
 | [DATE 2022](https://www.date-conference.com/)                | ~~2021-09-19~~                      | Virtual                                 | Feb 1-5, 2022               | Abstract deadline: 2021-09-12                                |
 | [DATE 2023](https://www.date-conference.com/)                | ~~2022-09-25~~                      | Antwerp, Belgium                        | Apr 17-19, 2023             | Abstract deadline: 18 Sep, 2022<br>Other key dates can be found: [here](https://www.date-conference.com/call-for-papers) |
+| [DATE 2024](https://www.date-conference.com/)                | ~~Sep 17, 2023 (*)~~                | Spain                                   | March 25-27, 2024           | **Abstract deadline:** September 10, 2023<br />Notification of acceptance: November 14, 2023<br />Camera-ready papers: January 17, 2024 |
 | [DAC 2021](https://dac.com)                                  | ~~2020-11-23~~                      | San Francisco, CA, USA                  | Dec 5-9, 2021               | Abstract deadline: Nov 16, 2020                              |
 | [DAC 2022](https://www.dac.com/DAC-2022/2022-Call-for-Contributions) | ~~2021-11-22~~                      | San Francisco, CA.                      | July 10-14, 2022            | Abstraction Deadline: Nov 15                                 |
 | [DAC 2023](https://www.dac.com/)                             | ~~2022-11-21~~                      | San Francisco, USA                      | July 9-13, 2023             | Abstract deadline: Nov 14, 2022                              |
