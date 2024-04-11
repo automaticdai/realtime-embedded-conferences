@@ -32,6 +32,7 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [ICCPS 2024](https://iccps.acm.org/2024/)                    | ~~Oct 31, 2023 (*)~~            | Hong Kong, China    | May 13-16 2024       | **Abstract deadline:** October 24, 2023                      |
 | [RAGE 2024](https://rage-workshop.github.io/2024/) (w)       | ~~Jan 25, 2024~~ → ~~Feb 11, 2024~~                    | Hong Kong           | May 13th, 2024       | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2024<br />**Author Notification:** Mar 1st, 2024 |
 | [ICRA 2024]()                                                | ~~Sep 15, 2023~~                | Tokyo, Japan        | May 13-17, 2024      |                                                              |
+| [ISORC 2024](https://isorc.github.io/2024/) | ~~Feb 4, 2023~~ | Carthage, Tunis, Tunisia | May 22-25, 2024 | |
 | [Ada-Europe 2024](http://www.ada-europe.org/conference2024/) | ~~Jan 15, 2024~~ → ~~Jan 31, 2024~~ | Barcelona, Spain    | June 11-14, 2024     | Deadline is for the journal track; Other submissions by 26 February 2024 |
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions) | ~~Nov 20, 2023 (*)~~            | San Francisco, CA   | June 23-27, 2024     | **Abstract Submission Deadline:** November 13, 2023 5:00 PM (PST) |
 | [ECRTS 2024](https://www.ecrts.org/) | ~~Feb 29, 2024~~ | Lille, France | July 9 - 12, 2024 | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
