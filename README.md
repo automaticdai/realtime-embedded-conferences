@@ -23,6 +23,7 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [SIES 2024](https://www.ieee-sies.org/) | Apr 30, 2024 | Chengdu, China | Oct 23-25, 2024 |  |
 | [TAROS 2024](https://taros-conference.org/) | Apr 30, 2024 | London, UK | Aug 21-23, 2024 | Author Notification: June 15, 2024<br/>Final submission: June 30, 2024<br/>Conference: August 21-23, 2024 |
 | [DSD 2024](https://dsd-seaa.com/dsd2024/)                    | May 5, 2024                   | Paris, France       | Aug 28-30, 2024        | Notification of acceptance: 12th June 2024 <br/> Camera ready papers: 26th June 2024                                                             |
+| [ICCD 2024](https://www.iccd-conf.com/Home.html) | May 12, 2024 | Milan, Italy | November, 2024 | Abstract Deadline: May 5, 2024 |
 | [RTSOPS 2024 (w)](https://www.ecrts.org/workshops/rtsops-2024/) | May 16, 2024 | Lille, France | July 9, 2024 | Co-located with ECRTS'24 |
 | [RTSS 2024](https://2024.rtss.org/)                          | May 23, 2024                    | York, UK            | Dec 10-13, 2024      | Rebuttal period: Jul 12-18, 2024<br/>Author Notification: July 31, 2024<br/>Camera-ready papers: Sep 24, 2024 |
 | [RTNS 2024](https://cister-labs.pt/rtns24/) | June 7, 2024 (*) | Porto, Portugal | Nov 7-8, 2024 | **Important Dates** (2nd round):<br />- Abstract Deadline : June 5th, 2024<br />- Author Notification: August 2nd, 2024 |
