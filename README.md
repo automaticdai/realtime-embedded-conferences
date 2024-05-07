@@ -20,7 +20,7 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 
 | Name                                                         | Deadline                        | Where               | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------- | :------------------ | -------------------- | ------------------------------------------------------------ |
-| [DSD 2024](https://dsd-seaa.com/dsd2024/)                    | May 5, 2024                   | Paris, France       | Aug 28-30, 2024        | Notification of acceptance: 12th June 2024 <br/> Camera ready papers: 26th June 2024                                                             |
+| [DSD 2024](https://dsd-seaa.com/dsd2024/)                    | ~~May 5, 2024~~ → May 19, 2024 | Paris, France       | Aug 28-30, 2024        | Notification of acceptance: 12th June 2024 <br/> Camera ready papers: 26th June 2024                                                             |
 | [TAROS 2024](https://taros-conference.org/) | ~~Apr 30, 2024~~ → May 12, 2024 | London, UK | Aug 21-23, 2024 | Author Notification: June 15, 2024<br/>Final submission: June 30, 2024<br/>Conference: August 21-23, 2024 |
 | [ICCD 2024](https://www.iccd-conf.com/Home.html) | May 12, 2024 | Milan, Italy | November, 2024 | Abstract Deadline: May 5, 2024 |
 | [RTSOPS 2024 (w)](https://www.ecrts.org/workshops/rtsops-2024/) | May 16, 2024 | Lille, France | July 9, 2024 | Co-located with ECRTS'24 |
