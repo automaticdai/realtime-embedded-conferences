@@ -61,8 +61,7 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 -----
 
 ## Completed & Archived (by alphabet)
-<details>
-<summary><b>Click to expand</b></summary>
+
 | Name                                                         | Deadline                            | Where                                   | When                        | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------------------------- | :-------------------------------------- | --------------------------- | ------------------------------------------------------------ |
 | [Ada-Europe 2021](https://www.istr.unican.es/ae2021/)        | ---                                 | Santander, Spain                        | June 7-11, 2021             | WiP and industrial paper deadline: March 31, 2021            |
@@ -163,7 +162,6 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [WCET 2024](https://www.ecrts.org/wcet-2024/) (w)            | ~~May 9, 2024~~ → ~~May 16, 2024~~  | Lille, France                           | July 9, 2024                | Co-located with ECRTS'24                                     |
 | [WMC 2022](https://wmc2022.github.io/) (w)                   | ~~2022-09-05~~ → ~~2022-09-12~~     | Houston, USA                            | Dec 5, 2022                 | Workshop on Mixed-Criticality Systems.  [(cfp)](https://wmc2022.github.io/assets/WMC_2022_CFP.pdf)<br />Associated with RTSS 2022.<br />Notification of acceptance: Oct 10, 2022<br/>Final version: Oct 24, 2022 |
 | [WMC 2023](https://sites.google.com/view/wmc-2023/home) (w)  | ~~Sep 3, 2023~~                     | Taipei, Taiwan                          | Dec 5, 2023                 | Co-located with RTSS 2023<br /><br />**Important Dates:**<br />- Author Notification: October 01, 2023 <br/>- Camera Ready: October 15, 2023 |
-</details>
 
 ---
 
