@@ -196,19 +196,20 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 
 #### Top journals for Robotics, Control, Vision and Learning
 
-| Name                                                         | Publisher |
-| ------------------------------------------------------------ | --------- |
-| ACM Transactions on Human-Robot Interaction (THRI)           | ACM       |
-| IEEE Transactions on Robotics (TRO)                          | IEEE      |
-| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) | IEEE      |
-| IEEE Robotics and Automation Letters (RA-L)                  | IEEE      |
-| IEEE Robotics and Automation Magazine (RAM)                  | IEEE      |
-| Robotics and Autonomous Systems (RAS)                        | Elsevier  |
-| Journal of Intelligent and Robotic Systems (JINT)            | Springer  |
-| International Journal of Computer Vision (IJCV)              | Springer  |
-| International Journal of Robotics Research (IJRR)            | SAGE      |
-| Journal of Machine Learning Research (JMLR)                  | Microtome |
-| Journal of Field Robotics (JFR)                              | Wiley     |
+| Name                                                                                                               | Publisher |
+| ------------------------------------------------------------------------------------------------------------------ | --------- |
+| [ACM Transactions on Human-Robot Interaction (THRI)](https://dl.acm.org/journal/thri)                              | ACM       |
+| [IEEE Transactions on Robotics (TRO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)               | IEEE      |
+| [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | IEEE      |
+| [IEEE Robotics and Automation Letters (RA-L)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)    | IEEE      |
+| [IEEE Robotics and Automation Magazine (RAM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)        | IEEE      |
+| [Robotics and Autonomous Systems (RAS)](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)     | Elsevier  |
+| [Journal of Intelligent and Robotic Systems (JINT)](https://www.springer.com/journal/10846)                        | Springer  |
+| [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263)                          | Springer  |
+| [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr)                         | SAGE      |
+| [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org/)                                                | Microtome |
+| [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967)                                | Wiley     |
+
 
 ---
 
