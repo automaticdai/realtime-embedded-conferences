@@ -25,7 +25,6 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [ECRTS 2025](https://www.ecrts.org/)                         | Feb 28, 2025                         | Brussels, Belgium           | TBD                      | - Notification: April 21, 2025<br/>- Camera-ready deadline: May 16, 2025 |
 | [IROS 2025](https://irmv.sjtu.edu.cn/iros2025/)              | Mar, 2025 (❔)                        | Hangzhou, China             | Oct 19-25, 2025          |                                                              |
 | ESWEEK 2025 (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | Mar, 2025 (❔) | TBD | TBD | |
-| IROS 2025 | Mar, 2025 (❔) | TBD | TBD | |
 | [RO-MAN 2025](https://www.ro-man2025.org/)                   | Mar 20, 2025                         | Eindhoven, Netherlands      | Aug 25-29, 2025          | Notification of Acceptance: May 10, 2025                     |
 | TAROS 2025                                                   | Apr, 2025 (❔)                        | TBD                         | TBD                      |                                                              |
 | RTCSA 2025                                                   | Apr, 2025 (❔)                        | TBD                         | TBD                      |                                                              |
@@ -35,6 +34,7 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | RTNS 2025 | Aug, 2025 (❔) | TBD | TBD | |
 | **Deadline passed & upcoming ↓**                             |                                      |                             |                          |                                                              |
 | [RTSS 2024](https://2024.rtss.org/)                          | ~~May 23, 2024~~                     | York, UK                    | Dec 10-13, 2024          | Rebuttal period: Jul 12-18, 2024<br/>Author Notification: July 31, 2024<br/>Camera-ready papers: Sep 24, 2024 |
+| [ICESS 2024](http://www.ieee-hust-ncc.org/2024/ICESS/index.html) | ~~Aug 15, 2024~~  → Sep 10, 2024 | Wuhan, China, | Dec 13-15, 2024 |  |
 | [NG-RES 2025](http://ng-res.deib.polimi.it/index.php) (w)    | ~~Nov 17, 2024~~ → Nov 24, 2024                         | Barcelona, Spain            | Jan 20, 2025             | - Co-located with HiPEAC 2025 <br>- Acceptance notification: December 15th, 2024 |
 | [DATE 2025](https://www.date-conference.com/)                | ~~Sep 22, 2024 (*)~~                 | Lyon, France                | March 31 - April 2, 2025 | - Abstract deadline: Sep 15, 2024                            |
 | [ICCPS 2025](https://iccps.acm.org/2025/)                    | ~~Oct 31, 2024~~ → ~~Nov 14, 2024~~      | Irvine, California, USA     | May 6-9, 2025            | **Important Dates (AoE):**<br />- Abstract submission deadline (optional): November 7, 2024 (AOE) <br />- Paper submission deadline (FIRM): October 31, 2024 (AOE) <br />- Acceptance/rejection notifications: January 23, 2025 <br />- Camera-ready: March 10, 2025 |
