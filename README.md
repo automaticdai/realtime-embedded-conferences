@@ -23,6 +23,7 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [ISORC 2025](https://isorc.github.io/2025/)                  | Jan 8, 2025                          | Toulouse, France            | May 26-28, 2025          | - Acceptance notification: March 05, 2025<br/>- Camera-ready papers: March 20, 2025<br/>- Conference: May 26 - 28, 2025 |
 | [RAGE 2025](https://rage-workshop.github.io/2025/) (w) | Jan 20, 2025 | Irvine, CA, USA | May 6th, 2025 | @ CPS-IoT Week 2025 |
 | [Ada-Europe 2025](https://www.ada-europe.org/conference2025/index.html) | Jan 20, 2025                         | Pairs, France               | June 10-13, 2025         | - Submission deadline for industrial track papers, work-in-progress papers, and tutorial and workshop proposals: 24 February 2025<br />- First round notification for journal-track papers, and notification of acceptance for all other types of submissions: 28 March 2025 |
+| [RTNS 2025](https://rtns2025.retis.santannapisa.it/) | Jan 30, 2025 | Pisa, Italy | Nov 2025 | - Submission deadline (1st round): Jan 30, 2025 <br />- Author notification: March 27, 2025<br />- Camera ready: April 27, 2025 |
 | [ECRTS 2025](https://www.ecrts.org/)                         | Feb 28, 2025                         | Brussels, Belgium           | TBD                      | - Notification: April 21, 2025<br/>- Camera-ready deadline: May 16, 2025 |
 | [IROS 2025](http://www.iros25.org/) | Mar 1, 2025                      | Hangzhou, China             | Oct 19-25, 2025          | - Author notification: Jun 30, 2025 |
 | [ESWEEK 2025](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | Mar 30, 2025 (*) | Taiwan, Taipei | Sep 28 - Oct 3, 2025 | - Abstract submission deadline: Mar 23, 2025 |
@@ -33,7 +34,6 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | SIES 2025 | Apr, 2025 (❔) | TBD | TBD | |
 | ICCD 2025 | May, 2025 (❔) | TBD | TBD | |
 | RTSS 2025 | May, 2025 (❔) | Boston, USA | TBD | |
-| RTNS 2025 | Aug, 2025 (❔) | TBD | TBD | |
 | ICESS 2025 | Sep, 2025 (❔) | TBD | TBD | |
 | **Deadline passed & upcoming ↓**                             |                                      |                             |                          |                                                              |
 | [NG-RES 2025](http://ng-res.deib.polimi.it/index.php) (w)    | ~~Nov 17, 2024~~ → Nov 24, 2024                         | Barcelona, Spain            | Jan 20, 2025             | - Co-located with HiPEAC 2025 <br>- Acceptance notification: December 15th, 2024 |
