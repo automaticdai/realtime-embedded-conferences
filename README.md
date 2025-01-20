@@ -28,10 +28,10 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [ECRTS 2025](https://www.ecrts.org/)                         | Feb 28, 2025                         | Brussels, Belgium           | July 8 - 11                      | - Notification: April 21, 2025<br/>- Camera-ready deadline: May 16, 2025 |
 | [TAROS 2025](https://taros-conference.org/)                                                   | Feb 28, 2025 (*)                       | York, UK                         | Aug 20-22, 2025                      | Abstract deadline: Feb 28, 2025                                                             |
 | [IROS 2025](http://www.iros25.org/) | Mar 1, 2025                      | Hangzhou, China             | Oct 19-25, 2025          | - Author notification: Jun 30, 2025 |
-| [ESWEEK 2025](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | Mar 30, 2025 (*) | Taiwan, Taipei | Sep 28 - Oct 3, 2025 | - Abstract submission deadline: Mar 23, 2025 |
 | [RO-MAN 2025](https://www.ro-man2025.org/)                   | Mar 20, 2025                         | Eindhoven, Netherlands      | Aug 25-29, 2025          | - Notification of Acceptance: May 10, 2025                   |
+| [ESWEEK 2025](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | Mar 30, 2025 (*) | Taiwan, Taipei | Sep 28 - Oct 3, 2025 | - Abstract submission deadline: Mar 23, 2025 |
+| [RTCSA 2025](https://rtcsa2025.github.io/)                                                   | Mar 31, 2025 (*)                        | Singapore                         | Aug 20-22, 2025                      |   Abstract Submission Deadline: March 28, 2025                                                           |
 | [DSD 2025](https://dsd-seaa.com/)                                                     | Apr 15, 2025                   | Salerno, Italy                         | Sep 10-12, 2025                      |                                                              |
-| RTCSA 2025                                                   | Apr, 2025 (❔)                        | TBD                         | TBD                      |                                                              |
 | SIES 2025 | Apr, 2025 (❔) | TBD | TBD | |
 | ICCD 2025 | May, 2025 (❔) | TBD | TBD | |
 | RTSS 2025 | May, 2025 (❔) | Boston, USA | TBD | |
