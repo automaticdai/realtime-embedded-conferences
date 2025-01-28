@@ -20,7 +20,6 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 
 | Name                                                         | Deadline                             | Where                       | When                     | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------------ | :-------------------------- | ------------------------ | ------------------------------------------------------------ |
-
 | [MOST 2025](https://ieeemobility.org/MOST2025/) | ~~Dec 20, 2024~~ → ~~Jan 10, 2025~~ | Newark, DE, USA | May 4 - 6, 2025 | - Author notification: February 28, 2025<br/>- Camera ready date: March 14, 2025<br/>- Conference dates: May 4 - 6, 2025 |
 | [RAGE 2025](https://rage-workshop.github.io/2025/) (w) | ~~Jan 20, 2025~~ | Irvine, CA, USA | May 6th, 2025 | @ CPS-IoT Week 2025 |
 | [Ada-Europe 2025](https://www.ada-europe.org/conference2025/index.html) | ~~Jan 20, 2025~~                         | Pairs, France               | June 10-13, 2025         | - Submission deadline for industrial track papers, work-in-progress papers, and tutorial and workshop proposals: 24 February 2025<br />- First round notification for journal-track papers, and notification of acceptance for all other types of submissions: 28 March 2025 |
