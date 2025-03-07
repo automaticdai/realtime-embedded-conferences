@@ -4,15 +4,19 @@
 
 (***Last updated:*** {{ site.time }})
 
-Tracking the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_ and _robotics_. The idea of this tracker is to keep up-to-date information of conferences, to facilitate researchers within our community aware of the deadlines and important announcements/updates.
+Tracking the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_, _cyber-physical systems_ and _robotics_. The idea of this tracker is to keep up-to-date information of conferences, to facilitate researchers within our community aware of the deadlines and important announcements/updates.
 
-This list is updated on a frequent basis (normally weekly). The list is _ordered by deadlines_ before the submission deadline, otherwise it will be _ordered by the conference opening date_. Deadline is in digits, with the format `yyyy-mm-dd`, to reduce confusion due to conventions of different countries. The deadline is for the main conference. Brief presentations, workshops and industrial tracks often have a different (and later) deadline.
+The list is updated weekly and organized by submission deadlines for upcoming conferences, followed by conference dates for events with passed deadlines. All dates follow the `yyyy-mm-dd` format to avoid regional date format confusion. Listed deadlines are for main conference submissions; workshops, brief presentations, and industrial tracks typically have separate deadlines.
 
-***Contributing to this list:*** This list is for the community's common benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to add to the list or report an error, you can either (1) commit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues), (2) contact me through email: _xiaotian.dai (at) york.ac.uk_, and (3) fill our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6). If you prefer to change it yourself, you can clone, modify and create a pull request (PR) in GitHub.
+***Contributing to this list:*** This list is for the community's common benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to add to the list or report an error, you can: 
+1. Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); 
+2. Contact me through email: _xiaotian.dai (at) york.ac.uk_;
+3. Fill our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); and 
+4. Create a pull request (PR) in GitHub.
 
-***Caution of time zones:*** Note that some of the conference deadlines are in local time zones, but most are AoE, i.e., anywhere on earth (UTC-12:00). Please be aware of the time zone, especially when the deadline is approaching. Also note that the deadlines are for the full manuscript submission, but some of the conferences may have a deadline for abstract (normally one week earlier), which will be noted in the `Remarks` section, even if it is not mandatory.
+***Time Zone Notice:*** While some conferences use local time zones, most deadlines are in AoE (Anywhere on Earth, UTC-12:00). Please verify the specific time zone as deadlines approach. Note that many conferences require abstract submissions approximately one week before the full paper deadline, as indicated in the `Remarks` column when applicable.
 
-***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time and Distributed Systems Group, University of York, UK. If you find this site useful, please bookmark this page and [star this repository on GitHub](https://github.com/automaticdai/realtime-embedded-conferences).
+***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time and Distributed Systems Group, University of York, UK. If you find this site useful, please consider starring our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences).
 
 ---
 
@@ -20,18 +24,15 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 
 | Name                                                         | Deadline                            | Where                       | When                     | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------------------------- | :-------------------------- | ------------------------ | ------------------------------------------------------------ |
-| [ECRTS 2025](https://www.ecrts.org/)                         | ~~Feb 28, 2025~~                    | Brussels, Belgium           | July 8 - 11              | - Notification: April 21, 2025<br/>- Camera-ready deadline: May 16, 2025 |
-| [TAROS 2025](https://taros-conference.org/)                  | ~~Feb 28, 2025 (*)~~                | York, UK                    | Aug 20-22, 2025          | Abstract deadline: Feb 28, 2025                              |
-| [IROS 2025](http://www.iros25.org/)                          | ~~Mar 1, 2025~~                     | Hangzhou, China             | Oct 19-25, 2025          | - Author notification: Jun 30, 2025                          |
 | [RO-MAN 2025](https://www.ro-man2025.org/)                   | Mar 20, 2025                        | Eindhoven, Netherlands      | Aug 25-29, 2025          | - Notification of Acceptance: May 10, 2025                   |
 | [ESWEEK 2025](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | Mar 30, 2025 (*)                    | Taiwan, Taipei              | Sep 28 - Oct 3, 2025     | - Abstract submission deadline: Mar 23, 2025                 |
 | [RTCSA 2025](https://rtcsa2025.github.io/)                   | Mar 31, 2025 (*)                    | Singapore                   | Aug 20-22, 2025          | Abstract Submission Deadline: March 28, 2025                 |
 | [DSD 2025](https://dsd-seaa.com/)                            | Apr 15, 2025                        | Salerno, Italy              | Sep 10-12, 2025          |                                                              |
-| [CoRL 2025](https://www.corl.org/)                       | Apr 30, 2025             | Seoul, Korea                        | Sep 27-30, 2025  | Abstract deadline: Apr 2, 2025 |
+| [CoRL 2025](https://www.corl.org/)                           | Apr 30, 2025                        | Seoul, Korea                | Sep 27-30, 2025          | Abstract deadline: Apr 2, 2025                               |
 | SIES 2025                                                    | Apr, 2025 (❔)                       | TBD                         | TBD                      |                                                              |
-| [NeurIPS 2025](https://neurips.cc/)                          | May 15, 2025                   | San Diego, USA | Dec 2-7, 2025    | Abstract deadline: May 11, 2025   |
+| [NeurIPS 2025](https://neurips.cc/)                          | May 15, 2025                        | San Diego, USA              | Dec 2-7, 2025            | Abstract deadline: May 11, 2025                              |
 | ICCD 2025                                                    | May, 2025 (❔)                       | TBD                         | TBD                      |                                                              |
-| RTSS 2025                                                    | May, 2025 (❔)                       | Boston, USA                 | TBD                      |                                                              |
+| [RTSS 2025](https://2025.rtss.org/)                                                    | May 25, 2025                       | Boston, USA                 | Dec 2-5, 205                     |                                                              |
 | ICESS 2025                                                   | Sep, 2025 (❔)                       | TBD                         | TBD                      |                                                              |
 | **Deadline passed & upcoming ↓**                             |                                     |                             |                          |                                                              |
 | [DATE 2025](https://www.date-conference.com/)                | ~~Sep 22, 2024 (*)~~                | Lyon, France                | March 31 - April 2, 2025 | - Abstract deadline: Sep 15, 2024                            |
@@ -43,6 +44,9 @@ This list is updated on a frequent basis (normally weekly). The list is _ordered
 | [ISORC 2025](https://isorc.github.io/2025/)                  | ~~Jan 8, 2025~~ → ~~Jan 26, 2025~~  | Toulouse, France            | May 26-28, 2025          | - Acceptance notification: March 05, 2025<br/>- Camera-ready papers: March 20, 2025<br/>- Conference: May 26 - 28, 2025 |
 | [Ada-Europe 2025](https://www.ada-europe.org/conference2025/index.html) | ~~Jan 20, 2025~~                    | Pairs, France               | June 10-13, 2025         | - Submission deadline for industrial track papers, work-in-progress papers, and tutorial and workshop proposals: 24 February 2025<br />- First round notification for journal-track papers, and notification of acceptance for all other types of submissions: 28 March 2025 |
 | [DAC 2025](https://www.dac.com/)                             | ~~Nov 19~~ → Nov 20, 2024 (*)       | Moscone West, San Francisco | June 22-25, 2025         | - (Research paper) Abstract deadline: Nov 12, 2024<br />- Engineering tracks: Jan 16, 2025 |
+| [ECRTS 2025](https://www.ecrts.org/)                         | ~~Feb 28, 2025~~                    | Brussels, Belgium           | July 8 - 11              | - Notification: April 21, 2025<br/>- Camera-ready deadline: May 16, 2025 |
+| [TAROS 2025](https://taros-conference.org/)                  | ~~Feb 28, 2025 (*)~~                | York, UK                    | Aug 20-22, 2025          | Abstract deadline: Feb 28, 2025                              |
+| [IROS 2025](http://www.iros25.org/)                          | ~~Mar 1, 2025~~                     | Hangzhou, China             | Oct 19-25, 2025          | - Author notification: Jun 30, 2025                          |
 | [RTNS 2025](https://rtns2025.retis.santannapisa.it/)         | ~~Jan 30, 2025~~                    | Pisa, Italy                 | Nov 5-7, 2025            | - Submission deadline (1st round): Jan 30, 2025 <br />- Author notification: March 27, 2025<br />- Camera ready: April 27, 2025 |
 
 -----
