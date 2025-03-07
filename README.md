@@ -8,11 +8,7 @@ Tracking the most influenced conferences in _real-time_ systems, _embedded syste
 
 The list is updated weekly and organized by submission deadlines for upcoming conferences, followed by conference dates for events with passed deadlines. All dates follow the `yyyy-mm-dd` format to avoid regional date format confusion. Listed deadlines are for main conference submissions; workshops, brief presentations, and industrial tracks typically have separate deadlines.
 
-***Contributing to this list:*** This list is for the community's common benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to add to the list or report an error, you can: 
-1. Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); 
-2. Contact me through email: _xiaotian.dai (at) york.ac.uk_;
-3. Fill our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); and 
-4. Create a pull request (PR) in GitHub.
+***Contributing to this list:*** This list is for the community's common benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to add to the list or report an error, you can: (1) Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); (2) Contact me through email: _xiaotian.dai (at) york.ac.uk_; (3) Fill our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); and (4) Create a pull request (PR) in GitHub.
 
 ***Time Zone Notice:*** While some conferences use local time zones, most deadlines are in AoE (Anywhere on Earth, UTC-12:00). Please verify the specific time zone as deadlines approach. Note that many conferences require abstract submissions approximately one week before the full paper deadline, as indicated in the `Remarks` column when applicable.
 
@@ -32,7 +28,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | SIES 2025                                                    | Apr, 2025 (❔)                       | TBD                         | TBD                      |                                                              |
 | [NeurIPS 2025](https://neurips.cc/)                          | May 15, 2025                        | San Diego, USA              | Dec 2-7, 2025            | Abstract deadline: May 11, 2025                              |
 | ICCD 2025                                                    | May, 2025 (❔)                       | TBD                         | TBD                      |                                                              |
-| [RTSS 2025](https://2025.rtss.org/)                                                    | May 25, 2025                       | Boston, USA                 | Dec 2-5, 205                     |                                                              |
+| [RTSS 2025](https://2025.rtss.org/)                          | May 25, 2025                        | Boston, USA                 | Dec 2-5, 205             |                                                              |
 | ICESS 2025                                                   | Sep, 2025 (❔)                       | TBD                         | TBD                      |                                                              |
 | **Deadline passed & upcoming ↓**                             |                                     |                             |                          |                                                              |
 | [DATE 2025](https://www.date-conference.com/)                | ~~Sep 22, 2024 (*)~~                | Lyon, France                | March 31 - April 2, 2025 | - Abstract deadline: Sep 15, 2024                            |
