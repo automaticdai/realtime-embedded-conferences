@@ -20,8 +20,8 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 
 | Name                                                         | Deadline                               | Where                       | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | -------------------------------------- | :-------------------------- | -------------------- | ------------------------------------------------------------ |
-| DATE 2026                                                    | Sep, 2024 ❔                            | TBA                         | TBA                  |                                                              |
-| ICRA 2026 | Sep, 2024 ❔ | TBA | TBA | |
+| [DATE 2026](https://www.date-conference.com/date-2026-call-papers)                                                    | Sep, 2024 ❔                            | Verona, Italy                          | April 20-22, 2026                  |                                                              |
+| ICRA 2026 | Sep, 2024 ❔ | Vienna, Austria | June 1-5, 2026 | |
 | ICCPS 2026 | Oct, 2024 ❔ |  |  | |
 | RTAS 2026 | Oct ,2024 ❔ |  |  | |
 | **Deadline passed & upcoming ↓**                             |                                        |                             |                      |                                                              |
