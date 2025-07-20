@@ -4,67 +4,70 @@
 
 (***Last updated:*** {{ site.time }})
 
-Tracking the most influenced conferences in _real-time_ systems, _embedded systems_, _design automation_, _cyber-physical systems_ and _robotics_. The idea of this tracker is to keep up-to-date information of conferences, to facilitate researchers within our community aware of the deadlines and important announcements/updates.
+> A comprehensive, community-maintained tracker for the most influential conferences in real-time systems, embedded systems, design automation, cyber-physical systems, and robotics.
 
-The list is updated weekly and organized by submission deadlines for upcoming conferences, followed by conference dates for events with passed deadlines. All dates follow the `yyyy-mm-dd` format to avoid regional date format confusion. Listed deadlines are for main conference submissions; workshops, brief presentations, and industrial tracks typically have separate deadlines.
+## 🎯About
 
-***Contributing to this list:*** This list is for the community's common benefit thus it is therefore a _shared responsibility_ to make sure the contents in this list are correct to the best knowledge. If you want to add to the list or report an error, you can: (1) Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); (2) Contact me through email: _xiaotian.dai (at) york.ac.uk_; (3) Fill our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); and (4) Create a pull request (PR) in GitHub.
+This tracker helps researchers stay informed about upcoming deadlines and important announcements in our research community. The list is updated weekly and organized by submission deadlines for upcoming conferences, followed by conference dates for events with passed deadlines.
 
-***Time Zone Notice:*** While some conferences use local time zones, most deadlines are in AoE (Anywhere on Earth, UTC-12:00). Please verify the specific time zone as deadlines approach. Note that many conferences require abstract submissions approximately one week before the full paper deadline, as indicated in the `Remarks` column when applicable.
+### Date Format & Time Zones
 
-***Maintainer:***  This page and the GitHub repository are maintained by *[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)* from Real-Time and Distributed Systems Group, University of York, UK. If you find this site useful, please consider starring our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences).
+- All dates follow the `yyyy-mm-dd` format to avoid regional confusion
+- **Time Zone Notice:** Most deadlines are in AoE (Anywhere on Earth, UTC-12:00), but some conferences use local time zones. Always verify the specific time zone as deadlines approach.
+- Listed deadlines are for main conference submissions; workshops, brief presentations, and industrial tracks typically have separate deadlines.
+
+### Contributing
+
+This tracker thrives on community contributions! You can help by: (1) Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); (2) Contact me through email: _xiaotian.dai (at) york.ac.uk_; (3) Fill out our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); or (4) Create a pull request (PR) with your changes.
+
+### Maintainer
+
+**[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)**
+Real-Time and Distributed Systems Group, University of York, UK
+
+If you find this resource helpful, please ⭐ our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences)!
 
 ---
 
-## Conferences Tracking
+## 📊Conferences Tracking
 
-| Name                                                         | Deadline                               | Where                       | When                 | Remarks                                                      |
-| ------------------------------------------------------------ | -------------------------------------- | :-------------------------- | -------------------- | ------------------------------------------------------------ |
-| [DATE 2026](https://www.date-conference.com/date-2026-call-papers)                                                    | Sep, 2024 ❔                            | Verona, Italy                          | April 20-22, 2026                  |                                                              |
-| ICRA 2026 | Sep, 2024 ❔ | Vienna, Austria | June 1-5, 2026 | |
-| ICCPS 2026 | Oct, 2024 ❔ |  |  | |
-| RTAS 2026 | Oct ,2024 ❔ |  |  | |
-| **Deadline passed & upcoming ↓**                             |                                        |                             |                      |                                                              |
-| [Ada-Europe 2025](https://www.ada-europe.org/conference2025/index.html) | ~~Jan 20, 2025~~                       | Pairs, France               | June 10-13, 2025     | - Submission deadline for industrial track papers, work-in-progress papers, and tutorial and workshop proposals: 24 February 2025<br />- First round notification for journal-track papers, and notification of acceptance for all other types of submissions: 28 March 2025 |
-| [DAC 2025](https://www.dac.com/)                             | ~~Nov 19~~ → Nov 20, 2024 (*)          | Moscone West, San Francisco | June 22-25, 2025     | - (Research paper) Abstract deadline: Nov 12, 2024<br />- Engineering tracks: Jan 16, 2025 |
-| [ECRTS 2025](https://www.ecrts.org/)                         | ~~Feb 28, 2025~~                       | Brussels, Belgium           | July 8 - 11          | - Notification: April 21, 2025<br/>- Camera-ready deadline: May 16, 2025 |
-| [RTSOPS 2025](https://www.ecrts.org/workshops/rtsops-2025/) (w) | ~~May 8, 2025~~ → ~~May 15, 2025~~  | Brussels, Belgium           | July 8, 2025         | @ ECRTS 2025<br />Real-time scheduling open problem seminar  |
-| [RT-Cloud 2025](https://www.ecrts.org/rt-cloud-2025/) (w)    | ~~May 8, 2025~~ → ~~May 15, 2025~~    | Brussels, Belgium           | July 8, 2025         | @ ECRTS 2025                                                 |
-| [RTAutoSec 2025](https://www.ecrts.org/rtautosec-2025/) (w)  | ~~May 8, 2025~~                        | Brussels, Belgium           | July 8, 2025         | @ ECRTS 2025<br />Workshop on real-time autonomous systems security |
-| [ML-RT Agenda 2025](https://www.ecrts.org/ml-rt-agenda25/) (w) | ~~May 20, 2025~~                       | Brussels, Belgium           | July 8, 2025         | @ ECRTS 2025<br />Towards a research agenda for learning-enabled safety-crtitical real-time systems. |
-| [OSPERT 2025](https://www.ecrts.org/workshops/ospert25/) (w) | ~~May 8, 2025~~ → ~~May 15, 2025~~     | Brussels, Belgium           | July 8, 2025         | @ ECRTS 2025<br />Operating systems platforms for embedded real-time applications. |
-| [ICESS 2025](https://hpcn.exeter.ac.uk/icess2025/)           | ~~Apr 30, 2025~~ → ~~May 18, 2025~~    | Exeter, UK                  | Aug 13-15. 2025      | Authors Notification: 15 June 2025                           |
-| [RTCSA 2025](https://rtcsa2025.github.io/)                   | ~~Mar 31, 2025~~ → ~~Apr 5, 2025 (*)~~ | Singapore                   | Aug 20-22, 2025      | Abstract Submission Deadline: March 28, 2025                 |
-| [TAROS 2025](https://taros-conference.org/)                  | ~~Feb 28, 2025 (*)~~                   | York, UK                    | Aug 20-22, 2025      | Abstract deadline: Feb 28, 2025                              |
-| [RO-MAN 2025](https://www.ro-man2025.org/)                   | ~~Mar 20, 2025~~                       | Eindhoven, Netherlands      | Aug 25-29, 2025      | - Notification of Acceptance: May 10, 2025                   |
-| [DSD 2025](https://dsd-seaa.com/)                            | ~~Apr 15, 2025~~ → ~~May 20, 2025~~    | Salerno, Italy              | Sep 10-12, 2025      | - Author notification: May 15, 2025 <br />- Camera ready papers: June 15, 2025 |
-| [CoRL 2025](https://www.corl.org/)                           | ~~Apr 30, 2025 (*)~~                   | Seoul, Korea                | Sep 27-30, 2025      | Abstract deadline: Apr 23, 2025                              |
-| [ESWEEK 2025](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | ~~Mar 30, 2025 (*)~~                   | Taiwan, Taipei              | Sep 28 - Oct 3, 2025 | - Abstract submission deadline: Mar 23, 2025                 |
-| [IROS 2025](http://www.iros25.org/)                          | ~~Mar 1, 2025~~                        | Hangzhou, China             | Oct 19-25, 2025      | - Author notification: Jun 30, 2025                          |
-| [RTNS 2025](https://rtns2025.retis.santannapisa.it/)         | ~~Jan 30, 2025~~                       | Pisa, Italy                 | Nov 5-7, 2025        | - Submission deadline (1st round): Jan 30, 2025 <br />- Author notification: March 27, 2025<br />- Camera ready: April 27, 2025 |
-| [ICCD 2025](https://www.iccd-conf.com/home.html)             | ~~May 11, 2025~~                       | Dallas, USA                 | Nov 10-12, 2025      | - Abstract submission deadline: May 04, 2025, 11:59pm AOE <br />- Paper submission deadline: May 11, 2025, 11:59pm AOE <br />- Notification of Acceptance:   August 01, 2025 |
-| [RTSS 2025](https://2025.rtss.org/)                          | ~~May 25, 2025~~                       | Boston, USA                 | Dec 2-5, 2025        |                                                              |
-| [NeurIPS 2025](https://neurips.cc/)                          | ~~May 15, 2025~~                       | San Diego, USA              | Dec 2-7, 2025        | Abstract deadline: May 11, 2025                              |
+| Name                                                         | Deadline                               | Where                  | When                 | Remarks                                                      |
+| ------------------------------------------------------------ | -------------------------------------- | :--------------------- | -------------------- | ------------------------------------------------------------ |
+| [DATE 2026](https://www.date-conference.com/call-for-papers) | Sep 14, 2025 (*)                       | Verona, Italy          | April 20-22, 2026    | - Abstract: Sunday, 7 September 2025<br/>- Final paper: Sunday, 14 September 2025<br/>- Notification of acceptance: Monday, 10 November 2025<br/>- Camera-ready: Friday, 16 January 2026<br/>- Video presentation: Friday, 6 February 2026 |
+| [ICRA 2026](https://2026.ieee-icra.org/)                     | Sep 15, 2025 ❔                         | Vienna, Austria        | June 1-5, 2026       |                                                              |
+| ICCPS 2026                                                   | Oct, 2025 ❔                            | Saint Malo, France     | May 11-14, 2026      |                                                              |
+| RTAS 2026                                                    | Oct ,2025 ❔                            | Saint Malo, France     | May 11-14, 2026      |                                                              |
+| [DAC 2026](https://www.dac.com/)                             | Nov 19, 2025 (*) ❔                     | (TBD)                  | June 22-25, 2025     |                                                              |
+| Ada-Europe 2026                                              | Jan 20, 2026 ❔                         | (TBD)                  | June 10-13, 2025     |                                                              |
+| ECRTS 2026                                                   | Feb 28, 2026 ❔                         | (TBD)                  | July 8 - 11          |                                                              |
+| **Recent Conferences (Deadline Passed) ↓**                   |                                        |                        |                      |                                                              |
+| [ICESS 2025](https://hpcn.exeter.ac.uk/icess2025/)           | ~~Apr 30, 2025~~ → ~~May 18, 2025~~    | Exeter, UK             | Aug 13-15. 2025      | Authors Notification: 15 June 2025                           |
+| [RTCSA 2025](https://rtcsa2025.github.io/)                   | ~~Mar 31, 2025~~ → ~~Apr 5, 2025 (*)~~ | Singapore              | Aug 20-22, 2025      | Abstract Submission Deadline: March 28, 2025                 |
+| [TAROS 2025](https://taros-conference.org/)                  | ~~Feb 28, 2025 (*)~~                   | York, UK               | Aug 20-22, 2025      | Abstract deadline: Feb 28, 2025                              |
+| [RO-MAN 2025](https://www.ro-man2025.org/)                   | ~~Mar 20, 2025~~                       | Eindhoven, Netherlands | Aug 25-29, 2025      | - Notification of Acceptance: May 10, 2025                   |
+| [DSD 2025](https://dsd-seaa.com/)                            | ~~Apr 15, 2025~~ → ~~May 20, 2025~~    | Salerno, Italy         | Sep 10-12, 2025      | - Author notification: May 15, 2025 <br />- Camera ready papers: June 15, 2025 |
+| [CoRL 2025](https://www.corl.org/)                           | ~~Apr 30, 2025 (*)~~                   | Seoul, Korea           | Sep 27-30, 2025      | Abstract deadline: Apr 23, 2025                              |
+| [ESWEEK 2025](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | ~~Mar 30, 2025 (*)~~                   | Taiwan, Taipei         | Sep 28 - Oct 3, 2025 | - Abstract submission deadline: Mar 23, 2025                 |
+| [IROS 2025](http://www.iros25.org/)                          | ~~Mar 1, 2025~~                        | Hangzhou, China        | Oct 19-25, 2025      | - Author notification: Jun 30, 2025                          |
+| [RTNS 2025](https://rtns2025.retis.santannapisa.it/)         | ~~Jan 30, 2025~~                       | Pisa, Italy            | Nov 5-7, 2025        | - Submission deadline (1st round): Jan 30, 2025 <br />- Author notification: March 27, 2025<br />- Camera ready: April 27, 2025 |
+| [ICCD 2025](https://www.iccd-conf.com/home.html)             | ~~May 11, 2025~~                       | Dallas, USA            | Nov 10-12, 2025      | - Abstract submission deadline: May 04, 2025, 11:59pm AOE <br />- Paper submission deadline: May 11, 2025, 11:59pm AOE <br />- Notification of Acceptance:   August 01, 2025 |
+| [RTSS 2025](https://2025.rtss.org/)                          | ~~May 25, 2025~~                       | Boston, USA            | Dec 2-5, 2025        |                                                              |
+| [NeurIPS 2025](https://neurips.cc/)                          | ~~May 15, 2025~~                       | San Diego, USA         | Dec 2-7, 2025        | Abstract deadline: May 11, 2025                              |
 
 -----
 
 ***Notations:***
 
 - ~~deadline~~: the deadline has passed;
-
-- ~~old~~ → new: the information was updated;
-
+- ~~old~~ → new: the information has been updated;
 - (*): there is an abstract deadline (may be compulsory for some conferences);
-
 - (w): this is a workshop;
-
-- (TBA) or (TBD): the details have not yet been announced;
-
+- (TBD): the details have not yet been announced;
 - ❔: the date is not precise but based on estimations from previous years.
 
 -----
 
-## Completed & Archived (by alphabet)
+## 🗃️Completed & Archived (by alphabet)
 
 | Name                                                         | Deadline                             | Where                                   | When                        | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------------ | :-------------------------------------- | --------------------------- | ------------------------------------------------------------ |
@@ -72,6 +75,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | [Ada-Europe 2022](http://www.ada-europe.org/conference2022/cfp.html) | ~~2022-01-16~~                       | Ghent, Belgium                          | June 14-17, 2022            | Ada Europe 2022 will be hybrid. The conference schedule comprises a journal track, an industrial track, a work-in-progress track, a vendor exhibition, parallel tutorials, and satellite workshops.<br /><br />Important Dates:<br />Feb 27, 2022: Submission deadline for industrial-track and WiP track.<br />March 14, 2022: Author notification of acceptance. |
 | [Ada-Europe 2023](http://www.ada-europe.org/conference2023/) | ~~2023-01-16~~ → ~~2023-02-13~~      | Lisbon, Portugal                        | June 13-16, 2023            | **27 February 2023:** Submission deadline for [industrial-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpindus), [work-in-progress papers](http://www.ada-europe.org/conference2023/cfp.html#cfpwip), [tutorial](http://www.ada-europe.org/conference2023/cfp.htmt#cfptutorial), and [workshop proposals](http://www.ada-europe.org/conference2023/cfp.html#cfpws)<br />**20 March 2023:** First round notification for [journal-track papers](http://www.ada-europe.org/conference2023/cfp.html#cfpjournal), and notification of acceptance for all other types of submissions |
 | [Ada-Europe 2024](http://www.ada-europe.org/conference2024/) | ~~Jan 15, 2024~~ → ~~Jan 31, 2024~~  | Barcelona, Spain                        | June 11-14, 2024            | Deadline is for the journal track; Other submissions by 26 February 2024 |
+| [Ada-Europe 2025](https://www.ada-europe.org/conference2025/index.html) | ~~Jan 20, 2025~~                     | Pairs, France                           | June 10-13, 2025            | - Submission deadline for industrial track papers, work-in-progress papers, and tutorial and workshop proposals: 24 February 2025<br />- First round notification for journal-track papers, and notification of acceptance for all other types of submissions: 28 March 2025 |
 | [CASES 2022](https://esweek.org/cases/)                      | ~~2022-04-07~~                       | Shanghai, China - Hybrid                | Oct 7-14, 2022              | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/CASES_2022_CFP.pdf)<br />Details refer to EMSOFT. |
 | [CASES 2023](https://esweek.org/cases/)                      | ~~2023-03-23 (*)~~                   | Hamburg, Germany                        | Sep 17-22, 2023             | See above (EMSOFT)                                           |
 | [CODES+ISSS 2022](https://esweek.org/codes-isss/)            | ~~2022-04-07~~                       | Shanghai, China - Hybrid                | Oct 7-14, 2022              | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/CODES_ISSS_2022_CFP.pdf)<br />Details refer to EMSOFT. |
@@ -86,6 +90,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | [DAC 2022](https://www.dac.com/DAC-2022/2022-Call-for-Contributions) | ~~2021-11-22~~                       | San Francisco, CA.                      | July 10-14, 2022            | Abstraction Deadline: Nov 15                                 |
 | [DAC 2023](https://www.dac.com/)                             | ~~2022-11-21~~                       | San Francisco, USA                      | July 9-13, 2023             | Abstract deadline: Nov 14, 2022                              |
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions) | ~~Nov 20, 2023 (*)~~                 | San Francisco, CA                       | June 23-27, 2024            | **Abstract Submission Deadline:** November 13, 2023 5:00 PM (PST) |
+| [DAC 2025](https://www.dac.com/)                             | ~~Nov 19~~ → Nov 20, 2024 (*)        | Moscone West, San Francisco             | June 22-25, 2025            | - (Research paper) Abstract deadline: Nov 12, 2024<br />- Engineering tracks: Jan 16, 2025 |
 | [DSD 2021](https://dsd-seaa2021.unipv.it/)                   | ~~2021-04-01~~ → ~~2021-04-20~~      | Palermo, Italy                          | September 1-3, 2021         |                                                              |
 | [DSD 2022](https://dsd-seaa2022.iuma.ulpgc.es/)              | ~~2022-04-01~~ → ~~2022-05-25~~      | Maspalomas, Spain                       | August 31-September 2, 2022 | Notification of Acceptance: May 31st, 2022 <br />Camera-Ready Papers: June 15th, 2022 |
 | [DSD 2023](https://dsd-seaa2023.com/)                        | ~~2023-04-17~~ → ~~2023-05-28~~      | Durres, Albania                         | Sep 6-8, 2023               | **Submission Deadline**: April 17, 2023<br/>**Notification of Acceptance**: May 29, 2023<br/>**Camera-Ready Papers**: June 16, 2023 |
@@ -95,6 +100,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | [ECRTS 2022](https://www.ecrts.org/)                         | ~~2022-02-02~~                       | Modena, Italy                           | July 5–8, 2022              | Notification: April 13, 2022 <br />Camera-ready deadline: May 5, 2022 |
 | [ECRTS 2023](https://www.ecrts.org/)                         | ~~2023-03-01~~                       | Vienna, Austria                         | July 11-14, 2023            | **Author Notification:** Apr 22, 2023                        |
 | [ECRTS 2024](https://www.ecrts.org/)                         | ~~Feb 29, 2024~~                     | Lille, France                           | July 9 - 12, 2024           | Notification: April 19, 2024 <br />Camera-ready deadline: May 10, 2024 |
+| [ECRTS 2025](https://www.ecrts.org/)                         | ~~Feb 28, 2025~~                     | Brussels, Belgium                       | July 8 - 11                 | - Notification: April 21, 2025<br/>- Camera-ready deadline: May 16, 2025 |
 | [EMSOFT 2021](https://esweek.org)                            | ~~2021-04-09~~                       | Virtual                                 | October 10-15, 2021         | Abstract deadline: April 2, 2021; Part of the ESWEEK.        |
 | [EMSOFT 2022](https://esweek.org)                            | ~~2022-04-07~~                       | Shanghai, China - Hybrid                | Oct 7-14, 2022              | Part of the ESWEEK. [(cfp)](https://esweek.org/wp-content/uploads/2022/01/EMSOFT_2022_CFP.pdf)<br />Abstract Deadline: March 31, 2022<br />Full paper submission: April 07, 2022 <br />Work-in-progress paper submission: June 11, 2022<br />Author notification: July 05, 2022 |
 | [EMSOFT 2023](https://esweek.org/emsoft/)                    | ~~2023-03-23 (*)~~                   | Hamburg, Germany                        | Sep 17-22                   | Journal Track: <br />\- Abstract Submission: March 16, 2023 (AoE) <br />\- Full Paper Submission: March 23, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 30, 2023<br /><br />Work-in-Progress Track: <br />\- Paper Submission: May 22, 2023 (AoE, firm) <br />\- Notification of Acceptance: June 19, 2023<br /><br />Proposals of Workshops, Tutorials, Education Classes, and Special Sessions: March 20, 2023 |
@@ -130,6 +136,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | [LCTES 2022](https://pldi22.sigplan.org/track/LCTES-2022)    | ~~2022-03-07~~ → ~~2022-03-14~~      | San Diego, California, USA              | June 13-17, 2022            | Paper notification: April 8, 2022<br/>Artifact submission: April 16, 2022<br/>Artifact decision: May 2, 2022<br/>Camera-ready deadline: May 6, 2022 |
 | [LCTES 2023](https://pldi23.sigplan.org/home/LCTES-2023)     | ~~2023-03-16~~ → ~~2023-03-24~~      | Orlando, Florida                        | Jun 18, 2023                |                                                              |
 | [MEMOCODE 2023](https://memocode2023.github.io/callforpapers.html) | ~~2023-05-05~~ → ~~2023-05-26~~ (*)  | Hamburg, Germany                        | Sep 17-22, 2023             | **Abstract deadline:** ~~Apr 28, 2023~~ → May 12, 2023       |
+| [ML-RT Agenda 2025](https://www.ecrts.org/ml-rt-agenda25/) (w) | ~~May 20, 2025~~                     | Brussels, Belgium                       | July 8, 2025                | @ ECRTS 2025<br />Towards a research agenda for learning-enabled safety-crtitical real-time systems. |
 | [MOST 2025](https://ieeemobility.org/MOST2025/)              | ~~Dec 20, 2024~~ → ~~Jan 10, 2025~~  | Newark, DE, USA                         | May 4-6, 2025               | - Author notification: February 28, 2025<br/>- Camera ready date: March 14, 2025<br/>- Conference dates: May 4 - 6, 2025 |
 | [NeurIPS 2022](https://neurips.cc/Conferences/2022/)         | ~~2022-05-19~~                       | New Orleans - Hybrid                    | Nov 28 - Dec 9, 2022        | Abstract submission: May 16, 2022                            |
 | [NG-RES 2022](http://ng-res.deib.polimi.it/) (w)             | ~~2022-04-04~~                       | Budapest, Hungary                       | June 22, 2022               | Workshop on next generation real-time systems @ HiPEAC conference.<br />Author notification: May 11th, 2022 |
@@ -141,6 +148,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | [OSPERT 2022](https://sra.uni-hannover.de/ospert22/) (w)     | ~~2022-04-27~~ → ~~2022-05-04~~      | Modena, Italy                           | July 5, 2022                | Workshop on Operating Systems Platforms for Embedded Real-Time applications. <br />Held in conjunction with ECRTS. |
 | [OSPERT 2023](https://www.ecrts.org/workshops/ospert23/) (w) | ~~2023-05-11~~ → ~~2023-05-18~~      | Vienna, Austria                         | July 11, 2023               | in conjunction with ECRTS'23<br />**Notification of Acceptance:** May 30, 2023<br/>**Final submissions**: June 18, 2023 |
 | [OSPERT 2024](https://www.ecrts.org/workshops/ospert24/) (w) | ~~May 16, 2024~~                     | Lille, France                           | July 9, 2024                | Co-located with ECRTS'24                                     |
+| [OSPERT 2025](https://www.ecrts.org/workshops/ospert25/) (w) | ~~May 8, 2025~~ → ~~May 15, 2025~~   | Brussels, Belgium                       | July 8, 2025                | @ ECRTS 2025<br />Operating systems platforms for embedded real-time applications. |
 | [RAGE 2022](https://rage2022.github.io/) (w)                 | ~~2022-03-20~~                       | San Francisco, CA                       | July 10, 2022               | 1st Real-time And intelliGent Edge computing workshop (RAGE) --- associated with DAC 2022. Topics cover real-time edge computing, QoS for virtualization, predictability in edge-to-cloud, predictability in middleware and real-time network protocols, etc. <br />Notification to authors: April 11th 2022 |
 | [RAGE 2023](https://rage-workshop.github.io/2023/) (w)       | ~~2023-02-01~~ → ~~2023-02-15~~      | San Antonio, Texas                      | May 9, 2023                 | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2023<br />**Author Notification:** Mar 1st, 2023 |
 | [RAGE 2024](https://rage-workshop.github.io/2024/) (w)       | ~~Jan 25, 2024~~ → ~~Feb 11, 2024~~  | Hong Kong                               | May 13th, 2024              | *Workshop on Real-time And intelliGent Edge computing*<br />@ CPS-IoT Week 2024<br />**Author Notification:** Mar 1st, 2024 |
@@ -155,11 +163,13 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | [RTAS 2023](http://2023.rtas.org/)                           | ~~2022-10-31~~                       | San Antonio, Texas                      | May 9-12, 2023              | Part of the CPS-IoT Week<br />Author Notification: Jan 20, 2023<br />BP submission deadline: Feb 10, 2023<br />AE submission deadline: Feb 24, 2023<br />Camera-Ready: March 17, 2023 |
 | [RTAS 2024](https://2024.rtas.org/)                          | ~~Oct 31, 2023~~                     | Hong Kong, China                        | May 13-16, 2024             | Author notification: January 20, 2024                        |
 | [RTAS 2025](https://2025.rtas.org/)                          | ~~Oct 31, 2024~~ → ~~Nov 14, 2024~~  | Irvine, California, USA                 | May 6-9, 2025               | Part of CPS-IoT Week                                         |
+| [RTAutoSec 2025](https://www.ecrts.org/rtautosec-2025/) (w)  | ~~May 8, 2025~~                      | Brussels, Belgium                       | July 8, 2025                | @ ECRTS 2025<br />Workshop on real-time autonomous systems security |
 | [RTCSA 2022](https://rtcsa.org/index.html)                   | ~~2022-04-15~~ → ~~2022-04-29~~      | Taiwan - Hybrid                         | August 23-25, 2022          | Abstract Deadline: April 22, 2022 <br />Co-located with NVMSA 2022. |
 | [RTCSA 2023](https://rtcsa2023.github.io/)                   | ~~2023-04-14~~ → ~~2023-04-28~~ (*)  | Niigata, Japan                          | Aug 30 - Sep 1, 2023        | Abstract deadline: ~~Apr 7, 2023~~ → Apr 21, 2023            |
 | [RTCSA 2024](https://rtcsa2024.github.io/)                   | ~~Apr 5, 2024 (*)~~                  | Sokcho, South Korea                     | Aug 21-23, 2024             | Abstract Deadline: March 29, 2024                            |
 | [RTSOPS 2022](https://www.ecrts.org/rtsops-2022/) (w)        | ~~2022-02-02~~                       | Modena, Italy                           | July 5–8, 2022              | Workshop on Real-Time Scheduling Open Problems Seminar. Associated with ECRTS. |
 | [RTSOPS 2024](https://www.ecrts.org/workshops/rtsops-2024/) (w) | ~~May 16, 2024~~                     | Lille, France                           | July 9, 2024                | Co-located with ECRTS'24                                     |
+| [RTSOPS 2025](https://www.ecrts.org/workshops/rtsops-2025/) (w) | ~~May 8, 2025~~ → ~~May 15, 2025~~   | Brussels, Belgium                       | July 8, 2025                | @ ECRTS 2025<br />Real-time scheduling open problem seminar  |
 | [RTSS 2020](http://2020.rtss.org/)                           | ---                                  | Virtual                                 | Dec 1-4, 2020               |                                                              |
 | [RTSS 2021](http://2021.rtss.org/)                           | ~~2021-05-27~~                       | ~~Dortmund, Germany~~ → Fully Virtual   | Dec 7-10, 2021              | Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2). |
 | [RTSS 2022](http://2022.rtss.org/)                           | ~~2022-05-26~~                       | Houston, USA                            | Dec 5-8, 2022               | Rebuttal Period: 15-21 July, 2022<br />Paper Notification: August 5, 2022 |
@@ -170,6 +180,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 | [RTNS 2023](https://rtns2023.cs.tu-dortmund.de/)             | ~~2023-01-25 (*)~~                   | Dortmund, Germany                       | June 6-8, 2023              | This is the 2nd round of the new [Double Submission Model](https://rtns2023.cs.tu-dortmund.de/double-submission-model/)  <br />**Important Dates**:<br />- Abstract Deadline: Jan 23th, 2023<br />- Author Notification: Mar 4th, 2023 |
 | [RTNS 2024](https://cister-labs.pt/rtns24/)                  | ~~Aug 16, 2024 (*)~~                 | Porto, Portugal                         | Nov 7-8, 2024               | **Important Dates** (3rd round):<br />- Abstract Deadline : Aug 14th, 2024<br />- Author Notification: Oct 7, 2024 |
 | [RT-Cloud 2022](https://www.ecrts.org/rt-cloud-2022/) (w)    | ~~2022-02-02~~ → ~~2022-05-04~~      | Modena, Italy                           | July 5, 2022                | Workshop on Real-Time Cloud Computing. Associated with ECRTS.<br />Author Notification: May 4, 2022 |
+| [RT-Cloud 2025](https://www.ecrts.org/rt-cloud-2025/) (w)    | ~~May 8, 2025~~ → ~~May 15, 2025~~   | Brussels, Belgium                       | July 8, 2025                | @ ECRTS 2025                                                 |
 | [SIES 2024](https://www.ieee-sies.org/)                      | ~~Apr 30, 2024~~ → ~~June 30, 2024~~ | Chengdu, China                          | Oct 23-25, 2024             |                                                              |
 | [TAROS 2020](https://www.nottingham.ac.uk/conference/fac-eng/taros/index.aspx) | ---                                  | Nottingham, UK                          | Sep 16, 2020                |                                                              |
 | [TAROS 2021](https://lcas.lincoln.ac.uk/wp/taros-2021/)      | ~~2021-05-28~~                       | Virtual                                 | September 8-10, 2021        | Author Notification: July 1, 2021                            |
@@ -184,7 +195,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 
 ---
 
-## Journal List
+## 📚Journal List
 
 #### Top journals for Real-Time Systems, Embedded Systems, Design Automation, and Parallel Computing
 
@@ -227,7 +238,7 @@ The list is updated weekly and organized by submission deadlines for upcoming co
 
 ---
 
-## Useful Links
+## 🔗Useful Links
 
 - [IEEE TCRTS](https://site.ieee.org/tcrts/)
 - [ACM SIGBED](https://www.sigbed.org/)
