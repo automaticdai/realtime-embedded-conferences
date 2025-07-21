@@ -6,30 +6,21 @@
 
 > A comprehensive, community-maintained tracker for the most influential conferences in real-time systems, embedded systems, design automation, cyber-physical systems, and robotics.
 
-## 🎯About
+This tracker helps researchers stay informed about upcoming deadlines and important announcements in our research community. The list is updated weekly and organized by submission deadlines for upcoming conferences, followed by conference dates for events with passed deadlines. If you find this resource helpful, please ⭐ our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences)!
 
-This tracker helps researchers stay informed about upcoming deadlines and important announcements in our research community. The list is updated weekly and organized by submission deadlines for upcoming conferences, followed by conference dates for events with passed deadlines.
-
-### Date Format & Time Zones
+**Date Format & Time Zones**:
 
 - All dates follow the `yyyy-mm-dd` format to avoid regional confusion
 - **Time Zone Notice:** Most deadlines are in AoE (Anywhere on Earth, UTC-12:00), but some conferences use local time zones. Always verify the specific time zone as deadlines approach.
 - Listed deadlines are for main conference submissions; workshops, brief presentations, and industrial tracks typically have separate deadlines.
 
-### Contributing
+**Contributing**: This tracker thrives on community contributions! You can help by: (1) Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); (2) Contact me through email: _xiaotian.dai (at) york.ac.uk_; (3) Fill out our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); or (4) Create a pull request (PR) with your changes.
 
-This tracker thrives on community contributions! You can help by: (1) Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); (2) Contact me through email: _xiaotian.dai (at) york.ac.uk_; (3) Fill out our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); or (4) Create a pull request (PR) with your changes.
-
-### Maintainer
-
-**[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)**
-Real-Time and Distributed Systems Group, University of York, UK
-
-If you find this resource helpful, please ⭐ our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences)!
+**Maintainer**: **[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)**, Real-Time and Distributed Systems Group, University of York, UK
 
 ---
 
-## 📊Conferences Tracking
+## Conferences Tracking
 
 | Name                                                         | Deadline                               | Where                  | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | -------------------------------------- | :--------------------- | -------------------- | ------------------------------------------------------------ |
@@ -67,7 +58,7 @@ If you find this resource helpful, please ⭐ our [GitHub repository](https://gi
 
 -----
 
-## 🗃️Completed & Archived (by alphabet)
+## Completed & Archived (by alphabet)
 
 | Name                                                         | Deadline                             | Where                                   | When                        | Remarks                                                      |
 | ------------------------------------------------------------ | ------------------------------------ | :-------------------------------------- | --------------------------- | ------------------------------------------------------------ |
@@ -195,7 +186,7 @@ If you find this resource helpful, please ⭐ our [GitHub repository](https://gi
 
 ---
 
-## 📚Journal List
+## Journal List
 
 #### Top journals for Real-Time Systems, Embedded Systems, Design Automation, and Parallel Computing
 
