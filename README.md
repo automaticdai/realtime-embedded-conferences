@@ -24,13 +24,11 @@ This tracker helps researchers stay informed about upcoming deadlines and import
 
 | Name                                                         | Deadline                            | Where              | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------------------------- | :----------------- | -------------------- | ------------------------------------------------------------ |
-| [DATE 2026](https://www.date-conference.com/call-for-papers) | Sep 14, 2025 (*)                    | Verona, Italy      | April 20-22, 2026    | - Abstract: Sunday, 7 September 2025<br/>- Final paper: Sunday, 14 September 2025<br/>- Notification of acceptance: Monday, 10 November 2025<br/>- Camera-ready: Friday, 16 January 2026<br/>- Video presentation: Friday, 6 February 2026 |
-| [ICRA 2026](https://2026.ieee-icra.org/)                     | Sep 15, 2025                        | Vienna, Austria    | June 1-5, 2026       |                                                              |
 | [HSCC/ICCPS 2026](https://hscc.acm.org/2026/)                | Nov 13, 2025 (*)                    | Saint Malo, France | May 11-14, 2026      | - **Abstract Submission Deadline:** November 06, 2025        |
 | [RTAS 2026](https://2026.rtas.org/)                          | Nov 13, 2025 (*)                    | Saint Malo, France | May 11-14, 2026      | - **Abstract Submission Deadline:** November 06, 2025        |
-| [DAC 2026](https://www.dac.com/)                             | Nov 19, 2025 (*) ❔                  | (TBD)              | June 22-25, 2025     |                                                              |
-| Ada-Europe 2026                                              | Jan 20, 2026 ❔                      | (TBD)              | June 10-13, 2025     |                                                              |
-| ECRTS 2026                                                   | Feb 28, 2026 ❔                      | (TBD)              | July 8 - 11          |                                                              |
+| [DAC 2026](https://www.dac.com/)                             | Nov 19, 2025 (*) ❔                  | Long Beach, California | July 25-29, 2026     |                                                              |
+| [Ada-Europe 2026](https://www.ada-europe.org/conference2026/) | Jan 16, 2026                       | Västerås, Sweden   | June 9-12, 2026      |                                                              |
+| [ECRTS 2026](https://www.ecrts.org/)                         | Feb 28, 2026 ❔                      | Lund, Sweden       | July 7-10, 2026      |                                                              |
 | ICESS 2026                                                   | Apr, 2026 ❔                         | (TBD)              |                      |                                                              |
 | RTCSA 2026                                                   | May, 2026 ❔                         | (TBD)              |                      |                                                              |
 | TAROS 2026                                                   | Feb, 2026 ❔                         | Manchester, UK     |                      |                                                              |
@@ -41,9 +39,11 @@ This tracker helps researchers stay informed about upcoming deadlines and import
 | [ESWEEK 2025](https://esweek.org/) (EMSOFT, CASES, CODES+ISSS, MEMOCODE) | ~~Mar 30, 2025 (*)~~                | Taiwan, Taipei     | Sep 28 - Oct 3, 2025 | - Abstract submission deadline: Mar 23, 2025                 |
 | [IROS 2025](http://www.iros25.org/)                          | ~~Mar 1, 2025~~                     | Hangzhou, China    | Oct 19-25, 2025      | - Author notification: Jun 30, 2025                          |
 | [RTNS 2025](https://rtns2025.retis.santannapisa.it/)         | ~~Jan 30, 2025~~                    | Pisa, Italy        | Nov 5-7, 2025        | - Submission deadline (1st round): Jan 30, 2025 <br />- Author notification: March 27, 2025<br />- Camera ready: April 27, 2025 |
-| [ICCD 2025](https://www.iccd-conf.com/home.html)             | ~~May 11, 2025~~                    | Dallas, USA        | Nov 10-12, 2025      | - Abstract submission deadline: May 04, 2025, 11:59pm AOE <br />- Paper submission deadline: May 11, 2025, 11:59pm AOE <br />- Notification of Acceptance:   August 01, 2025 |
+| [ICCD 2025](https://www.iccd-conf.com/home.html)             | ~~May 11, 2025~~                    | Dallas, USA        | Nov 10-12, 2025      | - Abstract submission deadline: May 04, 2025, 11:59pm AOE <br />- Paper submission deadline: May 11, 2025, 11:59pm AOE <br />- Notification of Acceptance: August 01, 2025 |
 | [RTSS 2025](https://2025.rtss.org/)                          | ~~May 25, 2025~~                    | Boston, USA        | Dec 2-5, 2025        |                                                              |
 | [NeurIPS 2025](https://neurips.cc/)                          | ~~May 15, 2025~~                    | San Diego, USA     | Dec 2-7, 2025        | Abstract deadline: May 11, 2025                              |
+| [DATE 2026](https://www.date-conference.com/call-for-papers) | ~~Sep 14, 2025 (*)~~                | Verona, Italy      | April 20-22, 2026    | - Abstract: Sunday, 7 September 2025<br/>- Final paper: Sunday, 14 September 2025<br/>- Notification of acceptance: Monday, 10 November 2025<br/>- Camera-ready: Friday, 16 January 2026<br/>- Video presentation: Friday, 6 February 2026 |
+| [ICRA 2026](https://2026.ieee-icra.org/)                     | ~~Sep 15, 2025~~                    | Vienna, Austria    | June 1-5, 2026       |                                                              |
 
 -----
 
