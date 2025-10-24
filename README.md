@@ -24,11 +24,11 @@ This tracker helps researchers stay informed about upcoming deadlines and import
 
 | Name                                                         | Deadline                            | Where              | When                 | Remarks                                                      |
 | ------------------------------------------------------------ | ----------------------------------- | :----------------- | -------------------- | ------------------------------------------------------------ |
-| [HSCC/ICCPS 2026](https://hscc.acm.org/2026/)                | Nov 13, 2025 (*)                    | Saint Malo, France | May 11-14, 2026      | - **Abstract Submission Deadline:** November 06, 2025        |
-| [RTAS 2026](https://2026.rtas.org/)                          | Nov 13, 2025 (*)                    | Saint Malo, France | May 11-14, 2026      | - **Abstract Submission Deadline:** November 06, 2025        |
-| [DAC 2026](https://www.dac.com/)                             | Nov 19, 2025 (*) ❔                  | Long Beach, California | July 25-29, 2026     |                                                              |
+| [HSCC/ICCPS 2026](https://hscc.acm.org/2026/)                | Nov 13, 2025 (*)                    | Saint Malo, France | May 11-14, 2026      | - **Abstract Submission Deadline:** Nov 06, 2025        |
+| [RTAS 2026](https://2026.rtas.org/)                          | Nov 13, 2025 (*)                    | Saint Malo, France | May 11-14, 2026      | - **Abstract Submission Deadline:** Nov 06, 2025        |
+| [DAC 2026](https://www.dac.com/)                             | Nov 18, 2025 (*)                | Long Beach, California | July 25-29, 2026     | - **Abstract Submission Deadline:** Nov 11, 2025 |
 | [Ada-Europe 2026](https://www.ada-europe.org/conference2026/) | Jan 16, 2026                       | Västerås, Sweden   | June 9-12, 2026      |                                                              |
-| [ECRTS 2026](https://www.ecrts.org/)                         | Feb 28, 2026 ❔                      | Lund, Sweden       | July 7-10, 2026      |                                                              |
+| [ECRTS 2026](https://www.ecrts.org/)                         | Feb 26, 2026                     | Lund, Sweden       | July 7-10, 2026      | Submission deadline: February 26, 2026<br/>Notification: April 20, 2026<br/>Camera-ready deadline: May 05, 2026 |
 | ICESS 2026                                                   | Apr, 2026 ❔                         | (TBD)              |                      |                                                              |
 | RTCSA 2026                                                   | May, 2026 ❔                         | (TBD)              |                      |                                                              |
 | TAROS 2026                                                   | Feb, 2026 ❔                         | Manchester, UK     |                      |                                                              |
