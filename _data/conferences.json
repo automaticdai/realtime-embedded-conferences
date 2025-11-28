@@ -1421,7 +1421,7 @@
   {
     "name": "[DAC 2026](https://www.dac.com/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Long Beach, California",
     "when": "July 25-29, 2026",
     "remarks": "- **Abstract Submission Deadline:** Nov 11, 2025",
@@ -1433,11 +1433,11 @@
     "name": "[MOST 2026](https://ieeemobility.org/MOST2026/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "April 2026 (TBD)",
+    "where": "Detroit, Michigan, USA",
+    "when": "May 4-6, 2026",
     "remarks": "Mobile Systems Technologies (MOST) workshop; awaiting CFP.",
-    "deadline": "2026-01-15",
-    "deadline_precision": "month",
+    "deadline": "2025-12-20",
+    "deadline_precision": "day",
     "category": "Design Automation"
   },
   {
@@ -1488,9 +1488,9 @@
     "name": "[RSS 2026](https://roboticsconference.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "July 2026 (TBD)",
-    "remarks": "Robot Science and Systems 2026; awaiting CFP.",
+    "where": "Sydney, Australia",
+    "when": "July 13-17, 2026",
+    "remarks": "Robot Science and Systems 2026",
     "deadline": "2026-02-28",
     "deadline_precision": "month",
     "category": "Robotics"
