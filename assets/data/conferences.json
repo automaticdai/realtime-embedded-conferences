@@ -1435,8 +1435,8 @@
     "status": "upcoming",
     "where": "Detroit, Michigan, USA",
     "when": "May 4-6, 2026",
-    "remarks": "Mobile Systems Technologies (MOST) workshop; awaiting CFP.",
-    "deadline": "2025-12-20",
+    "remarks": "Mobile Systems Technologies (MOST) conference; Deadline extended to January 4, 2026",
+    "deadline": "2026-01-04",
     "deadline_precision": "day",
     "category": "Design Automation"
   },
@@ -1456,22 +1456,33 @@
     "type": "conference",
     "status": "upcoming",
     "where": "Manchester, UK",
-    "when": "(TBD)",
+    "when": "Sep 7-9, 2026",
     "remarks": "",
     "deadline": "2026-02-01",
     "deadline_precision": "month",
     "category": "Robotics & AI"
   },
   {
-    "name": "[SIES 2026](https://www.ieee-sies.org/)",
+    "name": "[RAGE 2026](https://rage-workshop.github.io/2026/)",
+    "type": "workshop",
+    "status": "upcoming",
+    "where": "Saint Malo, France",
+    "when": "May 11, 2026",
+    "remarks": "RAGE Workshop @ CPS-IoT Week 2026",
+    "deadline": "2026-02-02",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
+  },
+  {
+    "name": "[RTNS 2026](https://rtns-conference.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "June 2026 (TBD)",
-    "remarks": "IEEE International Symposium on Industrial Embedded Systems 2026.",
-    "deadline": "2026-02-15",
-    "deadline_precision": "month",
-    "category": "Embedded Systems"
+    "where": "Toulouse, France",
+    "when": "Nov 4-6, 2026",
+    "remarks": "- Submission deadline (1st round): Feb 5, 2026",
+    "deadline": "2026-02-05",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
   },
   {
     "name": "[ECRTS 2026](https://www.ecrts.org/)",
