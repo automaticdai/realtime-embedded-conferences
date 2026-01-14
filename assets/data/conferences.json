@@ -1446,8 +1446,8 @@
     "status": "upcoming",
     "where": "Västerås, Sweden",
     "when": "June 9-12, 2026",
-    "remarks": "",
-    "deadline": "2026-01-16",
+    "remarks": "Journal track deadline: February 13, 2026 (extended)",
+    "deadline": "2026-02-13",
     "deadline_precision": "day",
     "category": "Embedded Systems"
   },
@@ -1468,8 +1468,8 @@
     "status": "upcoming",
     "where": "Saint Malo, France",
     "when": "May 11, 2026",
-    "remarks": "RAGE Workshop @ CPS-IoT Week 2026",
-    "deadline": "2026-02-02",
+    "remarks": "RAGE Workshop @ CPS-IoT Week 2026. Notification to authors: March 2nd, 2026",
+    "deadline": "2026-02-03",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
@@ -1479,7 +1479,7 @@
     "status": "upcoming",
     "where": "Toulouse, France",
     "when": "Nov 4-6, 2026",
-    "remarks": "- Submission deadline (1st round): Feb 5, 2026",
+    "remarks": "Submission deadline (1st round): Feb 5, 2026 AoE (tentative). Notification: March 18th, 2026 (tentative). Camera ready: April 28th, 2026 (tentative)",
     "deadline": "2026-02-05",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
@@ -1501,9 +1501,9 @@
     "status": "upcoming",
     "where": "Sydney, Australia",
     "when": "July 13-17, 2026",
-    "remarks": "Robot Science and Systems 2026",
-    "deadline": "2026-02-28",
-    "deadline_precision": "month",
+    "remarks": "Robot Science and Systems 2026. Abstract/Title deadline: January 23, 2026. Paper submission deadline: January 30, 2026. Acceptance notification: April 27, 2026",
+    "deadline": "2026-01-30",
+    "deadline_precision": "day",
     "category": "Robotics"
   },
   {
@@ -1554,11 +1554,11 @@
     "name": "[ESWEEK 2026](https://esweek.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "Late September - Early October 2026 (TBD)",
-    "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE; awaiting official CFP.",
-    "deadline": "2026-04-30",
-    "deadline_precision": "month",
+    "where": "Barcelona, Spain",
+    "when": "October 4-9, 2026",
+    "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE. Journal Track: Abstract Submission: March 23, 2026 (AoE); Full Paper Submission: March 30, 2026 (AoE, firm); First Round Notification: May 22, 2026",
+    "deadline": "2026-03-30",
+    "deadline_precision": "day",
     "category": "Embedded Systems"
   },
   {
