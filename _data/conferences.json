@@ -1267,7 +1267,7 @@
   {
     "name": "[NeurIPS 2025](https://neurips.cc/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "San Diego, USA",
     "when": "Dec 2-7, 2025",
     "remarks": "Abstract deadline: May 11, 2025",
@@ -1344,7 +1344,7 @@
   {
     "name": "[RTSS 2025](https://2025.rtss.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Boston, USA",
     "when": "Dec 2-5, 2025",
     "remarks": "",
@@ -1432,7 +1432,7 @@
   {
     "name": "[MOST 2026](https://ieeemobility.org/MOST2026/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Detroit, Michigan, USA",
     "when": "May 4-6, 2026",
     "remarks": "Mobile Systems Technologies (MOST) conference; Deadline extended to January 4, 2026",
@@ -1469,14 +1469,14 @@
     "where": "Saint Malo, France",
     "when": "May 11, 2026",
     "remarks": "RAGE Workshop @ CPS-IoT Week 2026. Notification to authors: March 2nd, 2026",
-    "deadline": "2026-02-03",
+    "deadline": "2026-02-10",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
   {
     "name": "[RTNS 2026](https://rtns-conference.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Toulouse, France",
     "when": "Nov 4-6, 2026",
     "remarks": "Submission deadline (1st round): Feb 5, 2026 AoE (tentative). Notification: March 18th, 2026 (tentative). Camera ready: April 28th, 2026 (tentative)",
@@ -1496,9 +1496,20 @@
     "category": "Real-Time Systems"
   },
   {
-    "name": "[RSS 2026](https://roboticsconference.org/)",
+    "name": "[ISORC 2026](https://mcscert.github.io/isorc2026/)",
     "type": "conference",
     "status": "upcoming",
+    "where": "Hamilton, Ontario, Canada",
+    "when": "May 27-29, 2026",
+    "remarks": "29th IEEE International Symposium on Real-Time Distributed Computing. Abstract deadline (research track): Feb 24, 2026. Paper deadline (research track): March 3, 2026 (extended). Doctoral track: March 21, 2026. Poster track: April 20, 2026.",
+    "deadline": "2026-03-03",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
+  },
+  {
+    "name": "[RSS 2026](https://roboticsconference.org/)",
+    "type": "conference",
+    "status": "deadline_passed",
     "where": "Sydney, Australia",
     "when": "July 13-17, 2026",
     "remarks": "Robot Science and Systems 2026. Abstract/Title deadline: January 23, 2026. Paper submission deadline: January 30, 2026. Acceptance notification: April 27, 2026",
