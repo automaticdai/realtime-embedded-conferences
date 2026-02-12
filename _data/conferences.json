@@ -1529,14 +1529,14 @@
     "category": "Robotics"
   },
   {
-    "name": "RO-MAN 2026",
+    "name": "[RO-MAN 2026](https://ro-man2026.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "(TBD)",
-    "remarks": "",
-    "deadline": "2026-03-01",
-    "deadline_precision": "month",
+    "where": "Kitakyushu, Japan",
+    "when": "Aug 24-28, 2026",
+    "remarks": "Notification of Acceptance: May 29, 2026. Dates are tentative.",
+    "deadline": "2026-03-15",
+    "deadline_precision": "day",
     "category": "Robotics & AI"
   },
   {
@@ -1584,14 +1584,14 @@
     "category": "Embedded Systems"
   },
   {
-    "name": "RTCSA 2026",
+    "name": "[RTCSA 2026](https://rtcsa2026.github.io/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "(TBD)",
-    "remarks": "",
-    "deadline": "2026-05-01",
-    "deadline_precision": "month",
+    "where": "Qingdao, China",
+    "when": "Aug 11-13, 2026",
+    "remarks": "Abstract Submission Deadline: March 6, 2026. Acceptance Notification: May 4, 2026.",
+    "deadline": "2026-03-13",
+    "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
   {
