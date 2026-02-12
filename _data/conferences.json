@@ -1446,8 +1446,8 @@
     "status": "upcoming",
     "where": "Västerås, Sweden",
     "when": "June 9-12, 2026",
-    "remarks": "Journal track deadline: February 13, 2026 (extended)",
-    "deadline": "2026-02-13",
+    "remarks": "Journal track deadline: February 20, 2026 (extended). Regular/industrial/WiP track and tutorial/workshop proposals: March 13, 2026 (extended).",
+    "deadline": "2026-02-20",
     "deadline_precision": "day",
     "category": "Embedded Systems"
   },
@@ -1540,14 +1540,25 @@
     "category": "Robotics & AI"
   },
   {
-    "name": "[ICCV 2026](https://iccv2026.thecvf.com/)",
+    "name": "[CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)",
+    "type": "conference",
+    "status": "deadline_passed",
+    "where": "Denver, USA",
+    "when": "June 2-6, 2026",
+    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.",
+    "deadline": "2025-11-13",
+    "deadline_precision": "day",
+    "category": "AI"
+  },
+  {
+    "name": "[ECCV 2026](https://eccv.ecva.net/Conferences/2026)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "October 2026 (TBD)",
-    "remarks": "International Conference on Computer Vision 2026.",
-    "deadline": "2026-03-15",
-    "deadline_precision": "month",
+    "where": "Malmö, Sweden",
+    "when": "September 8-13, 2026",
+    "remarks": "European Conference on Computer Vision 2026.",
+    "deadline": "2026-03-06",
+    "deadline_precision": "day",
     "category": "AI"
   },
   {
