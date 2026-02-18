@@ -1375,37 +1375,15 @@
     "category": "Robotics & AI"
   },
   {
-    "name": "[AAMAS 2026](https://aamas2026.org/)",
+    "name": "[AAMAS 2026](https://cyprusconferences.org/aamas2026/)",
     "type": "conference",
     "status": "deadline_passed",
-    "where": "Detroit, Michigan, USA",
-    "when": "19-23, May 2026",
-    "remarks": "International Conference on Autonomous Agents and Multiagent Systems 2026.",
-    "deadline": "2025-10-16",
+    "where": "Paphos, Cyprus",
+    "when": "May 25-29, 2026",
+    "remarks": "25th International Conference on Autonomous Agents and Multiagent Systems. Author notification: Dec 22, 2025. Camera-ready: Feb 11, 2026.",
+    "deadline": "2025-10-08",
     "deadline_precision": "day",
     "category": "AI"
-  },
-  {
-    "name": "[CVPR 2026](https://cvpr.thecvf.com/)",
-    "type": "conference",
-    "status": "deadline_passed",
-    "where": "Denver CO, USA",
-    "when": "June 3 - June 7, 2026",
-    "remarks": "Flagship computer vision venue; awaiting official dates.",
-    "deadline": "2025-11-01",
-    "deadline_precision": "month",
-    "category": "Robotics & AI"
-  },
-  {
-    "name": "[HSCC/ICCPS 2026](https://hscc.acm.org/2026/)",
-    "type": "conference",
-    "status": "deadline_passed",
-    "where": "Saint Malo, France",
-    "when": "May 11-14, 2026",
-    "remarks": "- **Abstract Submission Deadline:** Nov 06, 2025",
-    "deadline": "2025-11-13",
-    "deadline_precision": "day",
-    "category": "Real-Time Systems"
   },
   {
     "name": "[RTAS 2026](https://2026.rtas.org/)",
@@ -1419,13 +1397,35 @@
     "category": "Real-Time Systems"
   },
   {
+    "name": "[CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)",
+    "type": "conference",
+    "status": "deadline_passed",
+    "where": "Denver, USA",
+    "when": "June 2-6, 2026",
+    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.",
+    "deadline": "2025-11-13",
+    "deadline_precision": "day",
+    "category": "AI"
+  },
+  {
+    "name": "[HSCC/ICCPS 2026](https://hscc.acm.org/2026/)",
+    "type": "conference",
+    "status": "deadline_passed",
+    "where": "Saint Malo, France",
+    "when": "May 11-14, 2026",
+    "remarks": "Part of CPS-IoT Week. First time HSCC and ICCPS operate as a unified event. Abstract Submission Deadline: Nov 06, 2025.",
+    "deadline": "2025-11-14",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
+  },
+  {
     "name": "[DAC 2026](https://www.dac.com/)",
     "type": "conference",
     "status": "deadline_passed",
     "where": "Long Beach, California",
     "when": "July 25-29, 2026",
-    "remarks": "- **Abstract Submission Deadline:** Nov 11, 2025",
-    "deadline": "2025-11-18",
+    "remarks": "Abstract Submission Deadline: Nov 11, 2025. Special session proceedings final paper: April 14, 2026.",
+    "deadline": "2025-11-19",
     "deadline_precision": "day",
     "category": "Design Automation"
   },
@@ -1441,15 +1441,15 @@
     "category": "Design Automation"
   },
   {
-    "name": "[Ada-Europe 2026](https://www.ada-europe.org/conference2026/)",
+    "name": "[RSS 2026](https://roboticsconference.org/)",
     "type": "conference",
-    "status": "upcoming",
-    "where": "Västerås, Sweden",
-    "when": "June 9-12, 2026",
-    "remarks": "Journal track deadline: February 20, 2026 (extended). Regular/industrial/WiP track and tutorial/workshop proposals: March 13, 2026 (extended).",
-    "deadline": "2026-02-20",
+    "status": "deadline_passed",
+    "where": "Sydney, Australia",
+    "when": "July 13-17, 2026",
+    "remarks": "Robot Science and Systems 2026. Abstract/Title deadline: January 23, 2026. Paper submission deadline: January 30, 2026. Acceptance notification: April 27, 2026",
+    "deadline": "2026-01-30",
     "deadline_precision": "day",
-    "category": "Embedded Systems"
+    "category": "Robotics"
   },
   {
     "name": "TAROS 2026",
@@ -1463,17 +1463,6 @@
     "category": "Robotics & AI"
   },
   {
-    "name": "[RAGE 2026](https://rage-workshop.github.io/2026/)",
-    "type": "workshop",
-    "status": "upcoming",
-    "where": "Saint Malo, France",
-    "when": "May 11, 2026",
-    "remarks": "RAGE Workshop @ CPS-IoT Week 2026. Notification to authors: March 2nd, 2026",
-    "deadline": "2026-02-10",
-    "deadline_precision": "day",
-    "category": "Real-Time Systems"
-  },
-  {
     "name": "[RTNS 2026](https://rtns-conference.org/)",
     "type": "conference",
     "status": "deadline_passed",
@@ -1483,6 +1472,28 @@
     "deadline": "2026-02-05",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
+  },
+  {
+    "name": "[RAGE 2026](https://rage-workshop.github.io/2026/)",
+    "type": "workshop",
+    "status": "deadline_passed",
+    "where": "Saint Malo, France",
+    "when": "May 11, 2026",
+    "remarks": "RAGE Workshop @ CPS-IoT Week 2026. Notification to authors: March 2nd, 2026",
+    "deadline": "2026-02-10",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
+  },
+  {
+    "name": "[Ada-Europe 2026](https://www.ada-europe.org/conference2026/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Västerås, Sweden",
+    "when": "June 9-12, 2026",
+    "remarks": "Journal track deadline: February 20, 2026 (extended). Regular/industrial/WiP track and tutorial/workshop proposals: March 13, 2026 (extended).",
+    "deadline": "2026-02-20",
+    "deadline_precision": "day",
+    "category": "Embedded Systems"
   },
   {
     "name": "[ECRTS 2026](https://www.ecrts.org/)",
@@ -1496,6 +1507,17 @@
     "category": "Real-Time Systems"
   },
   {
+    "name": "[IROS 2026](https://2026.ieee-iros.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Pittsburgh, Pennsylvania, USA",
+    "when": "Sep 27 - Oct 1, 2026",
+    "remarks": "Paper submission deadline: March 2, 2026. Acceptance notification: June 16, 2026. Final paper: July 10, 2026.",
+    "deadline": "2026-03-02",
+    "deadline_precision": "day",
+    "category": "Robotics"
+  },
+  {
     "name": "[ISORC 2026](https://mcscert.github.io/isorc2026/)",
     "type": "conference",
     "status": "upcoming",
@@ -1507,81 +1529,15 @@
     "category": "Real-Time Systems"
   },
   {
-    "name": "[RSS 2026](https://roboticsconference.org/)",
-    "type": "conference",
-    "status": "deadline_passed",
-    "where": "Sydney, Australia",
-    "when": "July 13-17, 2026",
-    "remarks": "Robot Science and Systems 2026. Abstract/Title deadline: January 23, 2026. Paper submission deadline: January 30, 2026. Acceptance notification: April 27, 2026",
-    "deadline": "2026-01-30",
-    "deadline_precision": "day",
-    "category": "Robotics"
-  },
-  {
-    "name": "[IROS 2026](https://iros2026.org/)",
-    "type": "conference",
-    "status": "upcoming",
-    "where": "(TBD)",
-    "when": "October 2026 (TBD)",
-    "remarks": "IEEE/RSJ International Conference on Intelligent Robots and Systems.",
-    "deadline": "2026-03-01",
-    "deadline_precision": "month",
-    "category": "Robotics"
-  },
-  {
-    "name": "[RO-MAN 2026](https://ro-man2026.org/)",
-    "type": "conference",
-    "status": "upcoming",
-    "where": "Kitakyushu, Japan",
-    "when": "Aug 24-28, 2026",
-    "remarks": "Notification of Acceptance: May 29, 2026. Dates are tentative.",
-    "deadline": "2026-03-15",
-    "deadline_precision": "day",
-    "category": "Robotics & AI"
-  },
-  {
-    "name": "[CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)",
-    "type": "conference",
-    "status": "deadline_passed",
-    "where": "Denver, USA",
-    "when": "June 2-6, 2026",
-    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.",
-    "deadline": "2025-11-13",
-    "deadline_precision": "day",
-    "category": "AI"
-  },
-  {
     "name": "[ECCV 2026](https://eccv.ecva.net/Conferences/2026)",
     "type": "conference",
     "status": "upcoming",
     "where": "Malmö, Sweden",
     "when": "September 8-13, 2026",
-    "remarks": "European Conference on Computer Vision 2026.",
-    "deadline": "2026-03-06",
+    "remarks": "European Conference on Computer Vision 2026. Paper registration: Feb 26, 2026. Supplemental materials: March 12, 2026.",
+    "deadline": "2026-03-05",
     "deadline_precision": "day",
     "category": "AI"
-  },
-  {
-    "name": "ICESS 2026",
-    "type": "conference",
-    "status": "upcoming",
-    "where": "(TBD)",
-    "when": "(TBD)",
-    "remarks": "",
-    "deadline": "2026-04-01",
-    "deadline_precision": "month",
-    "category": "Embedded Systems"
-  },
-  {
-    "name": "[ESWEEK 2026](https://esweek.org/)",
-    "type": "conference",
-    "status": "upcoming",
-    "where": "Barcelona, Spain",
-    "when": "October 4-9, 2026",
-    "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE. Journal Track: Abstract Submission: March 23, 2026 (AoE); Full Paper Submission: March 30, 2026 (AoE, firm); First Round Notification: May 22, 2026",
-    "deadline": "2026-03-30",
-    "deadline_precision": "day",
-    "category": "Embedded Systems"
   },
   {
     "name": "[RTCSA 2026](https://rtcsa2026.github.io/)",
@@ -1595,25 +1551,102 @@
     "category": "Real-Time Systems"
   },
   {
-    "name": "[DSD 2026](https://dsd-seaa.com/)",
+    "name": "[LCTES 2026](https://pldi26.sigplan.org/home/LCTES-2026)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Boulder, Colorado, USA",
+    "when": "June 15-16, 2026",
+    "remarks": "Co-located with PLDI 2026. Abstract submission: March 6, 2026. Author notification: May 1, 2026.",
+    "deadline": "2026-03-13",
+    "deadline_precision": "day",
+    "category": "Embedded Systems"
+  },
+  {
+    "name": "[RO-MAN 2026](https://ro-man2026.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Kitakyushu, Japan",
+    "when": "Aug 24-28, 2026",
+    "remarks": "Notification of Acceptance: May 29, 2026. Dates are tentative.",
+    "deadline": "2026-03-15",
+    "deadline_precision": "day",
+    "category": "Robotics & AI"
+  },
+  {
+    "name": "[ESWEEK 2026](https://esweek.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Barcelona, Spain",
+    "when": "October 4-9, 2026",
+    "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE. Journal Track: Abstract Submission: March 23, 2026 (AoE); Full Paper Submission: March 30, 2026 (AoE, firm); First Round Notification: May 22, 2026",
+    "deadline": "2026-03-30",
+    "deadline_precision": "day",
+    "category": "Embedded Systems"
+  },
+  {
+    "name": "ICESS 2026",
     "type": "conference",
     "status": "upcoming",
     "where": "(TBD)",
-    "when": "Sep 2026 (TBD)",
-    "remarks": "Annual Euromicro DSD symposium; awaiting official venue.",
-    "deadline": "2026-05-15",
+    "when": "(TBD)",
+    "remarks": "",
+    "deadline": "2026-04-01",
     "deadline_precision": "month",
+    "category": "Embedded Systems"
+  },
+  {
+    "name": "[ICCAD 2026](https://iccad.com/2026)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "San Jose, California, USA",
+    "when": "Nov 8-12, 2026",
+    "remarks": "Abstract deadline: April 7, 2026. Author rebuttals: June 17, 2026. Notification: July 11, 2026. Camera-ready: August 24, 2026.",
+    "deadline": "2026-04-14",
+    "deadline_precision": "day",
     "category": "Design Automation"
+  },
+  {
+    "name": "[NeurIPS 2026](https://neurips.cc/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Sydney, Australia",
+    "when": "Dec 6-12, 2026",
+    "remarks": "Neural Information Processing Systems. Submission deadline TBD (expected ~May 2026).",
+    "deadline": "2026-05-01",
+    "deadline_precision": "month",
+    "category": "AI"
+  },
+  {
+    "name": "[DSD 2026](https://dsd-seaa.com/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Krakow, Poland",
+    "when": "Sep 2-4, 2026",
+    "remarks": "Co-located with SEAA 2026. Acceptance notification: June 29, 2026. Camera-ready: July 6, 2026.",
+    "deadline": "2026-05-11",
+    "deadline_precision": "day",
+    "category": "Design Automation"
+  },
+  {
+    "name": "[RTSS 2026](https://2026.rtss.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Yokohama, Japan",
+    "when": "Dec 9-11, 2026",
+    "remarks": "47th IEEE Real-Time Systems Symposium. Hot Topic Day: Dec 8, 2026.",
+    "deadline": "2026-05-21",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
   },
   {
     "name": "[CoRL 2026](https://www.corl.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "Fall 2026 (TBD)",
-    "remarks": "Conference on Robot Learning (CoRL); awaiting location/date announcement.",
-    "deadline": "2026-05-31",
-    "deadline_precision": "month",
+    "where": "Austin, Texas, USA",
+    "when": "Nov 9-12, 2026",
+    "remarks": "Conference on Robot Learning.",
+    "deadline": "2026-05-28",
+    "deadline_precision": "day",
     "category": "Robotics"
   }
 ]
