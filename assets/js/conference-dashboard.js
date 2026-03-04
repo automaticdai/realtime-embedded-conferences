@@ -340,7 +340,7 @@
             <td>${formatText(entry.category)}</td>
             <td>${renderInlineOrDash(entry.where)}</td>
             <td>${formatText(entry.when)}</td>
-            <td>${renderMarkdown(entry.remarks)}</td>
+            <td class="cell-remarks">${renderMarkdown(entry.remarks)}</td>
           `;
           tableBody.appendChild(row);
         }

@@ -102,8 +102,13 @@ section {
 
 .conference-dashboard .cell-name {
   min-width: 200px;
+  max-width: 260px;
   font-weight: 600;
   font-size: 0.9rem;
+}
+
+.conference-dashboard .cell-remarks {
+  min-width: 300px;
 }
 
 .conference-dashboard .cell-name a {
