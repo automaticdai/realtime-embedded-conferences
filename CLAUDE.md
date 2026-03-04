@@ -36,11 +36,25 @@ Only edit `_data/conferences.json`. The file at `assets/data/conferences.json` i
   "status": "upcoming|deadline_passed|archived",
   "where": "City, Country",
   "when": "Month Day-Day, Year",
-  "remarks": "Additional info, key dates",
+  "remarks": "Description text.\n- Important date 1\n- Important date 2",
   "deadline": "YYYY-MM-DD",
   "deadline_precision": "day|month|year",
   "category": "Real-Time Systems|Embedded Systems|Design Automation|Robotics|Robotics & AI|AI"
 }
+```
+
+### Remarks Formatting
+
+Important dates in `remarks` must use **markdown bullet points** with `\n` (newline) separators so they render as a list in the dashboard. If there is a description, put it before the bullets as a paragraph:
+
+```json
+"remarks": "Description text.\n- Submission deadline: March 1, 2026\n- Notification: April 15, 2026\n- Camera-ready: May 1, 2026"
+```
+
+If there is no description, start directly with bullets:
+
+```json
+"remarks": "- Abstract deadline: March 1, 2026\n- Paper deadline: March 8, 2026"
 ```
 
 ### Status Values
