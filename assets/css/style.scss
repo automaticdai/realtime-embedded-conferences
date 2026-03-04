@@ -101,14 +101,18 @@ section {
 }
 
 .conference-dashboard .cell-name {
-  min-width: 200px;
-  max-width: 260px;
+  min-width: 140px;
+  max-width: 182px;
   font-weight: 600;
   font-size: 0.9rem;
 }
 
+.conference-dashboard .cell-deadline {
+  min-width: 120px;
+}
+
 .conference-dashboard .cell-remarks {
-  min-width: 300px;
+  min-width: 380px;
 }
 
 .conference-dashboard .cell-name a {

@@ -334,7 +334,7 @@
           const row = document.createElement('tr');
           row.innerHTML = `
             <td class="cell-name">${renderNameCell(entry.name)}</td>
-            <td>${formatDeadline(entry)}</td>
+            <td class="cell-deadline">${formatDeadline(entry)}</td>
             <td><span class="badge badge--${entry.status}">${STATUS_LABELS[entry.status] || entry.status}</span></td>
             <td>${(entry.type || 'conference').replace(/^\w/, (c) => c.toUpperCase())}</td>
             <td>${formatText(entry.category)}</td>
