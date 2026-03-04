@@ -1390,8 +1390,8 @@
     "type": "conference",
     "status": "deadline_passed",
     "where": "Saint Malo, France",
-    "when": "May 11-14, 2026",
-    "remarks": "- **Abstract Submission Deadline:** Nov 06, 2025",
+    "when": "May 12-14, 2026",
+    "remarks": "Abstract: Nov 06, 2025. Author response: Jan 14-18, 2026. Acceptance: Jan 29, 2026. Brief presentations: Feb 16, 2026. Camera-ready: Mar 31, 2026.",
     "deadline": "2025-11-13",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
@@ -1400,9 +1400,9 @@
     "name": "[CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)",
     "type": "conference",
     "status": "deadline_passed",
-    "where": "Denver, USA",
-    "when": "June 2-6, 2026",
-    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.",
+    "where": "Denver, Colorado, USA",
+    "when": "June 3-7, 2026",
+    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. Abstract: Nov 7, 2025 (extended). Paper: Nov 13, 2025 (firm).",
     "deadline": "2025-11-13",
     "deadline_precision": "day",
     "category": "AI"
@@ -1413,8 +1413,8 @@
     "status": "deadline_passed",
     "where": "Saint Malo, France",
     "when": "May 11-14, 2026",
-    "remarks": "Part of CPS-IoT Week. First time HSCC and ICCPS operate as a unified event. Abstract Submission Deadline: Nov 06, 2025.",
-    "deadline": "2025-11-14",
+    "remarks": "Part of CPS-IoT Week. First time HSCC and ICCPS operate as a unified event. Abstract: Nov 06, 2025. Paper: Nov 13, 2025. Rebuttal: Jan 7-11, 2026. Acceptance: Jan 29, 2026. Camera-ready: Mar 31, 2026.",
+    "deadline": "2025-11-13",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
@@ -1423,7 +1423,7 @@
     "type": "conference",
     "status": "deadline_passed",
     "where": "Long Beach, California",
-    "when": "July 25-29, 2026",
+    "when": "July 26-29, 2026",
     "remarks": "Abstract Submission Deadline: Nov 11, 2025. Special session proceedings final paper: April 14, 2026.",
     "deadline": "2025-11-19",
     "deadline_precision": "day",
@@ -1435,7 +1435,7 @@
     "status": "deadline_passed",
     "where": "Detroit, Michigan, USA",
     "when": "May 4-6, 2026",
-    "remarks": "Mobile Systems Technologies (MOST) conference; Deadline extended to January 4, 2026",
+    "remarks": "Mobile Systems Technologies (MOST) conference. Deadline extended to January 4, 2026. Acceptance: Feb 28, 2026. Camera-ready: Mar 21, 2026.",
     "deadline": "2026-01-04",
     "deadline_precision": "day",
     "category": "Design Automation"
@@ -1446,20 +1446,20 @@
     "status": "deadline_passed",
     "where": "Sydney, Australia",
     "when": "July 13-17, 2026",
-    "remarks": "Robot Science and Systems 2026. Abstract/Title deadline: January 23, 2026. Paper submission deadline: January 30, 2026. Acceptance notification: April 27, 2026",
+    "remarks": "Robot Science and Systems 2026. Abstract/Title deadline: January 23, 2026. Paper submission: January 30, 2026. Supplementary materials: February 6, 2026. Rebuttal: April 3, 2026. Acceptance notification: April 27, 2026.",
     "deadline": "2026-01-30",
     "deadline_precision": "day",
     "category": "Robotics"
   },
   {
-    "name": "TAROS 2026",
+    "name": "[TAROS 2026](https://taros-conference.org/)",
     "type": "conference",
     "status": "upcoming",
     "where": "Manchester, UK",
     "when": "Sep 7-9, 2026",
-    "remarks": "",
-    "deadline": "2026-02-01",
-    "deadline_precision": "month",
+    "remarks": "27th Towards Autonomous Robotic Systems. Paper submission: March 27, 2026. Poster abstract: May 5, 2026. Notification: May 19, 2026. Camera-ready: June 2, 2026.",
+    "deadline": "2026-03-27",
+    "deadline_precision": "day",
     "category": "Robotics & AI"
   },
   {
@@ -1468,7 +1468,7 @@
     "status": "deadline_passed",
     "where": "Toulouse, France",
     "when": "Nov 4-6, 2026",
-    "remarks": "Submission deadline (1st round): Feb 5, 2026 AoE (tentative). Notification: March 18th, 2026 (tentative). Camera ready: April 28th, 2026 (tentative)",
+    "remarks": "Submission deadline (1st round): Feb 5, 2026 AoE. Notification: March 18, 2026. Camera ready: April 28, 2026.",
     "deadline": "2026-02-05",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
@@ -1479,7 +1479,7 @@
     "status": "deadline_passed",
     "where": "Saint Malo, France",
     "when": "May 11, 2026",
-    "remarks": "RAGE Workshop @ CPS-IoT Week 2026. Notification to authors: March 2nd, 2026",
+    "remarks": "RAGE Workshop @ CPS-IoT Week 2026. Deadline extended from Feb 3 to Feb 10, 2026. Notification: March 2, 2026.",
     "deadline": "2026-02-10",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
@@ -1487,7 +1487,7 @@
   {
     "name": "[Ada-Europe 2026](https://www.ada-europe.org/conference2026/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Västerås, Sweden",
     "when": "June 9-12, 2026",
     "remarks": "Journal track deadline: February 20, 2026 (extended). Regular/industrial/WiP track and tutorial/workshop proposals: March 13, 2026 (extended).",
@@ -1498,7 +1498,7 @@
   {
     "name": "[ECRTS 2026](https://www.ecrts.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Lund, Sweden",
     "when": "July 7-10, 2026",
     "remarks": "- Submission deadline: February 26, 2026 \n - Notification: April 20, 2026 \n - Camera-ready deadline: May 05, 2026",
@@ -1509,10 +1509,10 @@
   {
     "name": "[IROS 2026](https://2026.ieee-iros.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Pittsburgh, Pennsylvania, USA",
     "when": "Sep 27 - Oct 1, 2026",
-    "remarks": "Paper submission deadline: March 2, 2026. Acceptance notification: June 16, 2026. Final paper: July 10, 2026.",
+    "remarks": "Paper submission deadline: March 2, 2026. Video submission: March 7, 2026. Workshop/Tutorial proposals: March 16, 2026. Acceptance notification: June 16, 2026. Final paper: July 10, 2026.",
     "deadline": "2026-03-02",
     "deadline_precision": "day",
     "category": "Robotics"
@@ -1520,10 +1520,10 @@
   {
     "name": "[ISORC 2026](https://mcscert.github.io/isorc2026/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Hamilton, Ontario, Canada",
     "when": "May 27-29, 2026",
-    "remarks": "29th IEEE International Symposium on Real-Time Distributed Computing. Abstract deadline (research track): Feb 24, 2026. Paper deadline (research track): March 3, 2026 (extended). Doctoral track: March 21, 2026. Poster track: April 20, 2026.",
+    "remarks": "29th IEEE International Symposium on Real-Time Distributed Computing. Abstract deadline (research track): Feb 24, 2026. Paper deadline (research track): March 3, 2026 (extended from Feb 2). Notification: March 24, 2026. Camera-ready: April 4, 2026. Doctoral track: March 21, 2026. Poster track: April 20, 2026.",
     "deadline": "2026-03-03",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
@@ -1534,7 +1534,7 @@
     "status": "upcoming",
     "where": "Malmö, Sweden",
     "when": "September 8-13, 2026",
-    "remarks": "European Conference on Computer Vision 2026. Paper registration: Feb 26, 2026. Supplemental materials: March 12, 2026.",
+    "remarks": "European Conference on Computer Vision 2026. Paper submission: March 5, 2026, 11:00 PM CET. Supplemental materials: March 12, 2026. Reviews released: May 2, 2026. Rebuttal: May 11, 2026. Final decisions: June 17, 2026. Camera-ready: June 26, 2026.",
     "deadline": "2026-03-05",
     "deadline_precision": "day",
     "category": "AI"
@@ -1578,7 +1578,7 @@
     "status": "upcoming",
     "where": "Barcelona, Spain",
     "when": "October 4-9, 2026",
-    "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE. Journal Track: Abstract Submission: March 23, 2026 (AoE); Full Paper Submission: March 30, 2026 (AoE, firm); First Round Notification: May 22, 2026",
+    "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE. Journal Track: Abstract: March 23, 2026 (AoE); Full Paper: March 30, 2026 (AoE, firm). First Round Notification: May 22, 2026. Late Breaking Track: June 5, 2026 (AoE, firm). Revised papers: June 19, 2026. Final Notification: July 17, 2026. Camera-ready: August 17, 2026.",
     "deadline": "2026-03-30",
     "deadline_precision": "day",
     "category": "Embedded Systems"
@@ -1644,7 +1644,7 @@
     "status": "upcoming",
     "where": "Austin, Texas, USA",
     "when": "Nov 9-12, 2026",
-    "remarks": "Conference on Robot Learning.",
+    "remarks": "Conference on Robot Learning. Abstract deadline: May 25, 2026. Paper submission: May 28, 2026 (AoE).",
     "deadline": "2026-05-28",
     "deadline_precision": "day",
     "category": "Robotics"
