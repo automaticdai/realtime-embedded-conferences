@@ -1545,8 +1545,8 @@
     "status": "upcoming",
     "where": "Qingdao, China",
     "when": "Aug 11-13, 2026",
-    "remarks": "- Abstract Submission Deadline: March 6, 2026\n- Acceptance Notification: May 4, 2026",
-    "deadline": "2026-03-13",
+    "remarks": "- Abstract Submission Deadline: March 25, 2026\n- Acceptance Notification: May 4, 2026",
+    "deadline": "2026-03-25",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
