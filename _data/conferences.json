@@ -1531,7 +1531,7 @@
   {
     "name": "[ECCV 2026](https://eccv.ecva.net/Conferences/2026)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Malmö, Sweden",
     "when": "September 8-13, 2026",
     "remarks": "European Conference on Computer Vision 2026.\n- Paper submission: March 5, 2026, 11:00 PM CET\n- Supplemental materials: March 12, 2026\n- Reviews released: May 2, 2026\n- Rebuttal: May 11, 2026\n- Final decisions: June 17, 2026\n- Camera-ready: June 26, 2026",
@@ -1542,7 +1542,7 @@
   {
     "name": "[RTCSA 2026](https://rtcsa2026.github.io/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Qingdao, China",
     "when": "Aug 11-13, 2026",
     "remarks": "- Abstract Submission Deadline: March 25, 2026\n- Acceptance Notification: May 4, 2026",
@@ -1553,7 +1553,7 @@
   {
     "name": "[LCTES 2026](https://pldi26.sigplan.org/home/LCTES-2026)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Boulder, Colorado, USA",
     "when": "June 15-16, 2026",
     "remarks": "Co-located with PLDI 2026.\n- Abstract submission: March 6, 2026\n- Author notification: May 1, 2026",
@@ -1564,7 +1564,7 @@
   {
     "name": "[RO-MAN 2026](https://ro-man2026.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Kitakyushu, Japan",
     "when": "Aug 24-28, 2026",
     "remarks": "- Notification of Acceptance: May 29, 2026\n- Dates are tentative",
@@ -1575,7 +1575,7 @@
   {
     "name": "[ESWEEK 2026](https://esweek.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Barcelona, Spain",
     "when": "October 4-9, 2026",
     "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE.\n- Journal Track Abstract: March 23, 2026 (AoE)\n- Journal Track Full Paper: March 30, 2026 (AoE, firm)\n- First Round Notification: May 22, 2026\n- Late Breaking Track: June 5, 2026 (AoE, firm)\n- Revised papers: June 19, 2026\n- Final Notification: July 17, 2026\n- Camera-ready: August 17, 2026",
