@@ -1454,7 +1454,7 @@
   {
     "name": "[TAROS 2026](https://taros-conference.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Manchester, UK",
     "when": "Sep 7-9, 2026",
     "remarks": "27th Towards Autonomous Robotic Systems.\n- Paper submission: April 10, 2026\n- Poster abstract: May 5, 2026\n- Notification: May 19, 2026\n- Camera-ready: June 16, 2026",
@@ -1586,7 +1586,7 @@
   {
     "name": "ICESS 2026",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "(TBD)",
     "when": "(TBD)",
     "remarks": "",
@@ -1597,7 +1597,7 @@
   {
     "name": "[ICCAD 2026](https://iccad.com/2026)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "San Jose, California, USA",
     "when": "Nov 8-12, 2026",
     "remarks": "- Abstract deadline: April 7, 2026\n- Author rebuttals: June 17, 2026\n- Notification: July 11, 2026\n- Camera-ready: August 24, 2026",
@@ -1609,11 +1609,11 @@
     "name": "[NeurIPS 2026](https://neurips.cc/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "Sydney, Australia",
-    "when": "Dec 6-12, 2026",
-    "remarks": "Neural Information Processing Systems.\n- Submission deadline TBD (expected ~May 2026)",
-    "deadline": "2026-05-01",
-    "deadline_precision": "month",
+    "where": "Sydney / Atlanta / Paris (satellite cities)",
+    "when": "Dec 6-13, 2026",
+    "remarks": "Neural Information Processing Systems. Held at three satellite locations (Sydney Dec 6-12, Atlanta Dec 8-13, Paris Dec 9-13).\n- Abstract submission: May 4, 2026 (AoE)\n- Full paper submission: May 6, 2026 (AoE)\n- Author notification: Sep 24, 2026",
+    "deadline": "2026-05-06",
+    "deadline_precision": "day",
     "category": "AI"
   },
   {
@@ -1633,8 +1633,8 @@
     "status": "upcoming",
     "where": "Yokohama, Japan",
     "when": "Dec 9-11, 2026",
-    "remarks": "47th IEEE Real-Time Systems Symposium.\n- Hot Topic Day: Dec 8, 2026",
-    "deadline": "2026-05-21",
+    "remarks": "47th IEEE Real-Time Systems Symposium.\n- Abstract submission: May 21, 2026\n- Paper submission: May 26, 2026 (firm)\n- Hot Topic Day: Dec 8, 2026",
+    "deadline": "2026-05-26",
     "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
