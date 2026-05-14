@@ -1355,7 +1355,7 @@
   {
     "name": "[DATE 2026](https://www.date-conference.com/call-for-papers)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Verona, Italy",
     "when": "April 20-22, 2026",
     "remarks": "- Abstract: Sunday, 7 September 2025\n- Final paper: Sunday, 14 September 2025\n- Notification of acceptance: Monday, 10 November 2025\n- Camera-ready: Friday, 16 January 2026\n- Video presentation: Friday, 6 February 2026",
@@ -1432,7 +1432,7 @@
   {
     "name": "[MOST 2026](https://ieeemobility.org/MOST2026/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Detroit, Michigan, USA",
     "when": "May 4-6, 2026",
     "remarks": "Mobile Systems Technologies (MOST) conference.\n- Deadline extended to January 4, 2026\n- Acceptance: Feb 28, 2026\n- Camera-ready: Mar 21, 2026",
@@ -1476,7 +1476,7 @@
   {
     "name": "[RAGE 2026](https://rage-workshop.github.io/2026/)",
     "type": "workshop",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Saint Malo, France",
     "when": "May 11, 2026",
     "remarks": "RAGE Workshop @ CPS-IoT Week 2026.\n- Deadline extended from Feb 3 to Feb 10, 2026\n- Notification: March 2, 2026",
@@ -1608,7 +1608,7 @@
   {
     "name": "[NeurIPS 2026](https://neurips.cc/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Sydney / Atlanta / Paris (satellite cities)",
     "when": "Dec 6-13, 2026",
     "remarks": "Neural Information Processing Systems. Held at three satellite locations (Sydney Dec 6-12, Atlanta Dec 8-13, Paris Dec 9-13).\n- Abstract submission: May 4, 2026 (AoE)\n- Full paper submission: May 6, 2026 (AoE)\n- Author notification: Sep 24, 2026",
@@ -1622,8 +1622,8 @@
     "status": "upcoming",
     "where": "Krakow, Poland",
     "when": "Sep 2-4, 2026",
-    "remarks": "Co-located with SEAA 2026.\n- Acceptance notification: June 29, 2026\n- Camera-ready: July 6, 2026",
-    "deadline": "2026-05-11",
+    "remarks": "Co-located with SEAA 2026.\n- Submission deadline extended to: May 25, 2026\n- Acceptance notification: June 29, 2026\n- Camera-ready: July 6, 2026",
+    "deadline": "2026-05-25",
     "deadline_precision": "day",
     "category": "Design Automation"
   },
@@ -1648,5 +1648,38 @@
     "deadline": "2026-05-28",
     "deadline_precision": "day",
     "category": "Robotics"
+  },
+  {
+    "name": "[DATE 2027](https://www.date-conference.com/date-2027-call-papers)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Dresden, Germany",
+    "when": "March 22-24, 2027",
+    "remarks": "30th Design, Automation and Test in Europe Conference.\n- Paper registration (title, abstract, co-authors): September 13, 2026 (AoE)\n- Final paper submission: September 20, 2026 (AoE)",
+    "deadline": "2026-09-20",
+    "deadline_precision": "day",
+    "category": "Design Automation"
+  },
+  {
+    "name": "[MOST 2027](https://ieeemobility.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "IEEE International Conference on Mobility: Operations, Services, and Technologies. Details for the 2027 edition not yet announced; deadline predicted from MOST 2026.",
+    "deadline": "2027-01-04",
+    "deadline_precision": "month",
+    "category": "Design Automation"
+  },
+  {
+    "name": "RAGE 2027",
+    "type": "workshop",
+    "status": "upcoming",
+    "where": "New York, NY, USA",
+    "when": "(TBD)",
+    "remarks": "Real-time And intelliGent Edge computing workshop, associated with CPS-IoT Week 2027. Details for the 2027 edition not yet announced; deadline predicted from RAGE 2026.",
+    "deadline": "2027-02-10",
+    "deadline_precision": "month",
+    "category": "Real-Time Systems"
   }
 ]
