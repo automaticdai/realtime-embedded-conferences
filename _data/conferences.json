@@ -1314,7 +1314,7 @@
     "status": "archived",
     "where": "Exeter, UK",
     "when": "Aug 13-15, 2025",
-    "remarks": "Authors Notification: 15 June 2025",
+    "remarks": "21st IEEE International Conference on Embedded Software and Systems.\n- Paper submission: May 18, 2025 (firm deadline)\n- Authors notification: June 15, 2025\n- Camera-ready: July 15, 2025",
     "deadline": "2025-05-18",
     "deadline_precision": "day",
     "category": "Embedded Systems"
@@ -1388,7 +1388,7 @@
   {
     "name": "[RTAS 2026](https://2026.rtas.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Saint Malo, France",
     "when": "May 12-14, 2026",
     "remarks": "- Abstract: Nov 06, 2025\n- Author response: Jan 14-18, 2026\n- Acceptance: Jan 29, 2026\n- Brief presentations: Feb 16, 2026\n- Camera-ready: Mar 31, 2026",
@@ -1410,7 +1410,7 @@
   {
     "name": "[HSCC/ICCPS 2026](https://hscc.acm.org/2026/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Saint Malo, France",
     "when": "May 11-14, 2026",
     "remarks": "Part of CPS-IoT Week. First time HSCC and ICCPS operate as a unified event.\n- Abstract: Nov 06, 2025\n- Paper: Nov 13, 2025\n- Rebuttal: Jan 7-11, 2026\n- Acceptance: Jan 29, 2026\n- Camera-ready: Mar 31, 2026",
@@ -1584,17 +1584,6 @@
     "category": "Embedded Systems"
   },
   {
-    "name": "ICESS 2026",
-    "type": "conference",
-    "status": "deadline_passed",
-    "where": "(TBD)",
-    "when": "(TBD)",
-    "remarks": "",
-    "deadline": "2026-04-01",
-    "deadline_precision": "month",
-    "category": "Embedded Systems"
-  },
-  {
     "name": "[ICCAD 2026](https://iccad.com/2026)",
     "type": "conference",
     "status": "deadline_passed",
@@ -1622,15 +1611,15 @@
     "status": "upcoming",
     "where": "Krakow, Poland",
     "when": "Sep 2-4, 2026",
-    "remarks": "Co-located with SEAA 2026.\n- Submission deadline extended to: May 25, 2026\n- Acceptance notification: June 29, 2026\n- Camera-ready: July 6, 2026",
-    "deadline": "2026-05-25",
+    "remarks": "Co-located with SEAA 2026. 29th Euromicro Conference on Digital System Design.\n- Abstract submission: May 25, 2026\n- Full paper submission (final extension): June 1, 2026\n- Acceptance notification: June 29, 2026\n- Camera-ready: July 6, 2026",
+    "deadline": "2026-06-01",
     "deadline_precision": "day",
     "category": "Design Automation"
   },
   {
     "name": "[RTSS 2026](https://2026.rtss.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Yokohama, Japan",
     "when": "Dec 9-11, 2026",
     "remarks": "47th IEEE Real-Time Systems Symposium.\n- Abstract submission: May 21, 2026\n- Paper submission: May 26, 2026 (firm)\n- Hot Topic Day: Dec 8, 2026",
@@ -1641,13 +1630,24 @@
   {
     "name": "[CoRL 2026](https://www.corl.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Austin, Texas, USA",
     "when": "Nov 9-12, 2026",
     "remarks": "Conference on Robot Learning.\n- Abstract deadline: May 25, 2026\n- Paper submission: May 28, 2026 (AoE)",
     "deadline": "2026-05-28",
     "deadline_precision": "day",
     "category": "Robotics"
+  },
+  {
+    "name": "[ICCD 2026](https://www.iccd-conf.com/home.html)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Hong Kong SAR, China",
+    "when": "Nov 16-18, 2026",
+    "remarks": "44th IEEE International Conference on Computer Design.\n- Abstract registration: June 3, 2026 (AoE)\n- Full paper submission: June 10, 2026 (AoE)\n- Notification of acceptance: August 20, 2026",
+    "deadline": "2026-06-10",
+    "deadline_precision": "day",
+    "category": "Design Automation"
   },
   {
     "name": "[DATE 2027](https://www.date-conference.com/date-2027-call-papers)",
@@ -1659,6 +1659,28 @@
     "deadline": "2026-09-20",
     "deadline_precision": "day",
     "category": "Design Automation"
+  },
+  {
+    "name": "[RTAS 2027](https://cps-iot-week.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "New York, NY, USA",
+    "when": "(TBD)",
+    "remarks": "IEEE Real-Time and Embedded Technology and Applications Symposium, part of CPS-IoT Week 2027. Details for the 2027 edition not yet announced; deadline predicted from RTAS 2026.",
+    "deadline": "2026-11-13",
+    "deadline_precision": "month",
+    "category": "Real-Time Systems"
+  },
+  {
+    "name": "[HSCC/ICCPS 2027](https://cps-iot-week.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "New York, NY, USA",
+    "when": "(TBD)",
+    "remarks": "Hybrid Systems: Computation and Control / International Conference on Cyber-Physical Systems, part of CPS-IoT Week 2027. Details for the 2027 edition not yet announced; deadline predicted from HSCC/ICCPS 2026.",
+    "deadline": "2026-11-13",
+    "deadline_precision": "month",
+    "category": "Real-Time Systems"
   },
   {
     "name": "[MOST 2027](https://ieeemobility.org/)",

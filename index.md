@@ -4,16 +4,14 @@ title: Real-Time Embedded Systems, Design Automation & Cyber-Physical Systems
 description: Interactive tracker for real-time, embedded, robotics, and CPS conferences with deadlines, venues, and tooling.
 ---
 
-# Real-Time Systems, Embedded, CPS and Robitcs Conferences Tracker
+# Real-Time Systems, Embedded, CPS and Robotics Conferences Tracker
 
 ![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences) ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
 
 
-> This tracker helps researchers stay informed about upcoming deadlines and important announcements in our research community. The list is updated weekly. <br> If you find this resource helpful, please ⭐ our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences)! <br><br> **Maintainer**: **[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)**, Real-Time and Distributed Systems Group, University of York, UK
+> Help researchers stay informed about upcoming deadlines and important announcements in our research community. The list is updated weekly. <br> **Maintainer**: **[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)**, Real-Time and Distributed Systems Group, University of York, UK  <br> Please ⭐ our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences)!
 
 ## Conference Dashboard
-
-Interactively explore the conferences. Use the filters, search, and ordering controls; reset whenever you need a fresh view.
 
 <div class="conference-dashboard" data-json="assets/data/conferences.json">
   <div class="toolbar">
