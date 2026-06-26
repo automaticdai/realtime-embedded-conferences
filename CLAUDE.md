@@ -77,6 +77,41 @@ When a deadline passes, change `"status": "upcoming"` to `"status": "deadline_pa
 
 Change status to `"archived"`.
 
+## Update SOP
+
+Standard procedure for a routine maintenance pass (e.g. weekly update). Run the two phases in order. Only edit `_data/conferences.json`. Use today's date as the reference point.
+
+### Phase 1 — Check deadlines & roll over statuses
+
+For every entry that is **not** already `archived`, compare it to today's date:
+
+1. `upcoming` → `deadline_passed` when its `deadline` is before today (submission deadline has passed, event hasn't happened yet).
+2. `deadline_passed` → `archived` when the event end date in `when` is before today (event has concluded). This applies to `upcoming` entries too, if an event somehow passed without the status being rolled over.
+3. Leave everything else unchanged (future deadlines stay `upcoming`; future events stay `deadline_passed`).
+
+After editing, validate the file and confirm nothing was missed:
+
+```bash
+node -e "const d=require('./_data/conferences.json'); console.log('Valid JSON,', d.length, 'entries'); const t='YYYY-MM-DD'; for(const c of d){ if(c.status==='upcoming' && c.deadline < t) console.log('MISSED:', c.name, c.deadline); }"
+```
+
+### Phase 2 — Add next-year entries
+
+For **each conference** (not workshop, unless it clearly recurs standalone) that moved to `archived` in Phase 1, add a new entry for the next year's edition:
+
+1. **Look up confirmed details** (web search for "`<conf> <next-year>` location dates call for papers"). Use the real `where`/`when` only when confirmed by an official or reliable source. If the host city or dates are unconfirmed or sources conflict, use `"(TBD)"` rather than guess.
+2. **Predict the deadline**: take the previous edition's `deadline` and add one year. Set `"deadline_precision": "month"` and note the prediction in `remarks` (e.g. `"- Deadline predicted from <conf> <prev-year>; call for papers not yet announced."`). When the real CFP is later published, refine the deadline and bump precision to `"day"`.
+3. Set `"status": "upcoming"`, keep the same `category` as the previous edition, and follow the same `name` URL pattern (e.g. year-based subdomains, series homepages).
+4. **Place** the entry near other entries of the same year, in rough `deadline` order.
+
+Validate and confirm the new entries:
+
+```bash
+node -e "const d=require('./_data/conferences.json'); console.log('Valid JSON,', d.length, 'entries');"
+```
+
+Flag any `where`/`when` sourced only from conference aggregator sites (not official) as needing a second confirmation before publishing.
+
 ## Build & Preview
 
 ```bash

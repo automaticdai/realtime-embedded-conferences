@@ -1366,7 +1366,7 @@
   {
     "name": "[ICRA 2026](https://2026.ieee-icra.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Vienna, Austria",
     "when": "June 1-5, 2026",
     "remarks": "",
@@ -1377,7 +1377,7 @@
   {
     "name": "[AAMAS 2026](https://cyprusconferences.org/aamas2026/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Paphos, Cyprus",
     "when": "May 25-29, 2026",
     "remarks": "25th International Conference on Autonomous Agents and Multiagent Systems.\n- Author notification: Dec 22, 2025\n- Camera-ready: Feb 11, 2026",
@@ -1399,7 +1399,7 @@
   {
     "name": "[CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Denver, Colorado, USA",
     "when": "June 3-7, 2026",
     "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.\n- Abstract: Nov 7, 2025 (extended)\n- Paper: Nov 13, 2025 (firm)",
@@ -1487,7 +1487,7 @@
   {
     "name": "[Ada-Europe 2026](https://www.ada-europe.org/conference2026/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Västerås, Sweden",
     "when": "June 9-12, 2026",
     "remarks": "- Journal track deadline: February 20, 2026 (extended)\n- Regular/industrial/WiP track and tutorial/workshop proposals: March 13, 2026 (extended)",
@@ -1520,7 +1520,7 @@
   {
     "name": "[ISORC 2026](https://mcscert.github.io/isorc2026/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Hamilton, Ontario, Canada",
     "when": "May 27-29, 2026",
     "remarks": "29th IEEE International Symposium on Real-Time Distributed Computing.\n- Abstract deadline (research track): Feb 24, 2026\n- Paper deadline (research track): March 3, 2026 (extended from Feb 2)\n- Notification: March 24, 2026\n- Camera-ready: April 4, 2026\n- Doctoral track: March 21, 2026\n- Poster track: April 20, 2026",
@@ -1553,7 +1553,7 @@
   {
     "name": "[LCTES 2026](https://pldi26.sigplan.org/home/LCTES-2026)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Boulder, Colorado, USA",
     "when": "June 15-16, 2026",
     "remarks": "Co-located with PLDI 2026.\n- Abstract submission: March 6, 2026\n- Author notification: May 1, 2026",
@@ -1608,7 +1608,7 @@
   {
     "name": "[DSD 2026](https://dsd-seaa.com/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Krakow, Poland",
     "when": "Sep 2-4, 2026",
     "remarks": "Co-located with SEAA 2026. 29th Euromicro Conference on Digital System Design.\n- Abstract submission: May 25, 2026\n- Full paper submission (final extension): June 1, 2026\n- Acceptance notification: June 29, 2026\n- Camera-ready: July 6, 2026",
@@ -1641,13 +1641,24 @@
   {
     "name": "[ICCD 2026](https://www.iccd-conf.com/home.html)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Hong Kong SAR, China",
     "when": "Nov 16-18, 2026",
     "remarks": "44th IEEE International Conference on Computer Design.\n- Abstract registration: June 3, 2026 (AoE)\n- Full paper submission: June 10, 2026 (AoE)\n- Notification of acceptance: August 20, 2026",
     "deadline": "2026-06-10",
     "deadline_precision": "day",
     "category": "Design Automation"
+  },
+  {
+    "name": "[ICRA 2027](https://2027.ieee-icra.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Seoul, South Korea",
+    "when": "May 24-28, 2027",
+    "remarks": "IEEE International Conference on Robotics and Automation, at the Coex Convention & Exhibition Center.\n- Deadline predicted from ICRA 2026; call for papers not yet announced.",
+    "deadline": "2026-09-15",
+    "deadline_precision": "month",
+    "category": "Robotics & AI"
   },
   {
     "name": "[DATE 2027](https://www.date-conference.com/date-2027-call-papers)",
@@ -1659,6 +1670,17 @@
     "deadline": "2026-09-20",
     "deadline_precision": "day",
     "category": "Design Automation"
+  },
+  {
+    "name": "[AAMAS 2027](https://www.ifaamas.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Singapore",
+    "when": "May 2027 (tentative)",
+    "remarks": "26th International Conference on Autonomous Agents and Multiagent Systems. Location reported as Singapore; exact dates and call for papers not yet announced.\n- Deadline predicted from AAMAS 2026.",
+    "deadline": "2026-10-08",
+    "deadline_precision": "month",
+    "category": "AI"
   },
   {
     "name": "[RTAS 2027](https://cps-iot-week.org/)",
@@ -1683,6 +1705,17 @@
     "category": "Real-Time Systems"
   },
   {
+    "name": "[CVPR 2027](https://cvpr.thecvf.com/Conferences/2027)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "USA (TBD)",
+    "when": "June 2027 (tentative)",
+    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027. Host city not yet confirmed; call for papers not yet announced.\n- Deadline predicted from CVPR 2026.",
+    "deadline": "2026-11-13",
+    "deadline_precision": "month",
+    "category": "AI"
+  },
+  {
     "name": "[MOST 2027](https://ieeemobility.org/)",
     "type": "conference",
     "status": "upcoming",
@@ -1703,5 +1736,38 @@
     "deadline": "2027-02-10",
     "deadline_precision": "month",
     "category": "Real-Time Systems"
+  },
+  {
+    "name": "[Ada-Europe 2027](https://www.ada-europe.org/conference2027/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Berlin, Germany",
+    "when": "June 8-11, 2027",
+    "remarks": "31st Ada-Europe International Conference on Reliable Software Technologies (AEiC 2027).\n- Deadline predicted from Ada-Europe 2026; call for papers not yet announced.",
+    "deadline": "2027-02-20",
+    "deadline_precision": "month",
+    "category": "Embedded Systems"
+  },
+  {
+    "name": "[ISORC 2027](https://isorc.github.io/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "30th IEEE International Symposium on Real-Time Distributed Computing. Details for the 2027 edition not yet announced; deadline predicted from ISORC 2026.",
+    "deadline": "2027-03-03",
+    "deadline_precision": "month",
+    "category": "Embedded Systems"
+  },
+  {
+    "name": "[LCTES 2027](https://pldi27.sigplan.org/home/LCTES-2027)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "Languages, Compilers, and Tools for Embedded Systems, co-located with PLDI 2027. Details for the 2027 edition not yet announced; deadline predicted from LCTES 2026.",
+    "deadline": "2027-03-13",
+    "deadline_precision": "month",
+    "category": "Embedded Systems"
   }
 ]
