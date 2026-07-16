@@ -1498,7 +1498,7 @@
   {
     "name": "[ECRTS 2026](https://www.ecrts.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Lund, Sweden",
     "when": "July 7-10, 2026",
     "remarks": "- Submission deadline: February 26, 2026\n- Notification: April 20, 2026\n- Camera-ready deadline: May 05, 2026",
@@ -1655,9 +1655,9 @@
     "status": "upcoming",
     "where": "Seoul, South Korea",
     "when": "May 24-28, 2027",
-    "remarks": "IEEE International Conference on Robotics and Automation, at the Coex Convention & Exhibition Center.\n- Deadline predicted from ICRA 2026; call for papers not yet announced.",
+    "remarks": "IEEE International Conference on Robotics and Automation, at the COEX Convention & Exhibition Center.\n- Paper submission deadline: September 15, 2026 (11:59 PST)\n- Camera-ready opens: February 6, 2027",
     "deadline": "2026-09-15",
-    "deadline_precision": "month",
+    "deadline_precision": "day",
     "category": "Robotics & AI"
   },
   {
@@ -1672,25 +1672,25 @@
     "category": "Design Automation"
   },
   {
-    "name": "[AAMAS 2027](https://www.ifaamas.org/)",
+    "name": "[AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "Singapore",
-    "when": "May 2027 (tentative)",
-    "remarks": "26th International Conference on Autonomous Agents and Multiagent Systems. Location reported as Singapore; exact dates and call for papers not yet announced.\n- Deadline predicted from AAMAS 2026.",
+    "where": "Hanoi, Vietnam",
+    "when": "May 3-7, 2027",
+    "remarks": "26th International Conference on Autonomous Agents and Multiagent Systems, at the JW Marriott Hotel, Hanoi.\n- Official CFP lists paper submission as Oct 2026 (TBC); deadline predicted from AAMAS 2026.",
     "deadline": "2026-10-08",
     "deadline_precision": "month",
     "category": "AI"
   },
   {
-    "name": "[RTAS 2027](https://cps-iot-week.org/)",
+    "name": "[RTAS 2027](https://2027.rtas.org/)",
     "type": "conference",
     "status": "upcoming",
     "where": "New York, NY, USA",
-    "when": "(TBD)",
-    "remarks": "IEEE Real-Time and Embedded Technology and Applications Symposium, part of CPS-IoT Week 2027. Details for the 2027 edition not yet announced; deadline predicted from RTAS 2026.",
-    "deadline": "2026-11-13",
-    "deadline_precision": "month",
+    "when": "May 11-14, 2027",
+    "remarks": "IEEE Real-Time and Embedded Technology and Applications Symposium, part of CPS-IoT Week 2027.\n- Paper submission: November 5, 2026\n- Author response: Jan 11-15, 2027\n- Notification: Jan 28, 2027\n- Camera-ready: March 30, 2027",
+    "deadline": "2026-11-05",
+    "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
   {
@@ -1708,9 +1708,9 @@
     "name": "[CVPR 2027](https://cvpr.thecvf.com/Conferences/2027)",
     "type": "conference",
     "status": "upcoming",
-    "where": "USA (TBD)",
-    "when": "June 2027 (tentative)",
-    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027. Host city not yet confirmed; call for papers not yet announced.\n- Deadline predicted from CVPR 2026.",
+    "where": "Seattle, Washington, USA",
+    "when": "June 20-24, 2027",
+    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027. Location and dates confirmed via CVF; call for papers not yet announced.\n- Deadline predicted from CVPR 2026.",
     "deadline": "2026-11-13",
     "deadline_precision": "month",
     "category": "AI"
@@ -1719,12 +1719,23 @@
     "name": "[MOST 2027](https://ieeemobility.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "(TBD)",
-    "remarks": "IEEE International Conference on Mobility: Operations, Services, and Technologies. Details for the 2027 edition not yet announced; deadline predicted from MOST 2026.",
+    "where": "Pomona, California, USA",
+    "when": "April 4-7, 2027",
+    "remarks": "IEEE International Conference on Mobility: Operations, Services, and Technologies. Venue and dates confirmed; paper submission deadline not yet announced (TBD on official site).\n- Deadline predicted from MOST 2026.",
     "deadline": "2027-01-04",
     "deadline_precision": "month",
     "category": "Design Automation"
+  },
+  {
+    "name": "[Ada-Europe 2027](https://www.ada-europe.org/conference2027/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Berlin, Germany",
+    "when": "June 8-11, 2027",
+    "remarks": "31st Ada-Europe International Conference on Reliable Software Technologies (AEiC 2027).\n- Journal-track papers: January 25, 2027\n- Regular-track / industrial-track papers and tutorial/workshop proposals: February 8, 2027\n- Work-in-progress papers: March 22, 2027",
+    "deadline": "2027-01-25",
+    "deadline_precision": "day",
+    "category": "Embedded Systems"
   },
   {
     "name": "RAGE 2027",
@@ -1738,15 +1749,15 @@
     "category": "Real-Time Systems"
   },
   {
-    "name": "[Ada-Europe 2027](https://www.ada-europe.org/conference2027/)",
+    "name": "[ECRTS 2027](https://www.ecrts.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "Berlin, Germany",
-    "when": "June 8-11, 2027",
-    "remarks": "31st Ada-Europe International Conference on Reliable Software Technologies (AEiC 2027).\n- Deadline predicted from Ada-Europe 2026; call for papers not yet announced.",
-    "deadline": "2027-02-20",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "39th Euromicro Conference on Real-Time Systems. Details for the 2027 edition not yet announced; deadline predicted from ECRTS 2026.",
+    "deadline": "2027-02-26",
     "deadline_precision": "month",
-    "category": "Embedded Systems"
+    "category": "Real-Time Systems"
   },
   {
     "name": "[ISORC 2027](https://isorc.github.io/)",

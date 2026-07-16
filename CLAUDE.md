@@ -79,7 +79,7 @@ Change status to `"archived"`.
 
 ## Update SOP
 
-Standard procedure for a routine maintenance pass (e.g. weekly update). Run the two phases in order. Only edit `_data/conferences.json`. Use today's date as the reference point.
+Standard procedure for a routine maintenance pass (e.g. weekly update). Run the phases in order. Only edit `_data/conferences.json`. Use today's date as the reference point.
 
 ### Phase 1 — Check deadlines & roll over statuses
 
@@ -111,6 +111,23 @@ node -e "const d=require('./_data/conferences.json'); console.log('Valid JSON,',
 ```
 
 Flag any `where`/`when` sourced only from conference aggregator sites (not official) as needing a second confirmation before publishing.
+
+### Phase 3 — Refresh existing `upcoming` entries
+
+Details firm up over time, so on every pass re-check each `upcoming` entry that still holds placeholder or predicted values. An entry needs a look if its `where` or `when` is `"(TBD)"` / `"... (tentative)"`, **or** its `deadline_precision` is `"month"` (a predicted deadline). For each such entry, web-search the official CFP and update it when newer information is confirmed:
+
+1. **Resolve TBDs** — replace `"(TBD)"` / `"(tentative)"` `where`/`when` with real values once an official source confirms them.
+2. **Refine predicted deadlines** — when the real CFP appears, replace the predicted `deadline` with the confirmed submission deadline, bump `deadline_precision` from `"month"` to `"day"`, drop the "predicted from ..." note, and add the concrete important dates as `remarks` bullets.
+3. **Catch changes** — if an already-confirmed deadline or date has since moved (extension, reschedule), update it (the repo often records this as `~~old~~ → new`).
+4. Leave the predicted values in place if nothing new is confirmed yet.
+
+Same sourcing rule as Phase 2: only promote a detail to confirmed from an official or equally authoritative source; flag aggregator-only details for a second confirmation.
+
+To list the entries that Phase 3 should re-check:
+
+```bash
+node -e "const d=require('./_data/conferences.json'); for(const c of d){ if(c.status==='upcoming' && (c.deadline_precision==='month' || /TBD|tentative/i.test(c.where+c.when))) console.log(c.deadline, '|', c.name.replace(/\].*/,']'), '| where:', c.where, '| when:', c.when); }"
+```
 
 ## Build & Preview
 
