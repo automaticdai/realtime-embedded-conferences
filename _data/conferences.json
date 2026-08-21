@@ -1421,7 +1421,7 @@
   {
     "name": "[DAC 2026](https://www.dac.com/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Long Beach, California",
     "when": "July 26-29, 2026",
     "remarks": "- Abstract Submission Deadline: Nov 11, 2025\n- Special session proceedings final paper: April 14, 2026",
@@ -1443,7 +1443,7 @@
   {
     "name": "[RSS 2026](https://roboticsconference.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Sydney, Australia",
     "when": "July 13-17, 2026",
     "remarks": "Robot Science and Systems 2026.\n- Abstract/Title deadline: January 23, 2026\n- Paper submission: January 30, 2026\n- Supplementary materials: February 6, 2026\n- Rebuttal: April 3, 2026\n- Acceptance notification: April 27, 2026",
@@ -1542,7 +1542,7 @@
   {
     "name": "[RTCSA 2026](https://rtcsa2026.github.io/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Qingdao, China",
     "when": "Aug 11-13, 2026",
     "remarks": "- Abstract Submission Deadline: March 25, 2026\n- Acceptance Notification: May 4, 2026",
@@ -1697,7 +1697,7 @@
     "name": "[HSCC/ICCPS 2027](https://cps-iot-week.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "New York, NY, USA",
+    "where": "Boulder, Colorado, USA",
     "when": "(TBD)",
     "remarks": "Hybrid Systems: Computation and Control / International Conference on Cyber-Physical Systems, part of CPS-IoT Week 2027. Details for the 2027 edition not yet announced; deadline predicted from HSCC/ICCPS 2026.",
     "deadline": "2026-11-13",
@@ -1714,6 +1714,17 @@
     "deadline": "2026-11-13",
     "deadline_precision": "month",
     "category": "AI"
+  },
+  {
+    "name": "[DAC 2027](https://www.dac.com/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "Design Automation Conference. Details for the 2027 edition not yet announced; deadline predicted from DAC 2026.",
+    "deadline": "2026-11-19",
+    "deadline_precision": "month",
+    "category": "Design Automation"
   },
   {
     "name": "[MOST 2027](https://ieeemobility.org/)",
@@ -1738,10 +1749,21 @@
     "category": "Embedded Systems"
   },
   {
+    "name": "[RSS 2027](https://roboticsconference.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Athens, Greece",
+    "when": "July 6-11, 2027",
+    "remarks": "Robotics: Science and Systems 2027. Location and dates confirmed via the official website; call for papers not yet announced.\n- Deadline predicted from RSS 2026.",
+    "deadline": "2027-01-30",
+    "deadline_precision": "month",
+    "category": "Robotics"
+  },
+  {
     "name": "RAGE 2027",
     "type": "workshop",
     "status": "upcoming",
-    "where": "New York, NY, USA",
+    "where": "Boulder, Colorado, USA",
     "when": "(TBD)",
     "remarks": "Real-time And intelliGent Edge computing workshop, associated with CPS-IoT Week 2027. Details for the 2027 edition not yet announced; deadline predicted from RAGE 2026.",
     "deadline": "2027-02-10",
@@ -1780,5 +1802,16 @@
     "deadline": "2027-03-13",
     "deadline_precision": "month",
     "category": "Embedded Systems"
+  },
+  {
+    "name": "[RTCSA 2027](https://rtcsa2027.github.io/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "IEEE International Conference on Embedded and Real-Time Computing Systems and Applications. Details for the 2027 edition not yet announced; deadline predicted from RTCSA 2026.",
+    "deadline": "2027-03-25",
+    "deadline_precision": "month",
+    "category": "Real-Time Systems"
   }
 ]
