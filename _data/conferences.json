@@ -1564,7 +1564,7 @@
   {
     "name": "[RO-MAN 2026](https://ro-man2026.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Kitakyushu, Japan",
     "when": "Aug 24-28, 2026",
     "remarks": "- Notification of Acceptance: May 29, 2026\n- Dates are tentative",
@@ -1677,9 +1677,9 @@
     "status": "upcoming",
     "where": "Hanoi, Vietnam",
     "when": "May 3-7, 2027",
-    "remarks": "26th International Conference on Autonomous Agents and Multiagent Systems, at the JW Marriott Hotel, Hanoi.\n- Official CFP lists paper submission as Oct 2026 (TBC); deadline predicted from AAMAS 2026.",
+    "remarks": "26th International Conference on Autonomous Agents and Multiagent Systems, at the JW Marriott Hotel, Hanoi. All deadlines AoE (UTC-12).\n- Abstract submission: Oct 1, 2026\n- Paper submission: Oct 8, 2026\n- Rebuttal period: Nov 20-24, 2026\n- Author notification: Dec 21, 2026\n- Camera-ready: Jan 25, 2027\n- Blue Sky Ideas track: abstract Nov 5, 2026, paper Nov 12, 2026",
     "deadline": "2026-10-08",
-    "deadline_precision": "month",
+    "deadline_precision": "day",
     "category": "AI"
   },
   {
@@ -1698,8 +1698,8 @@
     "type": "conference",
     "status": "upcoming",
     "where": "Boulder, Colorado, USA",
-    "when": "(TBD)",
-    "remarks": "Hybrid Systems: Computation and Control / International Conference on Cyber-Physical Systems, part of CPS-IoT Week 2027. Details for the 2027 edition not yet announced; deadline predicted from HSCC/ICCPS 2026.",
+    "when": "May 17-20, 2027",
+    "remarks": "Hybrid Systems: Computation and Control / International Conference on Cyber-Physical Systems, part of CPS-IoT Week 2027.\n- Deadline predicted from HSCC/ICCPS 2026; call for papers not yet announced.",
     "deadline": "2026-11-13",
     "deadline_precision": "month",
     "category": "Real-Time Systems"
@@ -1719,9 +1719,9 @@
     "name": "[DAC 2027](https://www.dac.com/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "(TBD)",
-    "remarks": "Design Automation Conference. Details for the 2027 edition not yet announced; deadline predicted from DAC 2026.",
+    "where": "San Jose, California, USA",
+    "when": "July 11-14, 2027",
+    "remarks": "64th Design Automation Conference, at the San Jose Convention Center.\n- Deadline predicted from DAC 2026; call for papers not yet announced.",
     "deadline": "2026-11-19",
     "deadline_precision": "month",
     "category": "Design Automation"
@@ -1732,9 +1732,9 @@
     "status": "upcoming",
     "where": "Pomona, California, USA",
     "when": "April 4-7, 2027",
-    "remarks": "IEEE International Conference on Mobility: Operations, Services, and Technologies. Venue and dates confirmed; paper submission deadline not yet announced (TBD on official site).\n- Deadline predicted from MOST 2026.",
-    "deadline": "2027-01-04",
-    "deadline_precision": "month",
+    "remarks": "Fifth IEEE International Conference on Mobility: Operations, Services, and Technologies.\n- Paper submission: December 1, 2026\n- Acceptance notification: January 15, 2027\n- Camera-ready: February 10, 2027\n- Travel grant applications: March 1, 2027",
+    "deadline": "2026-12-01",
+    "deadline_precision": "day",
     "category": "Design Automation"
   },
   {
@@ -1802,6 +1802,17 @@
     "deadline": "2027-03-13",
     "deadline_precision": "month",
     "category": "Embedded Systems"
+  },
+  {
+    "name": "[RO-MAN 2027](https://attend.ieee.org/ro-man-2027/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Waterloo, Ontario, Canada",
+    "when": "Aug 23-27, 2027",
+    "remarks": "36th IEEE International Conference on Robot and Human Interactive Communication, hosted at the University of Waterloo. Theme: Human-Robot Collaboration.\n- Deadline predicted from RO-MAN 2026; call for papers not yet announced.",
+    "deadline": "2027-03-15",
+    "deadline_precision": "month",
+    "category": "Robotics & AI"
   },
   {
     "name": "[RTCSA 2027](https://rtcsa2027.github.io/)",
