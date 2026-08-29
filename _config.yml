@@ -1,12 +1,19 @@
-title: Real-Time, Embedded Systems, Design Automation, CPS & Robotics Conferences
+title: Real-Time & Embedded, CPS, Robotics Conference Deadlines
 description: A community-maintained tracker of submission deadlines, venues and dates for real-time systems, embedded systems, design automation, CPS and robotics conferences.
-tagline: Deadline tracker
 lang: en-GB
 
-# Previously inherited from the jekyll-theme-midnight gem's dependencies;
-# declared explicitly now that the site owns its own layout.
+# Canonical location. GitHub Pages infers both for project pages, but
+# jekyll-sitemap needs site.url to emit absolute <loc> entries, and setting
+# them keeps local builds identical to production.
+# NOTE: if a custom domain is ever added, set url to it and clear baseurl.
+url: https://automaticdai.github.io
+baseurl: /realtime-embedded-conferences
+
+# Neither is a GitHub Pages default plugin, so both must be opted into.
+# jekyll-seo-tag used to arrive silently as a dependency of the theme gem.
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - CLAUDE.md

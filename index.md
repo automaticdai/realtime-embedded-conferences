@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Real-Time, Embedded Systems, Design Automation, CPS & Robotics Conferences
+title: Real-Time & Embedded, CPS, Robotics Conference Deadlines
 description: Interactive tracker for real-time, embedded, robotics, and CPS conferences with deadlines, venues, and tooling.
 ---
 
 <div class="lede">
   <p class="eyebrow">Community deadline tracker &middot; Updated weekly</p>
-  <h1>Real-Time, Embedded, CPS &amp; Robotics Conferences</h1>
+  <h1>Real-Time &amp; Embedded, Cyber-Physical Systems and Robotics Conferences</h1>
   <p class="lede__text">Every submission deadline our community needs to keep, in one list &mdash; with the venue, the dates, and whether the call has actually been published yet.</p>
   <p class="lede__meta">Maintained by <a href="http://www.xiaotiandai.com">Dr Steven Xiaotian Dai</a>, Real-Time and Distributed Systems Group, University of York. Corrections are welcome &mdash; <a href="https://github.com/automaticdai/realtime-embedded-conferences/issues">open an issue</a> or <a href="https://github.com/automaticdai/realtime-embedded-conferences">star the repository</a>.</p>
   <p class="lede__badges">
@@ -31,25 +31,47 @@ description: Interactive tracker for real-time, embedded, robotics, and CPS conf
   </div>
 
   <div class="toolbar">
-    <div data-role="summary">Loading conferences…</div>
+{%- assign upcoming_count = site.data.conferences | where: "status", "upcoming" | size -%}
+    <div data-role="summary">Showing {{ upcoming_count }} of {{ site.data.conferences | size }} conferences</div>
     <div class="actions">
       <button type="button" data-filter="sort-order">Ascending ↑</button>
       <button type="button" data-action="reset">Reset filters</button>
     </div>
   </div>
 
+{%- assign all_types = site.data.conferences | map: "type" | compact | uniq | sort -%}
+{%- assign all_categories = site.data.conferences | map: "category" | compact | uniq | sort -%}
   <div class="filters">
     <label>Status
-      <select data-filter="status"></select>
+      <select data-filter="status">
+        <option value="">All statuses</option>
+        <option value="upcoming" selected>Upcoming</option>
+        <option value="deadline_passed">Deadline Passed</option>
+        <option value="archived">Archived</option>
+      </select>
     </label>
     <label>Type
-      <select data-filter="type"></select>
+      <select data-filter="type">
+        <option value="">All types</option>
+        {%- for t in all_types %}
+        <option value="{{ t | escape }}">{{ t | capitalize }}</option>
+        {%- endfor %}
+      </select>
     </label>
     <label>Category
-      <select data-filter="category"></select>
+      <select data-filter="category">
+        <option value="">All categories</option>
+        {%- for cat in all_categories %}
+        <option value="{{ cat | escape }}">{{ cat | escape }}</option>
+        {%- endfor %}
+      </select>
     </label>
     <label>Sort by
-      <select data-filter="sort"></select>
+      <select data-filter="sort">
+        <option value="deadline" selected>Deadline</option>
+        <option value="when">Event Dates</option>
+        <option value="name">Name</option>
+      </select>
     </label>
     <label>Search
       <input type="search" data-filter="search" placeholder="venue, city, remark…" />
@@ -70,11 +92,39 @@ description: Interactive tracker for real-time, embedded, robotics, and CPS conf
           <th>Remarks</th>
         </tr>
       </thead>
-      <tbody></tbody>
+      <tbody>
+{%- comment -%}
+  Rendered at build time from _data/conferences.json so the conference names,
+  deadlines and venues are in the HTML for crawlers and for readers without
+  JavaScript. conference-dashboard.js replaces this tbody wholesale once it
+  loads, so this markup only has to match what the default filter shows:
+  every row is emitted, and rows that are not "upcoming" start hidden.
+{%- endcomment -%}
+{%- assign conferences = site.data.conferences | sort: "deadline" -%}
+{%- for c in conferences -%}
+  {%- if c.name contains "](" -%}
+    {%- assign label = c.name | split: "](" | first | remove_first: "[" -%}
+    {%- assign href = c.name | split: "](" | last | remove: ")" -%}
+  {%- else -%}
+    {%- assign label = c.name -%}
+    {%- assign href = "" -%}
+  {%- endif -%}
+        <tr id="conf-{{ label | slugify }}"{% unless c.status == "upcoming" %} hidden{% endunless %}>
+          <td class="cell-name">{% if href != "" %}<a href="{{ href }}" target="_blank" rel="noopener noreferrer">{{ label | escape }}</a>{% else %}{{ label | escape }}{% endif %}</td>
+          <td class="cell-deadline">{% if c.deadline_precision == "month" %}{{ c.deadline | date: "%b %Y" }} (approx.){% elsif c.deadline_precision == "year" %}{{ c.deadline | date: "%Y" }} (approx.){% else %}{{ c.deadline | date: "%b %d, %Y" }}{% endif %}</td>
+          <td><span class="badge badge--{{ c.status }}">{% case c.status %}{% when "upcoming" %}Upcoming{% when "deadline_passed" %}Deadline Passed{% when "archived" %}Archived{% else %}{{ c.status | escape }}{% endcase %}</span></td>
+          <td>{{ c.type | default: "conference" | capitalize }}</td>
+          <td>{{ c.category | default: "—" | escape }}</td>
+          <td class="cell-where">{{ c.where | default: "—" | markdownify | replace: "<p>", "" | replace: "</p>", "" | strip }}</td>
+          <td class="cell-when">{{ c.when | default: "—" | escape }}</td>
+          <td class="cell-remarks">{{ c.remarks | default: "—" | markdownify }}</td>
+        </tr>
+{%- endfor -%}
+      </tbody>
     </table>
   </div>
 
-  <noscript>Enable JavaScript to use the interactive dashboard. You can still read the quick snapshots in <code>README.md</code> or inspect <code>assets/data/conferences.json</code>.</noscript>
+  <noscript>The full list above is readable without JavaScript, showing conferences with open calls. Enable JavaScript to filter, search and sort it, and to see past editions.</noscript>
 </section>
 
 <script src="assets/js/conference-dashboard.js"></script>

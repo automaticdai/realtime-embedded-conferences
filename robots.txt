@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://automaticdai.github.io/realtime-embedded-conferences/sitemap.xml

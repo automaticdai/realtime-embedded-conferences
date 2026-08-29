@@ -135,6 +135,20 @@
     return DATE_FORMAT.format(date);
   }
 
+  /* Mirrors Jekyll's `slugify` filter, so the row ids the JS produces match
+     the ones rendered into the HTML at build time and #conf-... links keep
+     working after the table is re-rendered. */
+  function conferenceSlug(name) {
+    if (!name) return '';
+    const markdownLink = /^\s*\[([^\]]+)\]\(([^)]+)\)\s*$/;
+    const match = name.match(markdownLink);
+    const label = match ? match[1] : name;
+    return label
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+  }
+
   function renderNameCell(name) {
     if (!name) return '—';
     const markdownLink = /^\s*\[([^\]]+)\]\(([^)]+)\)\s*$/;
@@ -332,6 +346,7 @@
       } else {
         for (const entry of entries) {
           const row = document.createElement('tr');
+          row.id = `conf-${conferenceSlug(entry.name)}`;
           row.innerHTML = `
             <td class="cell-name">${renderNameCell(entry.name)}</td>
             <td class="cell-deadline">${formatDeadline(entry)}</td>
