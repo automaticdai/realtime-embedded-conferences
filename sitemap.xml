@@ -1,0 +1,27 @@
+---
+layout: null
+---
+{%- comment -%}
+  Supplied here rather than left to jekyll-sitemap, which only emits <lastmod>
+  when a page carries last_modified_at in its front matter. The plugin that
+  derives that from the filesystem does not work on GitHub Pages, and a
+  hand-written date would go stale.
+
+  site.time is the build time, and Pages rebuilds on every push, so the
+  <lastmod> below is always the moment the content last changed. Nothing to
+  maintain by hand.
+
+  jekyll-sitemap detects this file and skips generating its own, but stays in
+  _config.yml as a fallback if this file is ever removed.
+{%- endcomment -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign pages = site.html_pages | where_exp:'p','p.sitemap != false' | where_exp:'p','p.url != "/404.html"' -%}
+{%- for p in pages %}
+  <url>
+    <loc>{{ p.url | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
+    <lastmod>{{ p.last_modified_at | default: site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+{%- endfor %}
+</urlset>
