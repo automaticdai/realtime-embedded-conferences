@@ -1,19 +1,35 @@
 ---
 layout: default
-title: Real-Time Embedded Systems, Design Automation & Cyber-Physical Systems
+title: Real-Time, Embedded Systems, Design Automation, CPS & Robotics Conferences
 description: Interactive tracker for real-time, embedded, robotics, and CPS conferences with deadlines, venues, and tooling.
 ---
 
-# Real-Time Systems, Embedded, CPS and Robotics Conferences Tracker
+<div class="lede">
+  <p class="eyebrow">Community deadline tracker &middot; Updated weekly</p>
+  <h1>Real-Time, Embedded, CPS &amp; Robotics Conferences</h1>
+  <p class="lede__text">Every submission deadline our community needs to keep, in one list &mdash; with the venue, the dates, and whether the call has actually been published yet.</p>
+  <p class="lede__meta">Maintained by <a href="http://www.xiaotiandai.com">Dr Steven Xiaotian Dai</a>, Real-Time and Distributed Systems Group, University of York. Corrections are welcome &mdash; <a href="https://github.com/automaticdai/realtime-embedded-conferences/issues">open an issue</a> or <a href="https://github.com/automaticdai/realtime-embedded-conferences">star the repository</a>.</p>
+  <p class="lede__badges">
+    <img src="https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences" alt="GitHub stars" />
+    <img src="https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences" alt="GitHub contributors" />
+  </p>
+</div>
 
-![](https://badgen.net/github/stars/automaticdai/realtime-embedded-conferences) ![](https://badgen.net/github/contributors/automaticdai/realtime-embedded-conferences)
+<section class="horizon" data-role="horizon" aria-labelledby="horizon-title">
+  <div class="section-head">
+    <h2 class="section-title" id="horizon-title">Timeline View (Deadlines)</h2>
+    <p class="section-note" data-role="horizon-note">Every open call, in deadline order.</p>
+  </div>
+  <ul class="horizon__counts" data-role="horizon-counts"></ul>
+  <div class="horizon__plot" data-role="horizon-plot"></div>
+</section>
 
+<section class="conference-dashboard" data-json="assets/data/conferences.json" aria-labelledby="all-title">
+  <div class="section-head">
+    <h2 class="section-title" id="all-title">Detailed List</h2>
+    <p class="section-note">Filter, search and sort the full list.</p>
+  </div>
 
-> Help researchers stay informed about upcoming deadlines and important announcements in our research community. The list is updated weekly. <br> **Maintainer**: **[Dr. Steven Xiaotian Dai](http://www.xiaotiandai.com)**, Real-Time and Distributed Systems Group, University of York, UK  <br> Please ⭐ our [GitHub repository](https://github.com/automaticdai/realtime-embedded-conferences)!
-
-## Conference Dashboard
-
-<div class="conference-dashboard" data-json="assets/data/conferences.json">
   <div class="toolbar">
     <div data-role="summary">Loading conferences…</div>
     <div class="actions">
@@ -59,18 +75,21 @@ description: Interactive tracker for real-time, embedded, robotics, and CPS conf
   </div>
 
   <noscript>Enable JavaScript to use the interactive dashboard. You can still read the quick snapshots in <code>README.md</code> or inspect <code>assets/data/conferences.json</code>.</noscript>
-</div>
+</section>
 
 <script src="assets/js/conference-dashboard.js"></script>
 
 
 
-**Date Format & Time Zones**:
+#### Reading the dates
 
-- **Time Zone Notice:** Most deadlines are in AoE (Anywhere on Earth, UTC-12:00), but some conferences use local time zones. Always verify the specific time zone as deadlines approach.
-- Listed deadlines are for main conference submissions; workshops, brief presentations, and industrial tracks typically have separate deadlines.
+- Most deadlines are AoE (Anywhere on Earth, UTC-12:00), but some conferences use a local time zone. Verify the time zone as a deadline approaches.
+- Listed deadlines are for main-conference submissions. Workshops, brief presentations and industrial tracks usually have their own.
+- A deadline marked *(approx.)* is predicted from the previous edition; the call for papers has not been published yet.
 
-**Contributing**: This tracker thrives on community contributions! You can help by: (1) Submit an issue in the [issue list](https://github.com/automaticdai/realtime-embedded-conferences/issues); (2) Contact me through email: _xiaotian.dai (at) york.ac.uk_; (3) Fill out our [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6); or (4) Create a pull request (PR) with your changes.
+#### Contributing
+
+This tracker runs on community corrections. [Open an issue](https://github.com/automaticdai/realtime-embedded-conferences/issues), send a pull request, fill in the [feedback form](https://forms.gle/XhDSDSr6L7GTpoEC6), or email _xiaotian.dai (at) york.ac.uk_.
 
 
 

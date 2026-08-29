@@ -338,8 +338,8 @@
             <td><span class="badge badge--${entry.status}">${STATUS_LABELS[entry.status] || entry.status}</span></td>
             <td>${(entry.type || 'conference').replace(/^\w/, (c) => c.toUpperCase())}</td>
             <td>${formatText(entry.category)}</td>
-            <td>${renderInlineOrDash(entry.where)}</td>
-            <td>${formatText(entry.when)}</td>
+            <td class="cell-where">${renderInlineOrDash(entry.where)}</td>
+            <td class="cell-when">${formatText(entry.when)}</td>
             <td class="cell-remarks">${renderMarkdown(entry.remarks)}</td>
           `;
           tableBody.appendChild(row);
@@ -417,6 +417,205 @@
     render();
   }
 
+  /* ------------------------------------------------------------------ horizon
+
+     Draws the open calls as lanes on a shared time axis: one row per venue,
+     a marker where its deadline falls, a dotted lead-in for the time still
+     left. Hollow markers are deadlines predicted from the previous edition
+     rather than taken from a published call.
+     ----------------------------------------------------------------------- */
+
+  const MIN_HORIZON_MONTHS = 6;
+  const URGENT_DAYS = 30;
+  const DAY_MS = 86400000;
+  const TICK_FORMAT = new Intl.DateTimeFormat('en-GB', {
+    month: 'short',
+    timeZone: 'UTC',
+  });
+  const HORIZON_END_FORMAT = new Intl.DateTimeFormat('en-GB', {
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'UTC',
+  });
+
+  function startOfUtcToday() {
+    const now = new Date();
+    return Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+  }
+
+  function daysUntil(timestamp, from) {
+    return Math.round((timestamp - from) / DAY_MS);
+  }
+
+  function countdownLabel(days) {
+    if (days <= 0) return 'today';
+    if (days === 1) return 'tomorrow';
+    if (days < 45) return `${days} days`;
+    if (days < 90) return `${Math.round(days / 7)} weeks`;
+    return `${Math.round(days / 30.44)} months`;
+  }
+
+  /* The axis runs to the furthest open deadline rather than a fixed span, so
+     every upcoming call fits on it however far out the list reaches. */
+  function horizonEnd(from, latest) {
+    const floor = new Date(from);
+    floor.setUTCMonth(floor.getUTCMonth() + MIN_HORIZON_MONTHS);
+
+    const end = new Date(Math.max(floor.getTime(), latest));
+    end.setUTCDate(1);
+    end.setUTCMonth(end.getUTCMonth() + 1);
+    return end.getTime();
+  }
+
+  function tickStep(months) {
+    if (months <= 8) return 1;
+    if (months <= 18) return 2;
+    return 3;
+  }
+
+  function buildTicks(from, to) {
+    const ticks = [];
+    const span = to - from;
+    const months = Math.round(span / (DAY_MS * 30.44));
+    const step = tickStep(months);
+
+    const cursor = new Date(from);
+    cursor.setUTCDate(1);
+    cursor.setUTCMonth(cursor.getUTCMonth() + 1);
+
+    while (cursor.getTime() < to) {
+      const ts = cursor.getTime();
+      const isJanuary = cursor.getUTCMonth() === 0;
+      ticks.push({
+        left: ((ts - from) / span) * 100,
+        label: isJanuary
+          ? `${TICK_FORMAT.format(cursor)} '${String(cursor.getUTCFullYear()).slice(2)}`
+          : TICK_FORMAT.format(cursor),
+      });
+      cursor.setUTCMonth(cursor.getUTCMonth() + step);
+    }
+
+    return ticks;
+  }
+
+  /* Keep the hover card inside the plot: nudge its anchor point when the
+     marker sits near either end of the axis. */
+  function detailAlignment(left) {
+    if (left < 15) return 'start';
+    if (left > 85) return 'end';
+    return 'mid';
+  }
+
+  function renderDetail(entry, predicted) {
+    const rows = [
+      ['Deadline', escapeHtml(formatDeadline(entry))],
+      ['Event', escapeHtml(formatText(entry.when))],
+      ['Venue', renderInlineOrDash(entry.where)],
+    ];
+
+    const list = rows
+      .map(([term, value]) => `<dt>${term}</dt><dd>${value}</dd>`)
+      .join('');
+
+    const caveat = predicted
+      ? '<p class="horizon__caveat">Predicted from the previous edition. ' +
+        'The call for papers has not been published yet.</p>'
+      : '';
+
+    return `<dl class="horizon__detail-rows">${list}</dl>${caveat}`;
+  }
+
+  function initHorizon(container, data) {
+    const plot = container.querySelector('[data-role="horizon-plot"]');
+    const counts = container.querySelector('[data-role="horizon-counts"]');
+    const note = container.querySelector('[data-role="horizon-note"]');
+    if (!plot && !counts) return;
+
+    const today = startOfUtcToday();
+
+    const open = data
+      .filter((entry) => entry.status === 'upcoming')
+      .map((entry) => ({ entry, at: normalizeDate(entry.deadline) }))
+      .filter((item) => Number.isFinite(item.at) && item.at >= today)
+      .sort((a, b) => a.at - b.at);
+
+    const closingSoon = open.filter(
+      (item) => daysUntil(item.at, today) <= URGENT_DAYS
+    ).length;
+
+    if (counts) {
+      counts.innerHTML = [
+        `<li class="horizon__count"><strong>${open.length}</strong>open calls</li>`,
+        `<li class="horizon__count${closingSoon ? ' horizon__count--urgent' : ''}">` +
+          `<strong>${closingSoon}</strong>closing within ${URGENT_DAYS} days</li>`,
+        `<li class="horizon__count"><strong>${data.length}</strong>venues tracked</li>`,
+      ].join('');
+    }
+
+    if (!plot) return;
+
+    if (!open.length) {
+      plot.innerHTML = '<p class="horizon__empty">No open calls right now.</p>';
+      if (note) note.textContent = 'Every deadline on the list has passed.';
+      return;
+    }
+
+    const windowEnd = horizonEnd(today, open[open.length - 1].at);
+    const span = windowEnd - today;
+
+    if (note) {
+      note.textContent = `Every open call, through ${HORIZON_END_FORMAT.format(
+        new Date(windowEnd)
+      )}.`;
+    }
+
+    const ticks = buildTicks(today, windowEnd)
+      .map(
+        (tick) =>
+          `<span class="horizon__tick" style="left:${tick.left.toFixed(2)}%">${tick.label}</span>`
+      )
+      .join('');
+
+    const rows = open
+      .map(({ entry, at }) => {
+        const days = daysUntil(at, today);
+        const left = Math.min(100, Math.max(0, ((at - today) / span) * 100));
+        const predicted = entry.deadline_precision !== 'day';
+        const urgent = days <= URGENT_DAYS;
+        const offset = `${left.toFixed(2)}%`;
+
+        return [
+          `<div class="horizon__lane${urgent ? ' horizon__lane--urgent' : ''}">`,
+          '<div class="horizon__name">',
+          renderNameCell(entry.name),
+          `<span class="horizon__stamp">${escapeHtml(formatDeadline(entry))}</span>`,
+          '</div>',
+          '<div class="horizon__track">',
+          `<span class="horizon__wait" style="width:${offset}" aria-hidden="true"></span>`,
+          `<span class="horizon__marker${predicted ? ' horizon__marker--predicted' : ''}"`,
+          ` style="left:${offset}" aria-hidden="true"></span>`,
+          `<div class="horizon__detail horizon__detail--${detailAlignment(left)}"`,
+          ` style="left:${offset}" role="presentation">`,
+          renderDetail(entry, predicted),
+          '</div>',
+          '</div>',
+          `<div class="horizon__when">${countdownLabel(days)}</div>`,
+          '</div>',
+        ].join('');
+      })
+      .join('');
+
+    plot.innerHTML =
+      '<div class="horizon__axis" aria-hidden="true"><span></span>' +
+      `<span class="horizon__scale">${ticks}</span><span></span></div>` +
+      rows +
+      '<p class="horizon__key">' +
+      '<span><i class="horizon__swatch"></i>Deadline from a published call</span>' +
+      '<span><i class="horizon__swatch horizon__swatch--predicted"></i>Predicted from last year\'s edition</span>' +
+      '<span class="horizon__hint">Hover a row for dates and venue</span>' +
+      '</p>';
+  }
+
   async function fetchData(url) {
     const response = await fetch(url, { cache: 'no-store' });
     if (!response.ok) {
@@ -434,6 +633,10 @@
     try {
       const data = await fetchData(source);
       initDashboard(container, data);
+      const horizon = document.querySelector('[data-role="horizon"]');
+      if (horizon) {
+        initHorizon(horizon, data);
+      }
     } catch (error) {
       console.error(error);
       const fallback = container.querySelector('[data-role="summary"]');

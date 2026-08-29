@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-GB' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to the conference list</a>
+
+    <header class="masthead">
+      <div class="masthead__inner">
+        <a class="wordmark" href="{{ '/' | relative_url }}">
+          <span class="wordmark__mark" aria-hidden="true">&#9662;</span>
+          Real-Time &amp; Embedded Conferences
+        </a>
+        <nav class="masthead__nav" aria-label="Site">
+          <a href="https://github.com/automaticdai/realtime-embedded-conferences/issues">Report a change</a>
+          <a href="https://github.com/automaticdai/realtime-embedded-conferences">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="wrapper">
+      {{ content }}
+    </main>
+
+    <footer class="colophon">
+      <div class="colophon__inner">
+        <p>
+          Maintained by <a href="http://www.xiaotiandai.com">Dr Steven Xiaotian Dai</a>,
+          Real-Time and Distributed Systems Group, University of York.
+        </p>
+        <p class="colophon__build">Rebuilt {{ site.time | date: "%-d %B %Y" }}</p>
+      </div>
+    </footer>
+  </body>
+</html>

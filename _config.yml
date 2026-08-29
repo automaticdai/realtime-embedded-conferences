@@ -1,1 +1,17 @@
-theme: jekyll-theme-midnight
+title: Real-Time, Embedded Systems, Design Automation, CPS & Robotics Conferences
+description: A community-maintained tracker of submission deadlines, venues and dates for real-time systems, embedded systems, design automation, CPS and robotics conferences.
+tagline: Deadline tracker
+lang: en-GB
+
+# Previously inherited from the jekyll-theme-midnight gem's dependencies;
+# declared explicitly now that the site owns its own layout.
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts
+  - vendor
