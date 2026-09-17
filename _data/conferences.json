@@ -1454,7 +1454,7 @@
   {
     "name": "[TAROS 2026](https://taros-conference.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Manchester, UK",
     "when": "Sep 7-9, 2026",
     "remarks": "27th Towards Autonomous Robotic Systems.\n- Paper submission: April 10, 2026\n- Poster abstract: May 5, 2026\n- Notification: May 19, 2026\n- Camera-ready: June 16, 2026",
@@ -1531,7 +1531,7 @@
   {
     "name": "[ECCV 2026](https://eccv.ecva.net/Conferences/2026)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Malmö, Sweden",
     "when": "September 8-13, 2026",
     "remarks": "European Conference on Computer Vision 2026.\n- Paper submission: March 5, 2026, 11:00 PM CET\n- Supplemental materials: March 12, 2026\n- Reviews released: May 2, 2026\n- Rebuttal: May 11, 2026\n- Final decisions: June 17, 2026\n- Camera-ready: June 26, 2026",
@@ -1608,7 +1608,7 @@
   {
     "name": "[DSD 2026](https://dsd-seaa.com/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Krakow, Poland",
     "when": "Sep 2-4, 2026",
     "remarks": "Co-located with SEAA 2026. 29th Euromicro Conference on Digital System Design.\n- Abstract submission: May 25, 2026\n- Full paper submission (final extension): June 1, 2026\n- Acceptance notification: June 29, 2026\n- Camera-ready: July 6, 2026",
@@ -1652,11 +1652,11 @@
   {
     "name": "[ICRA 2027](https://2027.ieee-icra.org/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Seoul, South Korea",
     "when": "May 24-28, 2027",
-    "remarks": "IEEE International Conference on Robotics and Automation, at the COEX Convention & Exhibition Center.\n- Paper submission deadline: September 15, 2026 (11:59 PST)\n- Camera-ready opens: February 6, 2027",
-    "deadline": "2026-09-15",
+    "remarks": "IEEE International Conference on Robotics and Automation, at the COEX Convention & Exhibition Center.\n- Paper submission deadline: ~~September 15, 2026~~ → September 16, 2026 (23:59 PST, extended)\n- Accompanying videos: Aug 5 - Sep 9, 2026 and Sep 17-22, 2026 (23:59 PST)\n- Journal paper transfer: December 31, 2026\n- Notification of acceptance: January 31, 2027\n- Final submission opens: February 6, 2027\n- Author registration: March 5, 2027",
+    "deadline": "2026-09-16",
     "deadline_precision": "day",
     "category": "Robotics & AI"
   },
@@ -1681,6 +1681,17 @@
     "deadline": "2026-10-08",
     "deadline_precision": "day",
     "category": "AI"
+  },
+  {
+    "name": "[ISORC 2027](https://isorc-conference.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "IIT Ropar, Punjab, India",
+    "when": "April 7-9, 2027",
+    "remarks": "30th IEEE International Symposium on Real-Time Distributed Computing, hosted at IIT Ropar.\n- Paper submission: October 15, 2026\n- Acceptance notification: December 1, 2026\n- Camera-ready: January 2027 (tentative)",
+    "deadline": "2026-10-15",
+    "deadline_precision": "day",
+    "category": "Embedded Systems"
   },
   {
     "name": "[RTAS 2027](https://2027.rtas.org/)",
@@ -1709,10 +1720,10 @@
     "type": "conference",
     "status": "upcoming",
     "where": "Seattle, Washington, USA",
-    "when": "June 20-24, 2027",
-    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027. Location and dates confirmed via CVF; call for papers not yet announced.\n- Deadline predicted from CVPR 2026.",
-    "deadline": "2026-11-13",
-    "deadline_precision": "month",
+    "when": "June 20-25, 2027",
+    "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027. Workshops and tutorials June 20-21; main conference June 22-25. All deadlines AoE (UTC-12).\n- Paper registration: November 10, 2026\n- Paper submission: November 16, 2026\n- Supplementary materials: November 23, 2026\n- Reviews released: January 25, 2027\n- Final decisions: February 25, 2027",
+    "deadline": "2026-11-16",
+    "deadline_precision": "day",
     "category": "AI"
   },
   {
@@ -1721,9 +1732,9 @@
     "status": "upcoming",
     "where": "San Jose, California, USA",
     "when": "July 11-14, 2027",
-    "remarks": "64th Design Automation Conference, at the San Jose Convention Center.\n- Deadline predicted from DAC 2026; call for papers not yet announced.",
-    "deadline": "2026-11-19",
-    "deadline_precision": "month",
+    "remarks": "64th Design Automation Conference, at the San Jose Convention Center.\n- Proposal submission (special sessions, workshops, tutorials): November 16, 2026\n- Manuscript submission: November 17, 2026",
+    "deadline": "2026-11-17",
+    "deadline_precision": "day",
     "category": "Design Automation"
   },
   {
@@ -1782,15 +1793,15 @@
     "category": "Real-Time Systems"
   },
   {
-    "name": "[ISORC 2027](https://isorc.github.io/)",
+    "name": "[RO-MAN 2027](https://ro-man2027.ca/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
-    "when": "(TBD)",
-    "remarks": "30th IEEE International Symposium on Real-Time Distributed Computing. Details for the 2027 edition not yet announced; deadline predicted from ISORC 2026.",
-    "deadline": "2027-03-03",
-    "deadline_precision": "month",
-    "category": "Embedded Systems"
+    "where": "Waterloo, Ontario, Canada",
+    "when": "Aug 23-27, 2027",
+    "remarks": "36th IEEE International Conference on Robot and Human Interactive Communication, hosted at the University of Waterloo. Theme: Human-Robot Collaboration. Double-anonymized review; the paper deadline is strict and will not be extended.\n- Special session proposals: January 15, 2027\n- Workshop and tutorial proposals: February 1, 2027\n- Regular and special session papers: March 7, 2027\n- Acceptance notification: May 7, 2027\n- Late breaking reports: June 1, 2027",
+    "deadline": "2027-03-07",
+    "deadline_precision": "day",
+    "category": "Robotics & AI"
   },
   {
     "name": "[LCTES 2027](https://pldi27.sigplan.org/home/LCTES-2027)",
@@ -1804,17 +1815,6 @@
     "category": "Embedded Systems"
   },
   {
-    "name": "[RO-MAN 2027](https://attend.ieee.org/ro-man-2027/)",
-    "type": "conference",
-    "status": "upcoming",
-    "where": "Waterloo, Ontario, Canada",
-    "when": "Aug 23-27, 2027",
-    "remarks": "36th IEEE International Conference on Robot and Human Interactive Communication, hosted at the University of Waterloo. Theme: Human-Robot Collaboration.\n- Deadline predicted from RO-MAN 2026; call for papers not yet announced.",
-    "deadline": "2027-03-15",
-    "deadline_precision": "month",
-    "category": "Robotics & AI"
-  },
-  {
     "name": "[RTCSA 2027](https://rtcsa2027.github.io/)",
     "type": "conference",
     "status": "upcoming",
@@ -1824,5 +1824,38 @@
     "deadline": "2027-03-25",
     "deadline_precision": "month",
     "category": "Real-Time Systems"
+  },
+  {
+    "name": "[TAROS 2027](https://taros-conference.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "28th Towards Autonomous Robotic Systems. Details for the 2027 edition not yet announced; deadline predicted from TAROS 2026.",
+    "deadline": "2027-04-10",
+    "deadline_precision": "month",
+    "category": "Robotics & AI"
+  },
+  {
+    "name": "[DSD 2027](https://dsd-seaa.com/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "30th Euromicro Conference on Digital System Design, co-located with SEAA 2027. Details for the 2027 edition not yet announced; deadline predicted from DSD 2026.",
+    "deadline": "2027-06-01",
+    "deadline_precision": "month",
+    "category": "Design Automation"
+  },
+  {
+    "name": "[ECCV 2028](https://eccv.ecva.net/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "European Conference on Computer Vision. ECCV is biennial and held in even years, so the next edition follows ECCV 2026. Details not yet announced; deadline predicted from ECCV 2026 plus two years.",
+    "deadline": "2028-03-05",
+    "deadline_precision": "month",
+    "category": "AI"
   }
 ]
