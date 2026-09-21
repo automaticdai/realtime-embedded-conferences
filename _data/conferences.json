@@ -1663,7 +1663,7 @@
   {
     "name": "[DATE 2027](https://www.date-conference.com/date-2027-call-papers)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Dresden, Germany",
     "when": "March 22-24, 2027",
     "remarks": "30th Design, Automation and Test in Europe Conference.\n- Paper registration (title, abstract, co-authors): September 13, 2026 (AoE)\n- Final paper submission: September 20, 2026 (AoE)",
@@ -1705,14 +1705,14 @@
     "category": "Real-Time Systems"
   },
   {
-    "name": "[HSCC/ICCPS 2027](https://cps-iot-week.org/)",
+    "name": "[HSCC/ICCPS 2027](https://hscc-iccps2027.taylortjohnson.com/)",
     "type": "conference",
     "status": "upcoming",
     "where": "Boulder, Colorado, USA",
     "when": "May 17-20, 2027",
-    "remarks": "Hybrid Systems: Computation and Control / International Conference on Cyber-Physical Systems, part of CPS-IoT Week 2027.\n- Deadline predicted from HSCC/ICCPS 2026; call for papers not yet announced.",
-    "deadline": "2026-11-13",
-    "deadline_precision": "month",
+    "remarks": "ACM/IEEE International Conference on Cyber-Physical and Autonomous Systems (HSCC+ICCPS), part of CPS-IoT Week 2027. HSCC and ICCPS are fully merged from 2027 into one conference with three tracks: Foundations, Systems and Applications, and AI-enabled Autonomy. Deadlines close at 23:59:59 AoE.\n- Abstract registration deadline: October 29, 2026\n- Paper submission deadline: November 5, 2026\n- Author response period: January 11-15, 2027\n- Notification: January 28, 2027\n- Poster/demo submission: February 11, 2027 (tentative)\n- Camera-ready: March 30, 2027 (tentative)",
+    "deadline": "2026-11-05",
+    "deadline_precision": "day",
     "category": "Real-Time Systems"
   },
   {
