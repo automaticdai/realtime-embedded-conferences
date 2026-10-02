@@ -1509,7 +1509,7 @@
   {
     "name": "[IROS 2026](https://2026.ieee-iros.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Pittsburgh, Pennsylvania, USA",
     "when": "Sep 27 - Oct 1, 2026",
     "remarks": "- Paper submission deadline: March 2, 2026\n- Video submission: March 7, 2026\n- Workshop/Tutorial proposals: March 16, 2026\n- Acceptance notification: June 16, 2026\n- Final paper: July 10, 2026",
@@ -1749,6 +1749,17 @@
     "category": "Design Automation"
   },
   {
+    "name": "[RSS 2027](https://roboticsconference.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Athens, Greece",
+    "when": "July 6-11, 2027",
+    "remarks": "Robotics: Science and Systems 2027. The [official CFP](https://roboticsconference.org/information/cfp/) introduces a two-stage process; the required initial submission is a six-page extended abstract. All submission deadlines are 23:59 AoE.\n- Initial extended abstract submission: December 4, 2026\n- Stage 1 decision: February 5, 2027\n- Rebuttal: February 12, 2027\n- Stage 2 invitation: February 26, 2027\n- Invited final paper submission: April 16, 2027\n- Supplementary material: April 19, 2027\n- Acceptance notification: April 30, 2027\n- Camera-ready: May 14, 2027",
+    "deadline": "2026-12-04",
+    "deadline_precision": "day",
+    "category": "Robotics"
+  },
+  {
     "name": "[Ada-Europe 2027](https://www.ada-europe.org/conference2027/)",
     "type": "conference",
     "status": "upcoming",
@@ -1758,17 +1769,6 @@
     "deadline": "2027-01-25",
     "deadline_precision": "day",
     "category": "Embedded Systems"
-  },
-  {
-    "name": "[RSS 2027](https://roboticsconference.org/)",
-    "type": "conference",
-    "status": "upcoming",
-    "where": "Athens, Greece",
-    "when": "July 6-11, 2027",
-    "remarks": "Robotics: Science and Systems 2027. Location and dates confirmed via the official website; call for papers not yet announced.\n- Deadline predicted from RSS 2026.",
-    "deadline": "2027-01-30",
-    "deadline_precision": "month",
-    "category": "Robotics"
   },
   {
     "name": "RAGE 2027",
@@ -1785,12 +1785,23 @@
     "name": "[ECRTS 2027](https://www.ecrts.org/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
+    "where": "Prague, Czech Republic",
     "when": "(TBD)",
-    "remarks": "39th Euromicro Conference on Real-Time Systems. Details for the 2027 edition not yet announced; deadline predicted from ECRTS 2026.",
+    "remarks": "39th Euromicro Conference on Real-Time Systems. Location announced by ECRTS and [host institute CIIRC](https://www.linkedin.com/posts/ciirc_ecrts-is-coming-to-czechia-in-2027-with-activity-7488159158664544257-x1OG); event dates and call for papers not yet announced.\n- Deadline predicted from ECRTS 2026.",
     "deadline": "2027-02-26",
     "deadline_precision": "month",
     "category": "Real-Time Systems"
+  },
+  {
+    "name": "[IROS 2027](https://2027.ieee-iros.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "Florence, Italy",
+    "when": "Sep 26 - Oct 1, 2027",
+    "remarks": "IEEE/RSJ International Conference on Intelligent Robots and Systems, at Fortezza da Basso. Dates, venue and submission deadline confirmed by [IEEE RAS](https://www.ieee-ras.org/event/2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-70525/).\n- Paper submission: March 1, 2027",
+    "deadline": "2027-03-01",
+    "deadline_precision": "day",
+    "category": "Robotics"
   },
   {
     "name": "[RO-MAN 2027](https://ro-man2027.ca/)",
@@ -1840,9 +1851,9 @@
     "name": "[DSD 2027](https://dsd-seaa.com/)",
     "type": "conference",
     "status": "upcoming",
-    "where": "(TBD)",
+    "where": "Graz, Austria",
     "when": "(TBD)",
-    "remarks": "30th Euromicro Conference on Digital System Design, co-located with SEAA 2027. Details for the 2027 edition not yet announced; deadline predicted from DSD 2026.",
+    "remarks": "30th Euromicro Conference on Digital System Design, co-located with SEAA 2027 at TU Graz. The [host university calendar](https://online.tugraz.at/tug_online/vag.veranstaltungen?corg=2337) lists planned bookings for August 31 - September 3; the [Graz congress calendar](https://www.graztourismus.at/kongress/en/congress-calendar/dsd-seaa-2027_ccd_11860) lists September 1-3. Final conference dates await confirmation.\n- Deadline predicted from DSD 2026; call for papers not yet announced.",
     "deadline": "2027-06-01",
     "deadline_precision": "month",
     "category": "Design Automation"
