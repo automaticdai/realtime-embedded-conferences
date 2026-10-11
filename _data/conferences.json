@@ -1575,7 +1575,7 @@
   {
     "name": "[ESWEEK 2026](https://esweek.org/)",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Barcelona, Spain",
     "when": "October 4-9, 2026",
     "remarks": "Includes EMSOFT, CASES, CODES+ISSS, MEMOCODE.\n- Journal Track Abstract: March 23, 2026 (AoE)\n- Journal Track Full Paper: March 30, 2026 (AoE, firm)\n- First Round Notification: May 22, 2026\n- Late Breaking Track: June 5, 2026 (AoE, firm)\n- Revised papers: June 19, 2026\n- Final Notification: July 17, 2026\n- Camera-ready: August 17, 2026",
@@ -1674,7 +1674,7 @@
   {
     "name": "[AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/)",
     "type": "conference",
-    "status": "upcoming",
+    "status": "deadline_passed",
     "where": "Hanoi, Vietnam",
     "when": "May 3-7, 2027",
     "remarks": "26th International Conference on Autonomous Agents and Multiagent Systems, at the JW Marriott Hotel, Hanoi. All deadlines AoE (UTC-12).\n- Abstract submission: Oct 1, 2026\n- Paper submission: Oct 8, 2026\n- Rebuttal period: Nov 20-24, 2026\n- Author notification: Dec 21, 2026\n- Camera-ready: Jan 25, 2027\n- Blue Sky Ideas track: abstract Nov 5, 2026, paper Nov 12, 2026",
@@ -1786,8 +1786,8 @@
     "type": "conference",
     "status": "upcoming",
     "where": "Prague, Czech Republic",
-    "when": "(TBD)",
-    "remarks": "39th Euromicro Conference on Real-Time Systems. Location announced by ECRTS and [host institute CIIRC](https://www.linkedin.com/posts/ciirc_ecrts-is-coming-to-czechia-in-2027-with-activity-7488159158664544257-x1OG); event dates and call for papers not yet announced.\n- Deadline predicted from ECRTS 2026.",
+    "when": "July 13-16, 2027",
+    "remarks": "39th Euromicro Conference on Real-Time Systems, held as a physical conference. Location announced by ECRTS and [host institute CIIRC](https://www.linkedin.com/posts/ciirc_ecrts-is-coming-to-czechia-in-2027-with-activity-7488159158664544257-x1OG); dates confirmed on the official site, venue and call for papers not yet announced.\n- Deadline predicted from ECRTS 2026.",
     "deadline": "2027-02-26",
     "deadline_precision": "month",
     "category": "Real-Time Systems"
@@ -1835,6 +1835,17 @@
     "deadline": "2027-03-25",
     "deadline_precision": "month",
     "category": "Real-Time Systems"
+  },
+  {
+    "name": "[ESWEEK 2027](https://esweek.org/)",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "Embedded Systems Week, including EMSOFT, CASES, CODES+ISSS, MEMOCODE.\n- Deadline predicted from ESWEEK 2026; call for papers not yet announced.",
+    "deadline": "2027-03-30",
+    "deadline_precision": "month",
+    "category": "Embedded Systems"
   },
   {
     "name": "[TAROS 2027](https://taros-conference.org/)",
