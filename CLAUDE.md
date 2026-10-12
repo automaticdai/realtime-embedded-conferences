@@ -39,7 +39,7 @@ Only edit `_data/conferences.json`. The file at `assets/data/conferences.json` i
   "remarks": "Description text.\n- Important date 1\n- Important date 2",
   "deadline": "YYYY-MM-DD",
   "deadline_precision": "day|month|year",
-  "category": "Real-Time Systems|Embedded Systems|Design Automation|Robotics|Robotics & AI|AI"
+  "category": "Real-Time Systems|Embedded Systems|Design Automation|Robotics & Learning|AI & CV"
 }
 ```
 

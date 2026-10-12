@@ -19,7 +19,7 @@
     "remarks": "Notification of acceptance: May 10, 2021",
     "deadline": "2021-03-01",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ECRTS 2021](https://www.ecrts.org/)",
@@ -41,7 +41,7 @@
     "remarks": "",
     "deadline": "2021-03-05",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021)",
@@ -107,7 +107,7 @@
     "remarks": "Author Notification: July 1, 2021",
     "deadline": "2021-05-28",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ICESS 2021](http://icess.net/2021/)",
@@ -129,7 +129,7 @@
     "remarks": "Notification of acceptance: Jan 31, 2022",
     "deadline": "2021-09-09",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[DATE 2022](https://www.date-conference.com/)",
@@ -195,7 +195,7 @@
     "remarks": "",
     "deadline": "2022-01-28",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ECRTS 2022](https://www.ecrts.org/)",
@@ -250,7 +250,7 @@
     "remarks": "Submission deadline with RA-letter option: Feb 24, 2022",
     "deadline": "2022-03-01",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[RTNS 2022](https://rtns2022.inria.fr/)",
@@ -283,7 +283,7 @@
     "remarks": "Author Notification: May 30, 2022 Camera Ready: June 15, 2022",
     "deadline": "2022-03-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[RAGE 2022](https://rage2022.github.io/)",
@@ -382,7 +382,7 @@
     "remarks": "Abstract submission: May 16, 2022",
     "deadline": "2022-05-19",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "AI & CV"
   },
   {
     "name": "[NOCS 2022](https://esweek.org/nocs/)",
@@ -404,7 +404,7 @@
     "remarks": "Confirmation of acceptance: June 10th, 2022",
     "deadline": "2022-05-20",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ICCAD 2022](https://iccad.com/)",
@@ -448,7 +448,7 @@
     "remarks": "",
     "deadline": "2022-06-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[WMC 2022](https://wmc2022.github.io/)",
@@ -470,7 +470,7 @@
     "remarks": "Notification of paper acceptance: 31 Jan, 2023",
     "deadline": "2022-09-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/)",
@@ -558,7 +558,7 @@
     "remarks": "",
     "deadline": "2023-02-03",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ISORC 2024](https://isorc.github.io/2024/)",
@@ -624,7 +624,7 @@
     "remarks": "The theme of IROS 2023 is “*The Next Generation of Robotics*,” so the conference aims to particularly highlight the contributions of younger researchers and to help accelerate the future contributions of all those just entering the field. Note: IROS no longer offers an RA-L + IROS submission option. Papers accepted at RA-L, T-RO, RAM, and T-ASE between August 1, 2022, and April 30, 2023 will be given the option to present at IROS2023. **Author Notification**: June 30, 2023",
     "deadline": "2023-03-01",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ISORC 2023](https://isorc.github.io/2023/)",
@@ -690,7 +690,7 @@
     "remarks": "**Important Dates:** - Submission Deadline: March 17, 2023 - Notification of Acceptance: May 26, 2023 - Camera-Ready Deadline: June 30, 2023 - LBR Paper Submission: June 2, 2023 - LBR Acceptance Notification: June 30, 2023",
     "deadline": "2023-03-31",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[RTCSA 2023](https://rtcsa2023.github.io/)",
@@ -800,7 +800,7 @@
     "remarks": "",
     "deadline": "2023-09-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[OPERA 2023](https://opera23.di.unito.it/)",
@@ -888,7 +888,7 @@
     "remarks": "Acceptance notification: May 15, 2024",
     "deadline": "2024-02-23",
     "deadline_precision": "day",
-    "category": "Robotics"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ECRTS 2024](https://www.ecrts.org/)",
@@ -910,7 +910,7 @@
     "remarks": "",
     "deadline": "2024-03-01",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ESWEEK 2024](https://esweek.org/)",
@@ -943,7 +943,7 @@
     "remarks": "Author Notification: June 15, 2024 Final submission: June 30, 2024 Conference: August 21-23, 2024",
     "deadline": "2024-05-12",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[OSPERT 2024](https://www.ecrts.org/workshops/ospert24/)",
@@ -1053,7 +1053,7 @@
     "remarks": "**Important Dates:** - Submissions Open: July 15th, 2024 - Submission Deadline: October 15th, 2024 - Acceptance Notification: October 31st, 2024 - Competitions: May 19th – May 23rd, 2025",
     "deadline": "2024-09-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[DATE 2025](https://www.date-conference.com/)",
@@ -1185,7 +1185,7 @@
     "remarks": "Abstract deadline: Feb 28, 2025",
     "deadline": "2025-02-28",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[IROS 2025](http://www.iros25.org/)",
@@ -1196,7 +1196,7 @@
     "remarks": "- Author notification: Jun 30, 2025",
     "deadline": "2025-03-01",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[RO-MAN 2025](https://www.ro-man2025.org/)",
@@ -1207,7 +1207,7 @@
     "remarks": "- Notification of Acceptance: May 10, 2025",
     "deadline": "2025-03-20",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ESWEEK 2025](https://esweek.org/)",
@@ -1240,7 +1240,7 @@
     "remarks": "Abstract deadline: Apr 23, 2025",
     "deadline": "2025-04-30",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[RTAutoSec 2025](https://www.ecrts.org/rtautosec-2025/)",
@@ -1273,7 +1273,7 @@
     "remarks": "Abstract deadline: May 11, 2025",
     "deadline": "2025-05-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "AI & CV"
   },
   {
     "name": "[OSPERT 2025](https://www.ecrts.org/workshops/ospert25/)",
@@ -1372,7 +1372,7 @@
     "remarks": "",
     "deadline": "2025-09-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[AAMAS 2026](https://cyprusconferences.org/aamas2026/)",
@@ -1383,7 +1383,7 @@
     "remarks": "25th International Conference on Autonomous Agents and Multiagent Systems.\n- Author notification: Dec 22, 2025\n- Camera-ready: Feb 11, 2026",
     "deadline": "2025-10-08",
     "deadline_precision": "day",
-    "category": "AI"
+    "category": "AI & CV"
   },
   {
     "name": "[RTAS 2026](https://2026.rtas.org/)",
@@ -1405,7 +1405,7 @@
     "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026.\n- Abstract: Nov 7, 2025 (extended)\n- Paper: Nov 13, 2025 (firm)",
     "deadline": "2025-11-13",
     "deadline_precision": "day",
-    "category": "AI"
+    "category": "AI & CV"
   },
   {
     "name": "[HSCC/ICCPS 2026](https://hscc.acm.org/2026/)",
@@ -1449,7 +1449,7 @@
     "remarks": "Robot Science and Systems 2026.\n- Abstract/Title deadline: January 23, 2026\n- Paper submission: January 30, 2026\n- Supplementary materials: February 6, 2026\n- Rebuttal: April 3, 2026\n- Acceptance notification: April 27, 2026",
     "deadline": "2026-01-30",
     "deadline_precision": "day",
-    "category": "Robotics"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[TAROS 2026](https://taros-conference.org/)",
@@ -1460,7 +1460,7 @@
     "remarks": "27th Towards Autonomous Robotic Systems.\n- Paper submission: April 10, 2026\n- Poster abstract: May 5, 2026\n- Notification: May 19, 2026\n- Camera-ready: June 16, 2026",
     "deadline": "2026-04-10",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[RTNS 2026](https://rtns-conference.org/)",
@@ -1515,7 +1515,7 @@
     "remarks": "- Paper submission deadline: March 2, 2026\n- Video submission: March 7, 2026\n- Workshop/Tutorial proposals: March 16, 2026\n- Acceptance notification: June 16, 2026\n- Final paper: July 10, 2026",
     "deadline": "2026-03-02",
     "deadline_precision": "day",
-    "category": "Robotics"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ISORC 2026](https://mcscert.github.io/isorc2026/)",
@@ -1537,7 +1537,7 @@
     "remarks": "European Conference on Computer Vision 2026.\n- Paper submission: March 5, 2026, 11:00 PM CET\n- Supplemental materials: March 12, 2026\n- Reviews released: May 2, 2026\n- Rebuttal: May 11, 2026\n- Final decisions: June 17, 2026\n- Camera-ready: June 26, 2026",
     "deadline": "2026-03-05",
     "deadline_precision": "day",
-    "category": "AI"
+    "category": "AI & CV"
   },
   {
     "name": "[RTCSA 2026](https://rtcsa2026.github.io/)",
@@ -1570,7 +1570,7 @@
     "remarks": "- Notification of Acceptance: May 29, 2026\n- Dates are tentative",
     "deadline": "2026-03-15",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ESWEEK 2026](https://esweek.org/)",
@@ -1603,7 +1603,7 @@
     "remarks": "Neural Information Processing Systems. Held at three satellite locations (Sydney Dec 6-12, Atlanta Dec 8-13, Paris Dec 9-13).\n- Abstract submission: May 4, 2026 (AoE)\n- Full paper submission: May 6, 2026 (AoE)\n- Author notification: Sep 24, 2026",
     "deadline": "2026-05-06",
     "deadline_precision": "day",
-    "category": "AI"
+    "category": "AI & CV"
   },
   {
     "name": "[DSD 2026](https://dsd-seaa.com/)",
@@ -1636,7 +1636,7 @@
     "remarks": "Conference on Robot Learning.\n- Abstract deadline: May 25, 2026\n- Paper submission: May 28, 2026 (AoE)",
     "deadline": "2026-05-28",
     "deadline_precision": "day",
-    "category": "Robotics"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[ICCD 2026](https://www.iccd-conf.com/home.html)",
@@ -1658,7 +1658,7 @@
     "remarks": "IEEE International Conference on Robotics and Automation, at the COEX Convention & Exhibition Center.\n- Paper submission deadline: ~~September 15, 2026~~ → September 16, 2026 (23:59 PST, extended)\n- Accompanying videos: Aug 5 - Sep 9, 2026 and Sep 17-22, 2026 (23:59 PST)\n- Journal paper transfer: December 31, 2026\n- Notification of acceptance: January 31, 2027\n- Final submission opens: February 6, 2027\n- Author registration: March 5, 2027",
     "deadline": "2026-09-16",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[DATE 2027](https://www.date-conference.com/date-2027-call-papers)",
@@ -1680,7 +1680,7 @@
     "remarks": "26th International Conference on Autonomous Agents and Multiagent Systems, at the JW Marriott Hotel, Hanoi. All deadlines AoE (UTC-12).\n- Abstract submission: Oct 1, 2026\n- Paper submission: Oct 8, 2026\n- Rebuttal period: Nov 20-24, 2026\n- Author notification: Dec 21, 2026\n- Camera-ready: Jan 25, 2027\n- Blue Sky Ideas track: abstract Nov 5, 2026, paper Nov 12, 2026",
     "deadline": "2026-10-08",
     "deadline_precision": "day",
-    "category": "AI"
+    "category": "AI & CV"
   },
   {
     "name": "[ISORC 2027](https://isorc-conference.org/)",
@@ -1724,7 +1724,7 @@
     "remarks": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2027. Workshops and tutorials June 20-21; main conference June 22-25. All deadlines AoE (UTC-12).\n- Paper registration: November 10, 2026\n- Paper submission: November 16, 2026\n- Supplementary materials: November 23, 2026\n- Reviews released: January 25, 2027\n- Final decisions: February 25, 2027",
     "deadline": "2026-11-16",
     "deadline_precision": "day",
-    "category": "AI"
+    "category": "AI & CV"
   },
   {
     "name": "[DAC 2027](https://www.dac.com/)",
@@ -1757,7 +1757,7 @@
     "remarks": "Robotics: Science and Systems 2027. The [official CFP](https://roboticsconference.org/information/cfp/) introduces a two-stage process; the required initial submission is a six-page extended abstract. All submission deadlines are 23:59 AoE.\n- Initial extended abstract submission: December 4, 2026\n- Stage 1 decision: February 5, 2027\n- Rebuttal: February 12, 2027\n- Stage 2 invitation: February 26, 2027\n- Invited final paper submission: April 16, 2027\n- Supplementary material: April 19, 2027\n- Acceptance notification: April 30, 2027\n- Camera-ready: May 14, 2027",
     "deadline": "2026-12-04",
     "deadline_precision": "day",
-    "category": "Robotics"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[Ada-Europe 2027](https://www.ada-europe.org/conference2027/)",
@@ -1801,7 +1801,7 @@
     "remarks": "IEEE/RSJ International Conference on Intelligent Robots and Systems, at Fortezza da Basso. Dates, venue and submission deadline confirmed by [IEEE RAS](https://www.ieee-ras.org/event/2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-70525/).\n- Paper submission: March 1, 2027",
     "deadline": "2027-03-01",
     "deadline_precision": "day",
-    "category": "Robotics"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[RO-MAN 2027](https://ro-man2027.ca/)",
@@ -1812,7 +1812,7 @@
     "remarks": "36th IEEE International Conference on Robot and Human Interactive Communication, hosted at the University of Waterloo. Theme: Human-Robot Collaboration. Double-anonymized review; the paper deadline is strict and will not be extended.\n- Special session proposals: January 15, 2027\n- Workshop and tutorial proposals: February 1, 2027\n- Regular and special session papers: March 7, 2027\n- Acceptance notification: May 7, 2027\n- Late breaking reports: June 1, 2027",
     "deadline": "2027-03-07",
     "deadline_precision": "day",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[LCTES 2027](https://conf.researchr.org/series/LCTES)",
@@ -1856,7 +1856,7 @@
     "remarks": "28th Towards Autonomous Robotic Systems. Details for the 2027 edition not yet announced; deadline predicted from TAROS 2026.",
     "deadline": "2027-04-10",
     "deadline_precision": "month",
-    "category": "Robotics & AI"
+    "category": "Robotics & Learning"
   },
   {
     "name": "[DSD 2027](https://dsd-seaa.com/)",
@@ -1878,6 +1878,6 @@
     "remarks": "European Conference on Computer Vision. ECCV is biennial and held in even years, so the next edition follows ECCV 2026. Details not yet announced; deadline predicted from ECCV 2026 plus two years.",
     "deadline": "2028-03-05",
     "deadline_precision": "month",
-    "category": "AI"
+    "category": "AI & CV"
   }
 ]
