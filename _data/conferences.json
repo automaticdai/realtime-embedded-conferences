@@ -1430,6 +1430,17 @@
     "category": "Design Automation"
   },
   {
+    "name": "[NG-RES 2026](https://ng-res.deib.polimi.it/past-editions/2026/index.php)",
+    "type": "workshop",
+    "status": "archived",
+    "where": "Kraków, Poland",
+    "when": "Jan 28, 2026",
+    "remarks": "Workshop on Next Generation Real-Time Embedded Systems, co-located with HiPEAC 2026.\n- Paper submission: ~~November 18, 2025~~ → December 1, 2025 (AoE)\n- Acceptance notification: December 17, 2025\n- Camera-ready: December 31, 2025",
+    "deadline": "2025-12-01",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
+  },
+  {
     "name": "[MOST 2026](https://ieeemobility.org/MOST2026/)",
     "type": "conference",
     "status": "archived",
@@ -1650,6 +1661,17 @@
     "category": "Design Automation"
   },
   {
+    "name": "ICESS 2026",
+    "type": "conference",
+    "status": "deadline_passed",
+    "where": "Luoyang, China",
+    "when": "Oct 29-30, 2026 (tentative)",
+    "remarks": "22nd IEEE International Conference on Embedded Software and Systems. Details sourced only from conference aggregators ([myhuiban](https://www.myhuiban.com/conference/1354?lang=en-us), [aconf](https://www.aconf.org/conf_185571.html)), which disagree on the exact dates; needs confirmation from an official source.\n- Paper submission: July 15, 2026\n- Notification: September 10, 2026",
+    "deadline": "2026-07-15",
+    "deadline_precision": "day",
+    "category": "Embedded Systems"
+  },
+  {
     "name": "[ICRA 2027](https://2027.ieee-icra.org/)",
     "type": "conference",
     "status": "deadline_passed",
@@ -1683,13 +1705,24 @@
     "category": "AI & CV"
   },
   {
+    "name": "[GAIRS 2026](https://www.cs.cityu.edu.hk/~nanguan/gairs/)",
+    "type": "workshop",
+    "status": "deadline_passed",
+    "where": "Yokohama, Japan",
+    "when": "Dec 8, 2026",
+    "remarks": "Generative AI for Real-Time Scheduling Research, a community workshop at the RTSS 2026 Hot Topics Day.\n- Submission: October 9, 2026 (tentative)\n- Notification: October 23, 2026 (tentative)",
+    "deadline": "2026-10-09",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
+  },
+  {
     "name": "[ISORC 2027](https://isorc-conference.org/)",
     "type": "conference",
     "status": "upcoming",
     "where": "IIT Ropar, Punjab, India",
     "when": "April 7-9, 2027",
-    "remarks": "30th IEEE International Symposium on Real-Time Distributed Computing, hosted at IIT Ropar.\n- Paper submission: October 15, 2026\n- Acceptance notification: December 1, 2026\n- Camera-ready: January 2027 (tentative)",
-    "deadline": "2026-10-15",
+    "remarks": "30th IEEE International Symposium on Real-Time Distributed Computing, hosted at IIT Ropar.\n- Paper submission: ~~October 16, 2026~~ → October 31, 2026 (AoE, extended)\n- Acceptance notification: December 1, 2026\n- Author registration: January 2027\n- Camera-ready: January 2027 (tentative)",
+    "deadline": "2026-10-31",
     "deadline_precision": "day",
     "category": "Embedded Systems"
   },
@@ -1716,6 +1749,17 @@
     "category": "Real-Time Systems"
   },
   {
+    "name": "[NG-RES 2027](https://ng-res.deib.polimi.it/index.php)",
+    "type": "workshop",
+    "status": "upcoming",
+    "where": "Glasgow, UK",
+    "when": "Jan 20, 2027",
+    "remarks": "8th Workshop on Next Generation Real-Time Embedded Systems, co-located with HiPEAC 2027.\n- Paper submission: November 15, 2026 (AoE)\n- Acceptance notification: December 17, 2026\n- Camera-ready: December 31, 2026",
+    "deadline": "2026-11-15",
+    "deadline_precision": "day",
+    "category": "Real-Time Systems"
+  },
+  {
     "name": "[CVPR 2027](https://cvpr.thecvf.com/Conferences/2027)",
     "type": "conference",
     "status": "upcoming",
@@ -1725,6 +1769,17 @@
     "deadline": "2026-11-16",
     "deadline_precision": "day",
     "category": "AI & CV"
+  },
+  {
+    "name": "[OPERA 2026](https://2026.rtss.org/htd/opera/)",
+    "type": "workshop",
+    "status": "upcoming",
+    "where": "Yokohama, Japan",
+    "when": "Dec 8, 2026",
+    "remarks": "4th Workshop on OPtimization for Embedded and ReAl-time systems, at the RTSS 2026 Hot Topics Day. Submissions are rolling; the listed deadline is the camera-ready date for papers already submitted.\n- Notification: October 23, 2026 for papers already submitted, rolling for late-breaking papers\n- Camera-ready: November 20, 2026 for papers already submitted, rolling for late-breaking papers",
+    "deadline": "2026-11-20",
+    "deadline_precision": "day",
+    "category": "Design Automation"
   },
   {
     "name": "[DAC 2027](https://www.dac.com/)",
