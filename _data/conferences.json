@@ -1663,7 +1663,7 @@
   {
     "name": "ICESS 2026",
     "type": "conference",
-    "status": "deadline_passed",
+    "status": "archived",
     "where": "Luoyang, China",
     "when": "Oct 29-30, 2026 (tentative)",
     "remarks": "22nd IEEE International Conference on Embedded Software and Systems. Details sourced only from conference aggregators ([myhuiban](https://www.myhuiban.com/conference/1354?lang=en-us), [aconf](https://www.aconf.org/conf_185571.html)), which disagree on the exact dates; needs confirmation from an official source.\n- Paper submission: July 15, 2026\n- Notification: September 10, 2026",
@@ -1923,6 +1923,17 @@
     "deadline": "2027-06-01",
     "deadline_precision": "month",
     "category": "Design Automation"
+  },
+  {
+    "name": "ICESS 2027",
+    "type": "conference",
+    "status": "upcoming",
+    "where": "(TBD)",
+    "when": "(TBD)",
+    "remarks": "23rd IEEE International Conference on Embedded Software and Systems. Details for the 2027 edition not yet announced.\n- Deadline predicted from ICESS 2026; call for papers not yet announced.",
+    "deadline": "2027-07-15",
+    "deadline_precision": "month",
+    "category": "Embedded Systems"
   },
   {
     "name": "[ECCV 2028](https://eccv.ecva.net/)",
